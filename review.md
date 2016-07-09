@@ -90,7 +90,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 # References
 
-	<pre>
+<pre>
     @Article{<b id="poon2011">Poon2011</b>,
              Title = {{Sum-Product Network: a New Deep Architecture}},
 			 Author = {Hoifung Poon and Pedro Domingos},
@@ -99,4 +99,4 @@ Sorted by [year](#year) or [topics](#topics)
              Owner = {valerio},
 			 Timestamp = {2015.01.10}
     }
-	</pre>
+</pre>
