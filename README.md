@@ -473,24 +473,3 @@ _Wang, Jinghua and Wang, Gang_
 arXiv:1511.05292
 </p>
 
-
-<!--
-<pre>
-    @InProceedings{Delalleau2011,
-      Title                    = {Shallow vs. Deep Sum-Product Networks.},
-      Author                   = {Delalleau, Olivier and Bengio, Yoshua},
-      Booktitle                = {Advances in Neural Information Processing Systems},
-      Year                     = {2011},
-      Editor                   = {Shawe-Taylor, John and Zemel, Richard S. and Bartlett, Peter L. and Pereira, Fernando C. N. and Weinberger, Kilian Q.},
-	  Pages                    = {666-674}
-   }
-</pre>
-<pre>
-    @Article{<b id="poon2011">Poon2011</b>,
-             Title = {{Sum-Product Network: a New Deep Architecture}},
-			 Author = {Hoifung Poon and Pedro Domingos},
-			 Journal = {NIPS 2010 Workshop on Deep Learning and Unsupervised Feature Learning},
-			 Year = {2011},
-            }
-</pre>
--->
