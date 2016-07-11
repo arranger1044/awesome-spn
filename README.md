@@ -12,7 +12,7 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Peharz2016](#peharz2016)]
      [**On the Latent Variable Interpretation in Sum-Product Networks**](http://arxiv.org/abs/1601.06180)
      *arXiv* [`theory`](#theory)	 [`weight-learning`](#weight-learning)
-   - [[Zaho2016b](#zaho2016b)]
+   - [[Zhao2016b](#zhao2016b)]
        [**A unified approach for learning the parameters of sum-product networks**](http://arxiv.org/abs/1601.00318)
        *arXiv* [`weight-learning`](#weight-learning)
    - [[Rahman2016](#rahman2016)]
@@ -21,7 +21,7 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Friesen2016](#friesen2016)]
      [**The Sum-Product Theorem: A Foundation for Learning Tractable Models**](http://homes.cs.washington.edu/~pedrod/papers/mlc16.pdf)
      *ICML2016* [`theory`](#theory)
-   - [[Zaho2016a](#zaho2016a)]
+   - [[Zhao2016a](#zhao2016a)]
      [**Collapsed Variational Inference for Sum-Product Networks**](http://jmlr.org/proceedings/papers/v48/zhaoa16.pdf)
      *ICML2016*	 [`weight-learning`](#weight-learning)
    - [[Rashwan2016](#rashwan2016)]
@@ -153,9 +153,9 @@ Sorted by [year](#year) or [topics](#topics)
 ### Weight Learning
    - [[Desana2016](#desana2016)]
      [**Expectation Maximization for Sum-Product Networks as Exponential Family Mixture Models**](http://arxiv.org/abs/1604.07243) `EM`
-   - [[Zaho2016b](#zaho2016b)]
+   - [[Zhao2016b](#zhao2016b)]
        [**A unified approach for learning the parameters of sum-product networks**](http://arxiv.org/abs/1601.00318)
-   - [[Zaho2016a](#zaho2016a)]
+   - [[Zhao2016a](#zhao2016a)]
      [**Collapsed Variational Inference for Sum-Product Networks**](http://jmlr.org/proceedings/papers/v48/zhaoa16.pdf) `non-parametrics`
    - [[Rashwan2016](#rashwan2016)]
   [**Online and Distributed Bayesian Moment Matching for Parameter Learning in Sum-Product Networks**](http://www.jmlr.org/proceedings/papers/v51/rashwan16.pdf)
