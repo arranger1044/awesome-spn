@@ -272,204 +272,244 @@ Sorted by [year](#year) or [topics](#topics)
 # References
 
 * <p id="adel2015">
-_Adel, Tameem and Balduzzi, David and Ghodsi, Ali_
-**Learning the Structure of Sum-Product Networks via an SVD-based Algorithm**
+[Adel2015]<br/>
+_Adel, Tameem and Balduzzi, David and Ghodsi, Ali_<br/>
+**Learning the Structure of Sum-Product Networks via an SVD-based Algorithm**<br/>
 Uncertainty in Artificial Intelligence 2015
 </p>
 * <p id="amer2012">
-_Amer, Mohamed and Todorovic, Sinisa_
-**Sum-Product Networks for Modeling Activities with Stochastic Structure**
+[Amer2012]<br/>
+_Amer, Mohamed and Todorovic, Sinisa_<br/>
+**Sum-Product Networks for Modeling Activities with Stochastic Structure**<br/>
 2012 IEEE Conference on CVPR
 </p>
 * <p id="amer2015">
-_Amer, Mohamed and Todorovic, Sinisa_
-**Sum Product Networks for Activity Recognition**
-IEEE Transactions on Pattern Analysis and Machine Intelligence 
+[Amer2015]<br/>
+_Amer, Mohamed and Todorovic, Sinisa_<br/>
+**Sum Product Networks for Activity Recognition**<br/>
+IEEE Transactions on Pattern Analysis and Machine Intelligence<br/> 
 </p>
 * <p id="cheng2014">
-_Cheng, Wei-Chen and Kok, Stanley and Pham, Hoai Vu and Chieu, Hai
-Leong and Chai, Kian Ming Adam_
-**Language modeling with Sum-Product Networks**
+[Cheng2014]<br/>
+_Cheng, Wei-Chen and Kok, Stanley and Pham, Hoai Vu and Chieu, Hai Leong and Chai, Kian Ming Adam_<br/>
+**Language modeling with Sum-Product Networks**<br/>
 INTERSPEECH 2014
 </p>
 * <p id="dellaleau2011">
-_Delalleau, Olivier and Bengio, Yoshua_
-**Shallow vs. Deep Sum-Product Networks**
+[Dellaleau2011]<br/>
+_Delalleau, Olivier and Bengio, Yoshua_<br/>
+**Shallow vs. Deep Sum-Product Networks**<br/>
 Advances in Neural Information Processing Systems 2011.
 </p>
 * <p id="dennis2012">
-_Dennis, Aaron and Ventura, Dan_
-**Learning the Architecture of Sum-Product Networks Using Clustering on Varibles**
-Advances in Neural Information Processing Systems 25
+[Dennis2012]<br/>
+_Dennis, Aaron and Ventura, Dan_<br/>
+**Learning the Architecture of Sum-Product Networks Using Clustering on Varibles**<br/>
+Advances in Neural Information Processing Systems 25<br/>
 </p>
 * <p id="dennis2015">
-_Dennis, Aaron and Ventura, Dan_
-**Greedy Structure Search for Sum-product Networks**
+[Dennis2015]<br/>
+_Dennis, Aaron and Ventura, Dan_<br/>
+**Greedy Structure Search for Sum-product Networks**<br/>
 International Joint Conference on Artificial Intelligence 2015
 </p>
 * <p id="desana2016">
-_Desana, Mattia and Schn{\"{o}}rr Christoph_
-**Expectation Maximization for Sum-Product Networks as Exponential Family**
+[Desana2016]<br/>
+_Desana, Mattia and Schn{\"{o}}rr Christoph_<br/>
+**Expectation Maximization for Sum-Product Networks as Exponential Family**<br/>
 arxiv.org/abs/1604.07243
 </p>
 * <p id="friesen2015">
-_Friesen, Abram L and Domingos, Pedro_
-**Recursive Decomposition for Nonconvex Optimization**
+[Friesen2015]<br/>
+_Friesen, Abram L and Domingos, Pedro_<br/>
+**Recursive Decomposition for Nonconvex Optimization**<br/>
 Proceedings of the 24th International Joint Conference on Artificial Intelligence
 </p>
 * <p id="friesen2016">
-_Friesen, Abram L and Domingos, Pedro_
-**The Sum-Product Theorem: A Foundation for Learning Tractable Models**
+[Friesen2016]<br/>
+_Friesen, Abram L and Domingos, Pedro_<br/>
+**The Sum-Product Theorem: A Foundation for Learning Tractable Models**<br/>
 ICML 2016
 </p>
 * <p id="gens2012">
-_Gens, Robert and Domingos, Pedro_
-**Discriminative Learning of Sum-Product Networks**
+[Gens2012]<br/>
+_Gens, Robert and Domingos, Pedro_<br/>
+**Discriminative Learning of Sum-Product Networks**<br/>
 NIPS 2012
 </p>
 * <p id="gens2013">
-_Gens, Robert and Domingos, Pedro_
-**Learning the Structure of Sum-Product Networks**
+[Gens2013]<br/>
+_Gens, Robert and Domingos, Pedro_<br/>
+**Learning the Structure of Sum-Product Networks**<br/>
 ICML 2013
 </p>
 * <p id="krakovna2016">
-_Krakovna, Viktoriya and Looks, Moshe_
-**A Minimalistic Approach to Sum-Product Network Learning for Real Applications**
+[Krakovna2016]<br/>
+_Krakovna, Viktoriya and Looks, Moshe_<br/>
+**A Minimalistic Approach to Sum-Product Network Learning for Real Applications**<br/>
 ICLR 2016
 </p>
 * <p id="lee2013">
-_Lee, Sang-Woo and Heo, Min-Oh and Zhang, Byoung-Tak_
-**Online Incremental Structure Learning of Sum-Product Networks**
+[Lee2013]<br/>
+_Lee, Sang-Woo and Heo, Min-Oh and Zhang, Byoung-Tak_<br/>
+**Online Incremental Structure Learning of Sum-Product Networks**<br/>
 ICONIP 2013
 </p>
 * <p id="lee2014">
-_Lee, Sang-Woo and Watkins, Christopher and Zhang, Byoung-Tak_
-**Non-Parametric Bayesian Sum-Product Networks**
+[Lee2014]<br/>
+_Lee, Sang-Woo and Watkins, Christopher and Zhang, Byoung-Tak_<br/>
+**Non-Parametric Bayesian Sum-Product Networks**<br/>
 Workshop on Learning Tractable Probabilistic Models 2014
 </p>
 * <p id="li2015">
-_Weizhuo Li_
-**Combining sum-product network and noisy-or model for ontology matching**
+[Li2015]<br/>
+_Weizhuo Li_<br/>
+**Combining sum-product network and noisy-or model for ontology
+matching**<br/>
 Proceedings of the 10th International Workshop on Ontology Matching
 </p>
 * <p id="martens2014">
-_Martens, James and Medabalimi, Venkatesh_
-**On the Expressive Efficiency of Sum Product Networks**
+[Martens2014]<br/>
+_Martens, James and Medabalimi, Venkatesh_<br/>
+**On the Expressive Efficiency of Sum Product Networks**<br/>
 arXiv/1411.7717
 </p>
 * <p id="melibari2016a">
-_Melibari, Mazen and Poupart, Pascal and Doshi, Prashant_
-**Decision Sum-Product-Max Networks**
+[Melibari2016a]<br/>
+_Melibari, Mazen and Poupart, Pascal and Doshi, Prashant_<br/>
+**Decision Sum-Product-Max Networks**<br/>
 Thirtieth AAAI Conference on Artificial Intelligence
 </p>
 * <p id="melibari2016b">
-_Melibari, Mazen and Poupart, Pascal and Doshi, Prashant_
-**Sum-Product-Max Networks for Tractable Decision Making**
+[Melibari2016b]<br/>
+_Melibari, Mazen and Poupart, Pascal and Doshi, Prashant_<br/>
+**Sum-Product-Max Networks for Tractable Decision Making**<br/>
 Proceedings of the 2016 International Conference on Autonomous Agents & Multiagent Systems
 </p>
 * <p id="nath2014">
-_Nath, Aniruddh and Domingos, Pedro_
-**Learning Tractable Statistical Relational Models**
+[Nath2014]<br/>
+_Nath, Aniruddh and Domingos, Pedro_<br/>
+**Learning Tractable Statistical Relational Models**<br/>
 Workshop on Learning Tractable Probabilistic Models
 </p>
 * <p id="nath2015">
-_Nath, Aniruddh and Domingos, Pedro_
-**Learning Relational Sum-Product Networks**
+[Nath2015]<br/>
+_Nath, Aniruddh and Domingos, Pedro_<br/>
+**Learning Relational Sum-Product Networks**<br/>
 AAAI 2015
 </p>
 * <p id="nath2016">
-_Nath, Aniruddh and Domingos, Pedro_
-**Learning Tractable Probabilistic Models for Fault Localization**
+[Nath2016]<br/>
+_Nath, Aniruddh and Domingos, Pedro_<br/>
+**Learning Tractable Probabilistic Models for Fault Localization**<br/>
 AAAI 2016
 </p>
 * <p id="niepert2015">
-_Niepert, Mathias and Domingos, Pedro_
-**Learning and Inference in Tractable Probabilistic Knowledge Bases**
+[Niepert2015]<br/>
+_Niepert, Mathias and Domingos, Pedro_<br/>
+**Learning and Inference in Tractable Probabilistic Knowledge Bases**<br/>
 UAI 2015
 </p>
 * <p id="peharz2013">
-_Peharz, Robert and Geiger, Bernhard and Pernkopf, Franz_
-**Greedy Part-Wise Learning of Sum-Product Networks**
+[Peharz2013]<br/>
+_Peharz, Robert and Geiger, Bernhard and Pernkopf, Franz_<br/>
+**Greedy Part-Wise Learning of Sum-Product Networks**<br/>
 ECML-PKDD 2013
 </p>
 * <p id="peharz2014a">
-_Peharz, Robert and Kapeller, Georg and Mowlaee, Pejman and Pernkopf, Franz_
-**Modeling Speech with Sum-Product Networks: Application to Bandwidth Extension**
+[Peharz2014a]<br/>
+_Peharz, Robert and Kapeller, Georg and Mowlaee, Pejman and Pernkopf, Franz_<br/>
+**Modeling Speech with Sum-Product Networks: Application to Bandwidth Extension**<br/>
 ICASSP2014
 </p>
 * <p id="peharz2014b">
-_Robert Peharz and Gens, Robert and Domingos, Pedro_
-**Learning Selective Sum-Product Networks**
+[Peharz2014b]<br/>
+_Robert Peharz and Gens, Robert and Domingos, Pedro_<br/>
+**Learning Selective Sum-Product Networks**<br/>
 Workshop on Learning Tractable Probabilistic Models 2014
 </p>
 * <p id="peharz2015a">
-_Robert Peharz and Tschiatschek, Sebastian and Pernkopf, Franz and Domingos, Pedro_
-**On Theoretical Properties of Sum-Product Networks**
+[Peharz2015a]<br/>
+_Robert Peharz and Tschiatschek, Sebastian and Pernkopf, Franz and Domingos, Pedro_<br/>
+**On Theoretical Properties of Sum-Product Networks**<br/>
 Proceedings of the 18th International Conference on Artificial Intelligence and Statistics
 </p>
 * <p id="peharz2015b">
-_Peharz, Robert_
-**Foundations of Sum-Product Networks for Probabilistic Modeling**
+[Peharz2015b]<br/>
+_Peharz, Robert_<br/>
+**Foundations of Sum-Product Networks for Probabilistic Modeling**<br/>
 PhD Thesis
 </p>
 * <p id="peharz2016">
-_Robert Peharz and Robert Gens and Franz Pernkopf and Pedro Domingos_
-**On the Latent Variable Interpretation in Sum-Product Networks**
+[Peharz2016]<br/>
+_Robert Peharz and Robert Gens and Franz Pernkopf and Pedro Domingos_<br/>
+**On the Latent Variable Interpretation in Sum-Product Networks**<br/>
 arxiv.org/abs/1601.06180
 </p>
 * <p id="poon2011">
-_Poon, Hoifung and Domingos, Pedro_
-**Sum-Product Network: a New Deep Architecture**
+[Poon2011]<br/>
+_Poon, Hoifung and Domingos, Pedro_<br/>
+**Sum-Product Network: a New Deep Architecture**<br/>
 UAI 2011
 </p>
 * <p id="rahman2016">
-_Tahrima Rahman and Vibhav Gogate_
-**Merging Strategies for Sum-Product Networks: From Trees to Graphs**
+[Rahman2016]<br/>
+_Tahrima Rahman and Vibhav Gogate_<br/>
+**Merging Strategies for Sum-Product Networks: From Trees to
+Graphs**<br/>
 UAI 2016
 </p>
 * <p id="rashwan2016">
-_Rashwan, Abdullah and Zhao, Han and Poupart, Pascal_
-**Online and Distributed Bayesian Moment Matching for Parameter Learning in Sum-Product Networks**
+[Rashwan2016]<br/>
+_Rashwan, Abdullah and Zhao, Han and Poupart, Pascal_<br/>
+**Online and Distributed Bayesian Moment Matching for Parameter Learning in Sum-Product Networks**<br/>
 Proceedings of the 19th International Conference on Artificial Intelligence and Statistics
 </p>
 * <p id="ratajczak2014">
-_Ratajczak, Martin and Tschiatschek, S and Pernkopf, F_
-**Sum-Product Networks for Structured Prediction: Context-Specific Deep Conditional Random Fields**
+[Ratajczak2014]<br/>
+_Ratajczak, Martin and Tschiatschek, S and Pernkopf, F_<br/>
+**Sum-Product Networks for Structured Prediction: Context-Specific Deep Conditional Random Fields**<br/>
 Workshop on Learning Tractable Probabilistic Models 2014
 </p>
 * <p id="rooshenas2014">
-_Rooshenas, Amirmohammad and Lowd, Daniel_
-**Learning Sum-Product Networks with Direct and Indirect Variable Interactions**
+[Rooshenas2014]<br/>
+_Rooshenas, Amirmohammad and Lowd, Daniel_<br/>
+**Learning Sum-Product Networks with Direct and Indirect Variable Interactions**<br/>
 ICML 2014
 </p>
 * <p id="stuhlmueller2012">
-_Stuhlmuller, Andreas and Goodman, Noah D._
-**A Dynamic Programming Algorithm for Inference in Recursive Probabilistic Programs**
+[Stuhlmueller2012]<br/>
+_Stuhlmuller, Andreas and Goodman, Noah D._<br/>
+**A Dynamic Programming Algorithm for Inference in Recursive Probabilistic Programs**<br/>
 StaRAI 2012
 </p>
 * <p id="vergari2015">
-_Vergari, Antonio and Di Mauro, Nicola and Esposito, Floriana_
-**Simplifying, Regularizing and Strengthening Sum-Product Network Structure Learning**
+[Vergari2015]<br/>
+_Vergari, Antonio and Di Mauro, Nicola and Esposito, Floriana_<br/>
+**Simplifying, Regularizing and Strengthening Sum-Product Network Structure Learning**<br/>
 ECML-PKDD 2015
 </p>
 * <p id="zhao2015">
-_Zhao, Han and Melibari, Mazen and Poupart, Pascal_
-**On the Relationship between Sum-Product Networks and Bayesian Networks**
+[Zhao2015]<br/>
+_Zhao, Han and Melibari, Mazen and Poupart, Pascal_<br/>
+**On the Relationship between Sum-Product Networks and Bayesian Networks**<br/>
 ICML 2015
 </p>
 * <p id="zhao2016a">
-_Zhao, Han and Adel, Tameem and Gordon, Geoff and Amos, Brandon_
-**Collapsed Variational Inference for Sum-Product Networks**
+[Zhao2016a]<br/>
+_Zhao, Han and Adel, Tameem and Gordon, Geoff and Amos, Brandon_<br/>
+**Collapsed Variational Inference for Sum-Product Networks**<br/>
 ICML 2016
 </p>
 * <p id="zhao2016b">
-_Zhao, Han and Poupart, Pascal_
-**A unified approach for learning the parameters of sum-product networks**
+[Zhao2016b]<br/>
+_Zhao, Han and Poupart, Pascal_<br/>
+**A unified approach for learning the parameters of sum-product networks**<br/>
 arXiv:1601.00318
 </p>
 * <p id="wang2015">
-_Wang, Jinghua and Wang, Gang_
-**Hierarchical Spatial Sum-Product Networks for action recognition in Still Images**
+[Wang2015]<br/>
+_Wang, Jinghua and Wang, Gang_<br/>
+**Hierarchical Spatial Sum-Product Networks for action recognition in Still Images**<br/>
 arXiv:1511.05292
 </p>
-
