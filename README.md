@@ -1,11 +1,42 @@
+# Awesome Sum-Product Networks
 
-# Papers
+**awesome-spn** is a curated and structured list of resources about
+Sum-Product Networks, tractable deep density estimators.
+
+This includes (even not formally published) research papers sorted by year and topics as well as
+links to tutorials and code. It is inspired by the
+[SPN page](http://spn.cs.washington.edu/) at the Washington University.
+
+## Table of Contents
+
+   * [Papers](#papers)
+      * [Year](#year)
+        * [2016](#2016)
+        * [2015](#2015)
+        * [2014](#2014)
+        * [2013](#2013)
+        * [2012](#2012)
+        * [2011](#2011)
+      * [Topic](#topics)
+        * [Weight Learning](#weight-learning)
+        * [Structure Learning](#structure-learning)
+        * [Modeling](#modeling)
+        * [Applications](#applications)
+        * [Theory](#theory)
+   * [Resources](#resources)
+      * [Code](#code)
+      * [Tutorials](#tutorials)
+      
+   * [References](#resources)
+        
+
+## Papers
 
 Sorted by [year](#year) or [topics](#topics) 
 
-## Year
+### Year
 
-### 2016
+#### 2016
    - [[Desana2016](#desana2016)]
      [**Expectation Maximization for Sum-Product Networks as Exponential Family Mixture Models**](http://arxiv.org/abs/1604.07243)
      *arXiv* [`weight-learning`](#weight-learning)
@@ -40,7 +71,7 @@ Sorted by [year](#year) or [topics](#topics)
      *AAAI2016* [`applications`](#applications)
 
 
-### 2015
+#### 2015
    - [[Peharz2015b](#peharz2015b)]
      [**Foundations of Sum-Product Networks for Probabilistic Modeling**](https://www.researchgate.net/profile/Robert_Peharz/publication/273000973_Foundations_of_Sum-Product_Networks_for_Probabilistic_Modeling/links/54f49ff00cf2f28c1362088b.pdf)
      *Thesis* [`theory`](#theory)
@@ -77,7 +108,7 @@ Sorted by [year](#year) or [topics](#topics)
      [**Learning Relational Sum-Product Networks**](http://homes.cs.washington.edu/~pedrod/papers/aaai15.pdf)
      *AAAI2015* [`modeling`](#modeling)
 
-### 2014
+#### 2014
    - [[Martens2014](#martens2014)]
      [**On the Expressive Efficiency of Sum Product Networks**](http://arxiv.org/abs/1411.7717)
      *arXiv* [`theory`](#theory)
@@ -104,7 +135,7 @@ Sorted by [year](#year) or [topics](#topics)
      *ICML2014*  [`structure-learning`](#structure-learning)
 
 
-### 2013
+#### 2013
 
    - [[Lee2013](#lee2013)]
      [**Online Incremental Structure Learning of Sum-Product Networks**](https://bi.snu.ac.kr/Publications/Conferences/International/ICONIP2013_SWLee.pdf)
@@ -118,7 +149,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 
 
-### 2012
+#### 2012
    - [[Gens2012](#gens2012)]
      [**Discriminative Learning of Sum-Product Networks**](http://spn.cs.washington.edu/papers/dspn.pdf)
      *NIPS2012* [`weight-learning`](#weight-learning)
@@ -133,7 +164,7 @@ Sorted by [year](#year) or [topics](#topics)
      *CVPR2012* [`applications`](#applications)
 
 
-### 2011
+#### 2011
     
 
    - [[Delalleau2011](#dellaleau2011)]
@@ -147,10 +178,10 @@ Sorted by [year](#year) or [topics](#topics)
 
 
 
-## Topics
+### Topics
 
 <div id="weight-learning"></div>
-### Weight Learning
+#### Weight Learning
    - [[Desana2016](#desana2016)]
      [**Expectation Maximization for Sum-Product Networks as Exponential Family Mixture Models**](http://arxiv.org/abs/1604.07243) `EM`
    - [[Zhao2016b](#zhao2016b)]
@@ -170,7 +201,7 @@ Sorted by [year](#year) or [topics](#topics)
    `disc Hard EM` `disc Hard SGD`
 
 <div id="structure-learning"></div>
-### Structure Learning
+#### Structure Learning
    - [[Rahman2016](#rahman2016)]
      [**Merging Strategies for Sum-Product Networks: From Trees to Graphs**](http://www.hlt.utdallas.edu/~vgogate/papers/uai16.pdf)
      `pruning` `dagSPN`
@@ -199,7 +230,7 @@ Sorted by [year](#year) or [topics](#topics)
      `top-down``k-means`
 	 
 <div id="modeling"></div>	 
-### Modeling
+#### Modeling
    - [[Melibari2016b](#melibari2016b)]
      [**Sum-Product-Max Networks for Tractable Decision Making**](http://trust.sce.ntu.edu.sg/aamas16/pdfs/p1419.pdf) `decision-diagram`
    - [[Melibari2016a](#melibari2016a)]
@@ -221,7 +252,7 @@ Sorted by [year](#year) or [topics](#topics)
    [**Sum-Product Networks: A New Deep Architecture**](http://spn.cs.washington.edu/papers/spn.pdf) `SPN`
 	 
 <div id="applications"></div>	 
-### Applications
+#### Applications
    - [[Nath2016](#nath2016)]
      [**Learning Tractable Probabilistic Models for Fault Localization**](http://homes.cs.washington.edu/~pedrod/papers/aaai16.pdf)
    - [[Wang2015](#wang2015)]
@@ -243,7 +274,7 @@ Sorted by [year](#year) or [topics](#topics)
      `cv``activity-recognition`
 	 
 <div id="theory"></div>   
-### Theory
+#### Theory
    - [[Peharz2016](#peharz2016)]
      [**On the Latent Variable Interpretation in Sum-Product Networks**](http://arxiv.org/abs/1601.06180) `EM`
    - [[Friesen2016](#friesen2016)]
@@ -263,13 +294,13 @@ Sorted by [year](#year) or [topics](#topics)
      [**Shallow vs. Deep Sum-Product Networks**](http://papers.nips.cc/paper/4350-shallow-vs-deep-sum-product-networks.pdf)     `depth`
 	 
 	 
-# Resources
+## Resources
 
-## Code
+### Code
 
-## Tutorials
+### Tutorials
 
-# References
+## References
 
 * <p id="adel2015">
 [Adel2015]<br/>
@@ -508,7 +539,7 @@ _Zhao, Han and Poupart, Pascal_<br/>
 arXiv:1601.00318
 </p>
 * <p id="wang2015">
-[Wang2015]<br/>
+  [Wang2015]<br/>
 _Wang, Jinghua and Wang, Gang_<br/>
 **Hierarchical Spatial Sum-Product Networks for action recognition in Still Images**<br/>
 arXiv:1511.05292
