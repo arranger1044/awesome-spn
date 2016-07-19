@@ -317,8 +317,8 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Cheng2014](#cheng2014)]
       [**lmspn**](https://github.com/stakok/lmspn) Language modeling
       with SPNs `C++` `CUDA`
-   - [**C++/Cuda porting**](https://github.com/vseledkin/Sum-Product-Networks)
-      of Poon's architecture `python2`  
+   - [**C++/Cuda porting**](https://github.com/vseledkin/SumProductNetwork)
+      of Poon's architecture `C++` `CUDA`  
    - [**Python porting**](https://github.com/vseledkin/Sum-Product-Networks)
       of Poon's architecture `python2`  
    - [[Gens2013](#gens2013)]
