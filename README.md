@@ -308,7 +308,7 @@ Sorted by [year](#year) or [topics](#topics)
      inference routines in Python `python3` 
    - [[Rooshenas2014](#rooshenas2014)] ID-SPN and inference routines
      on ACs implemented in the
-     [**Libra Toolkit**](http://libra.cs.uoregon.edu/) `Ocamlssssssss`  
+     [**Libra Toolkit**](http://libra.cs.uoregon.edu/) `Ocaml`  
    - [[Peharz2014a](#peharz2014a)]
      [**ABE-SPN**](https://www.spsc.tugraz.at/tools/artificial-bandwidth-extension-sum-product-networks)
      Artificial Bandwidth-Extension with Sum-Product Networks `MATLAB` `C++`  
