@@ -25,7 +25,7 @@ links to tutorials and code. It is inspired by the
         * [Theory](#theory)
    * [Resources](#resources)
       * [Code](#code)
-      * [Tutorials](#tutorials)
+      * [Talks and Tutorials](#talks-and-tutorials)
       
    * [References](#resources)
         
@@ -46,6 +46,9 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Zhao2016b](#zhao2016b)]
        [**A unified approach for learning the parameters of sum-product networks**](http://arxiv.org/abs/1601.00318)
        *arXiv* [`weight-learning`](#weight-learning)
+   - [[Yuan2016](#yuan2016)]
+     [**Modeling Spatial Layout for Scene Image Understanding Via a Novel Multiscale Sum-Product Network**](http://www.sciencedirect.com/science/article/pii/S0957417416303591)
+     *Expert Systems and Applications* [`applications`](#applications)
    - [[Rahman2016](#rahman2016)]
      [**Merging Strategies for Sum-Product Networks: From Trees to Graphs**](http://www.hlt.utdallas.edu/~vgogate/papers/uai16.pdf)
      *UAI2016* [`structure-learning`](#structure-learning)
@@ -253,6 +256,10 @@ Sorted by [year](#year) or [topics](#topics)
 	 
 <div id="applications"></div>	 
 #### Applications
+  
+   - [[Yuan2016](#yuan2016)]
+     [**Modeling Spatial Layout for Scene Image Understanding Via a Novel Multiscale Sum-Product Network**](http://www.sciencedirect.com/science/article/pii/S0957417416303591)
+     `cv` `segmentation`
    - [[Nath2016](#nath2016)]
      [**Learning Tractable Probabilistic Models for Fault Localization**](http://homes.cs.washington.edu/~pedrod/papers/aaai16.pdf)
    - [[Wang2015](#wang2015)]
@@ -297,8 +304,42 @@ Sorted by [year](#year) or [topics](#topics)
 ## Resources
 
 ### Code
+   - [[Vergari2015](#vergari2015)] [**spyn**](https://github.com/arranger1044/spyn) LearnSPN-B/T/B and SPN
+     inference routines in Python `python3` 
+   - [[Rooshenas2014](#rooshenas2014)] ID-SPN and inference routines
+     on ACs implemented in the
+     [**Libra Toolkit**](http://libra.cs.uoregon.edu/) `Ocamlssssssss`  
+   - [[Peharz2014a](#peharz2014a)]
+     [**ABE-SPN**](https://www.spsc.tugraz.at/tools/artificial-bandwidth-extension-sum-product-networks)
+     Artificial Bandwidth-Extension with Sum-Product Networks `MATLAB` `C++`  
+   - [**GoSPN**](https://github.com/RenatoGeh/gospn) implementing
+     LearnSPN in Go `Go` 
+   - [[Cheng2014](#cheng2014)]
+      [**lmspn**](https://github.com/stakok/lmspn) Language modeling
+      with SPNs `C++` `CUDA`
+   - [**C++/Cuda porting**](https://github.com/vseledkin/Sum-Product-Networks)
+      of Poon's architecture `python2`  
+   - [**Python porting**](https://github.com/vseledkin/Sum-Product-Networks)
+      of Poon's architecture `python2`  
+   - [[Gens2013](#gens2013)]
+      [**LearnSPN**](http://spn.cs.washington.edu/learnspn/) `Java`
+   - [[Poon2011](#poon2011)] Code to **train** [**Poon's architecture
+      weigths by EM**](http://spn.cs.washington.edu/spn/) `Java` `MPI`
 
-### Tutorials
+### Talks and Tutorials
+
+   - Poupart P. **Deep Learning, Sum-Product Networks** [**Part I**](https://www.youtube.com/watch?v=eF0APeEIJNw)
+     [**Part II**](https://www.youtube.com/watch?v=9-1YE_N-lnw) _2015_
+   - Hernàndez-Lobato,
+     J. M. [**An Introduction to Sum-Product Networks**](http://cbl.eng.cam.ac.uk/pub/Intranet/MLG/ResearchAndCommunicationClub/SumProductNetworks.pdf)
+     _2013_
+   _ Gens,
+     R. [**Learning the Structure of Sum-Product Networks**](http://spn.cs.washington.edu/talks/Gens_SLSPN_ICML2013.pdf)
+     [[Gens2013](#gens2013)] _2013_  
+   - Poon,
+     H. [**Sum-Product Networks: A New Deep Architecture**](http://spn.cs.washington.edu/talks/spn11.pdf)
+     [[Poon2011](#poon2011)] _2011_
+  
 
 ## References
 
@@ -520,6 +561,19 @@ _Vergari, Antonio and Di Mauro, Nicola and Esposito, Floriana_<br/>
 **Simplifying, Regularizing and Strengthening Sum-Product Network Structure Learning**<br/>
 ECML-PKDD 2015
 </p>
+* <p id="wang2015">
+  [Wang2015]<br/>
+_Wang, Jinghua and Wang, Gang_<br/>
+**Hierarchical Spatial Sum-Product Networks for action recognition in Still Images**<br/>
+arXiv:1511.05292
+</p>
+* <p id="yuan2016">
+  [Yuan2016]<br/>
+_Zehuan Yuan and Hao Wang and Limin Wang and Tong Lu and Shivakumara Palaiahnakote and Chew Lim Tan_<br/>
+**Modeling Spatial Layout for Scene Image Understanding Via a Novel Multiscale Sum-Product Network**<br/>
+Expert Systems with Applications 
+</p>
+
 * <p id="zhao2015">
 [Zhao2015]<br/>
 _Zhao, Han and Melibari, Mazen and Poupart, Pascal_<br/>
@@ -537,10 +591,4 @@ ICML 2016
 _Zhao, Han and Poupart, Pascal_<br/>
 **A unified approach for learning the parameters of sum-product networks**<br/>
 arXiv:1601.00318
-</p>
-* <p id="wang2015">
-  [Wang2015]<br/>
-_Wang, Jinghua and Wang, Gang_<br/>
-**Hierarchical Spatial Sum-Product Networks for action recognition in Still Images**<br/>
-arXiv:1511.05292
 </p>
