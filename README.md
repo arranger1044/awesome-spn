@@ -7,6 +7,14 @@ This includes (even not formally published) research papers sorted by year and t
 links to tutorials and code. It is inspired by the
 [SPN page](http://spn.cs.washington.edu/) at the Washington University.
 
+## Licence and Contributing
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+**awesome-spn** is released under Public Domain. Feel free to complete
+and/or correct any of these
+lists. [Pull requests](https://github.com/arranger1044/awesome-spn/pulls)
+are very welcome!
+
 ## Table of Contents
 
    * [Papers](#papers)
