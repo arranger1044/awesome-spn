@@ -1,10 +1,11 @@
 # Awesome Sum-Product Networks
 
 **awesome-spn** is a curated and structured list of resources about
-Sum-Product Networks, tractable deep density estimators.
+*Sum-Product Networks* (SPNs), tractable deep density estimators.
 
 This includes (even not formally published) research papers sorted by year and topics as well as
-links to tutorials and code. It is inspired by the
+links to tutorials and code and other related Tractable Probabilistic
+Models (TPMs). It is inspired by the
 [SPN page](http://spn.cs.washington.edu/) at the Washington University.
 
 ## Licence and Contributing
@@ -31,6 +32,9 @@ are very welcome!
         * [Modeling](#modeling)
         * [Applications](#applications)
         * [Theory](#theory)
+   * [Related Works](#related-works) 
+      * [Arithmetic Circuits](#arithmetic-circuits)
+      * [Other TPMs](#other-tpms)
    * [Resources](#resources)
       * [Code](#code)
       * [Talks and Tutorials](#talks-and-tutorials)
@@ -308,7 +312,27 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Delalleau2011](#dellaleau2011)]
      [**Shallow vs. Deep Sum-Product Networks**](http://papers.nips.cc/paper/4350-shallow-vs-deep-sum-product-networks.pdf)     `depth`
 	 
-	 
+
+## Related Works
+
+### Arithmetic Circuits
+
+   - [[Darwiche2003](#darwiche2003)]
+     [**A Differential Approach to Inference in Bayesian Networks**](Advances
+     in Neural Information Processing Systems 2011) *J. ACM 2003*
+   - [[Lowd2013](#lowd2013)]
+     [**Learning Markov Networks With Arithmetic Circuits**](http://ix.cs.uoregon.edu/~lowd/aistats13lowd.pdf)
+     *AISTATS 2013*
+   - [[Rooshenas2016](#rooshenas2016)]
+     [**Discriminative Structure Learning of Arithmetic Circuits**](http://www.jmlr.org/proceedings/papers/v51/rooshenas16.pdf)
+     *AISTATS 2016*
+
+### Other TPMs
+
+   - [[Livni2013](#livni2013)]
+     [**A Provably Efficient Algorithm for Training Deep Networks**](http://arxiv.org/abs/1304.7045)
+     *arXiv 2013*
+
 ## Resources
 
 ### Code
@@ -374,6 +398,12 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence<br/>
 _Cheng, Wei-Chen and Kok, Stanley and Pham, Hoai Vu and Chieu, Hai Leong and Chai, Kian Ming Adam_<br/>
 **Language modeling with Sum-Product Networks**<br/>
 INTERSPEECH 2014
+</p>
+* <p id="darwiche2003">
+[Darwiche2003]<br/>
+_Darwiche, Adnan_<br/>
+**A Differential Approach to Inference in Bayesian Networks**<br/>
+Journal of the ACM 2003.
 </p>
 * <p id="dellaleau2011">
 [Dellaleau2011]<br/>
@@ -447,6 +477,18 @@ _Weizhuo Li_<br/>
 **Combining sum-product network and noisy-or model for ontology
 matching**<br/>
 Proceedings of the 10th International Workshop on Ontology Matching
+</p>
+* <p id="livni2013">
+[Livni2013]<br/>
+_Livni, Roi and Shalev-Shwartz, Shai and Shamir, Ohad_<br/>
+**A Provably Efficient Algorithm for Training Deep Networks**<br/>
+arXiv 2013
+</p>
+* <p id="lowd2013">
+[Lowd2013]<br/>
+_Lowd, Daniel and Rooshenas, Amirmohammad_<br/>
+**Learning Markov Networks With Arithmetic Circuits**<br/>
+Proceedings of the 16th International Conference on Artificial Intelligence and Statistics 2013
 </p>
 * <p id="martens2014">
 [Martens2014]<br/>
@@ -557,6 +599,12 @@ _Rooshenas, Amirmohammad and Lowd, Daniel_<br/>
 **Learning Sum-Product Networks with Direct and Indirect Variable Interactions**<br/>
 ICML 2014
 </p>
+* <p id="rooshenas2016">
+[Rooshenas2016]<br/>
+_Rooshenas, Amirmohammad and Lowd, Daniel_<br/>
+**Discriminative Structure Learning of Arithmetic Circuits**<br/>
+Proceedings of the 19th International Conference on Artificial Intelligence and Statistics
+</p>
 * <p id="stuhlmueller2012">
 [Stuhlmueller2012]<br/>
 _Stuhlmuller, Andreas and Goodman, Noah D._<br/>
@@ -581,7 +629,6 @@ _Zehuan Yuan and Hao Wang and Limin Wang and Tong Lu and Shivakumara Palaiahnako
 **Modeling Spatial Layout for Scene Image Understanding Via a Novel Multiscale Sum-Product Network**<br/>
 Expert Systems with Applications 
 </p>
-
 * <p id="zhao2015">
 [Zhao2015]<br/>
 _Zhao, Han and Melibari, Mazen and Poupart, Pascal_<br/>
