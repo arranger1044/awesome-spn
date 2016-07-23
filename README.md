@@ -49,6 +49,11 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2016
+   - [[Melibari2016c](#melibari2016c)][**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412v1)
+   *PGM2016* [`modeling`](#modeling) [`structure-learning`](#structure-learning)
+   - [[Jaini2016](#jaini2016)]
+     [**Online Algorithms for Sum-Product Networks with Continuous Variables**]()
+     *PGM2016* [`weight-learning`](#weight-learning)
    - [[Desana2016](#desana2016)]
      [**Expectation Maximization for Sum-Product Networks as Exponential Family Mixture Models**](http://arxiv.org/abs/1604.07243)
      *arXiv* [`weight-learning`](#weight-learning)
@@ -197,6 +202,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 <div id="weight-learning"></div>
 #### Weight Learning
+   - [[Jaini2016](#jaini2016)]
+     [**Online Algorithms for Sum-Product Networks with Continuous Variables**]() `OBMM`
    - [[Desana2016](#desana2016)]
      [**Expectation Maximization for Sum-Product Networks as Exponential Family Mixture Models**](http://arxiv.org/abs/1604.07243) `EM`
    - [[Zhao2016b](#zhao2016b)]
@@ -217,6 +224,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 <div id="structure-learning"></div>
 #### Structure Learning
+   - [[Melibari2016c](#melibari2016c)][**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412v1) `hill-climbing`
    - [[Rahman2016](#rahman2016)]
      [**Merging Strategies for Sum-Product Networks: From Trees to Graphs**](http://www.hlt.utdallas.edu/~vgogate/papers/uai16.pdf)
      `pruning` `dagSPN`
@@ -246,6 +254,7 @@ Sorted by [year](#year) or [topics](#topics)
 	 
 <div id="modeling"></div>	 
 #### Modeling
+   - [[Melibari2016c](#melibari2016c)][**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412v1) `dynamic-SPN`
    - [[Melibari2016b](#melibari2016b)]
      [**Sum-Product-Max Networks for Tractable Decision Making**](http://trust.sce.ntu.edu.sg/aamas16/pdfs/p1419.pdf) `decision-diagram`
    - [[Melibari2016a](#melibari2016a)]
@@ -362,11 +371,8 @@ Sorted by [year](#year) or [topics](#topics)
 
    - Poupart P. **Deep Learning, Sum-Product Networks** [**Part I**](https://www.youtube.com/watch?v=eF0APeEIJNw)
      [**Part II**](https://www.youtube.com/watch?v=9-1YE_N-lnw) _2015_
-   - Hernàndez-Lobato,
-     J. M. [**An Introduction to Sum-Product Networks**](http://cbl.eng.cam.ac.uk/pub/Intranet/MLG/ResearchAndCommunicationClub/SumProductNetworks.pdf)
-     _2013_
-   _ Gens,
-     R. [**Learning the Structure of Sum-Product Networks**](http://spn.cs.washington.edu/talks/Gens_SLSPN_ICML2013.pdf)
+   - Hernàndez-Lobato, J. M. [**An Introduction to Sum-Product Networks**](http://cbl.eng.cam.ac.uk/pub/Intranet/MLG/ResearchAndCommunicationClub/SumProductNetworks.pdf) _2013_  
+   - Gens, R. [**Learning the Structure of Sum-Product Networks**](http://spn.cs.washington.edu/talks/Gens_SLSPN_ICML2013.pdf)
      [[Gens2013](#gens2013)] _2013_  
    - Poon,
      H. [**Sum-Product Networks: A New Deep Architecture**](http://spn.cs.washington.edu/talks/spn11.pdf)
@@ -453,6 +459,13 @@ _Gens, Robert and Domingos, Pedro_<br/>
 **Learning the Structure of Sum-Product Networks**<br/>
 ICML 2013
 </p>
+* <p id="jaini2016">
+[Jaini2016]<br/>
+_Jaini, Priyank and Rashwan, Abdullah and Zhao, Han and Liu, Yue and
+Banijamali, Ershad and Chen, Zhitang and Poupart, Pascal_<br/>
+**Online Algorithms for Sum-Product Networks with Continuous Variables**<br/>
+International Conference on Probabilistic Graphical Models 2016
+</p>
 * <p id="krakovna2016">
 [Krakovna2016]<br/>
 _Krakovna, Viktoriya and Looks, Moshe_<br/>
@@ -507,6 +520,13 @@ Thirtieth AAAI Conference on Artificial Intelligence
 _Melibari, Mazen and Poupart, Pascal and Doshi, Prashant_<br/>
 **Sum-Product-Max Networks for Tractable Decision Making**<br/>
 Proceedings of the 2016 International Conference on Autonomous Agents & Multiagent Systems
+</p>
+* <p id="melibari2016c">
+[Melibari2016c]<br/>
+_Melibari, Mazen and Poupart, Pascal and Doshi, Prashant and
+Trimponias, George_<br/>
+**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**<br/>
+International Conference on Probabilistic Graphical Models 2016
 </p>
 * <p id="nath2014">
 [Nath2014]<br/>
