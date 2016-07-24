@@ -49,7 +49,7 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2016
-   - [[Melibari2016c](#melibari2016c)][**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412v1)
+   - [[Melibari2016c](#melibari2016c)][**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412)
    *PGM2016* [`modeling`](#modeling) [`structure-learning`](#structure-learning)
    - [[Jaini2016](#jaini2016)]
      [**Online Algorithms for Sum-Product Networks with Continuous Variables**]()
@@ -224,7 +224,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 <div id="structure-learning"></div>
 #### Structure Learning
-   - [[Melibari2016c](#melibari2016c)][**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412v1) `hill-climbing`
+   - [[Melibari2016c](#melibari2016c)][**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412) `hill-climbing`
    - [[Rahman2016](#rahman2016)]
      [**Merging Strategies for Sum-Product Networks: From Trees to Graphs**](http://www.hlt.utdallas.edu/~vgogate/papers/uai16.pdf)
      `pruning` `dagSPN`
@@ -254,7 +254,7 @@ Sorted by [year](#year) or [topics](#topics)
 	 
 <div id="modeling"></div>	 
 #### Modeling
-   - [[Melibari2016c](#melibari2016c)][**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412v1) `dynamic-SPN`
+   - [[Melibari2016c](#melibari2016c)][**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412) `dynamic-SPN`
    - [[Melibari2016b](#melibari2016b)]
      [**Sum-Product-Max Networks for Tractable Decision Making**](http://trust.sce.ntu.edu.sg/aamas16/pdfs/p1419.pdf) `decision-diagram`
    - [[Melibari2016a](#melibari2016a)]
