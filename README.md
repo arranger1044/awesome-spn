@@ -36,6 +36,7 @@ are very welcome!
       * [Arithmetic Circuits](#arithmetic-circuits)
       * [Other TPMs](#other-tpms)
    * [Resources](#resources)
+      * [Dataset](#dataset)
       * [Code](#code)
       * [Talks and Tutorials](#talks-and-tutorials)
       
@@ -343,6 +344,10 @@ Sorted by [year](#year) or [topics](#topics)
      *arXiv 2013*
 
 ## Resources
+
+### Dataset
+   - 20 commonly used
+     [datasets for density estimation](https://github.com/arranger1044/DEBD) as in [[Lowd2013](#lowd2013)][[Gens2013](#gens2013)][[Rooshenas2014](#rooshenas2014)][[Vergari2015](#vergari2015)][[Adel2015](#adel2015)][[Zhao2016a](#zhao2016a)][[Rooshenas2016](#rooshenas2016)]
 
 ### Code
    - [[Vergari2015](#vergari2015)] [**spyn**](https://github.com/arranger1044/spyn) LearnSPN-B/T/B and SPN
