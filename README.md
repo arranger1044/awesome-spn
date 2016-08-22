@@ -53,7 +53,7 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Melibari2016c](#melibari2016c)][**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412)
    *PGM2016* [`modeling`](#modeling) [`structure-learning`](#structure-learning)
    - [[Jaini2016](#jaini2016)]
-     [**Online Algorithms for Sum-Product Networks with Continuous Variables**]()
+     [**Online Algorithms for Sum-Product Networks with Continuous Variables**](http://jmlr.org/proceedings/papers/v52/jaini16.pdf)
      *PGM2016* [`weight-learning`](#weight-learning)
    - [[Desana2016](#desana2016)]
      [**Expectation Maximization for Sum-Product Networks as Exponential Family Mixture Models**](http://arxiv.org/abs/1604.07243)
@@ -204,7 +204,7 @@ Sorted by [year](#year) or [topics](#topics)
 <div id="weight-learning"></div>
 #### Weight Learning
    - [[Jaini2016](#jaini2016)]
-     [**Online Algorithms for Sum-Product Networks with Continuous Variables**]() `OBMM`
+     [**Online Algorithms for Sum-Product Networks with Continuous Variables**](http://jmlr.org/proceedings/papers/v52/jaini16.pdf) `OBMM`
    - [[Desana2016](#desana2016)]
      [**Expectation Maximization for Sum-Product Networks as Exponential Family Mixture Models**](http://arxiv.org/abs/1604.07243) `EM`
    - [[Zhao2016b](#zhao2016b)]
