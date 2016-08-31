@@ -50,6 +50,7 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2016
+   - [[Vergari2016](#vergari2016)][**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *arXiv* `representation learning`
    - [[Melibari2016c](#melibari2016c)][**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412)
    *PGM2016* [`modeling`](#modeling) [`structure-learning`](#structure-learning)
    - [[Jaini2016](#jaini2016)]
@@ -63,7 +64,7 @@ Sorted by [year](#year) or [topics](#topics)
      *arXiv* [`theory`](#theory)	 [`weight-learning`](#weight-learning)
    - [[Zhao2016b](#zhao2016b)]
        [**A unified approach for learning the parameters of sum-product networks**](http://arxiv.org/abs/1601.00318)
-       *arXiv* [`weight-learning`](#weight-learning)
+       *NIPS 2016* [`weight-learning`](#weight-learning)
    - [[Yuan2016](#yuan2016)]
      [**Modeling Spatial Layout for Scene Image Understanding Via a Novel Multiscale Sum-Product Network**](http://www.sciencedirect.com/science/article/pii/S0957417416303591)
      *Expert Systems and Applications* [`applications`](#applications)
@@ -350,6 +351,9 @@ Sorted by [year](#year) or [topics](#topics)
      [datasets for density estimation](https://github.com/arranger1044/DEBD) as in [[Lowd2013](#lowd2013)][[Gens2013](#gens2013)][[Rooshenas2014](#rooshenas2014)][[Vergari2015](#vergari2015)][[Adel2015](#adel2015)][[Zhao2016a](#zhao2016a)][[Rooshenas2016](#rooshenas2016)]
 
 ### Code
+   - [[Vergari2016](#vergari2016)]
+     [**spyn-repr**](https://github.com/arranger1044/spyn-repr)
+     extracting embeddings from SPNs `python3`
    - [[Vergari2015](#vergari2015)] [**spyn**](https://github.com/arranger1044/spyn) LearnSPN-B/T/B and SPN
      inference routines in Python `python3` 
    - [[Rooshenas2014](#rooshenas2014)] ID-SPN and inference routines
@@ -642,6 +646,12 @@ _Vergari, Antonio and Di Mauro, Nicola and Esposito, Floriana_<br/>
 **Simplifying, Regularizing and Strengthening Sum-Product Network Structure Learning**<br/>
 ECML-PKDD 2015
 </p>
+* <p id="vergari2016">
+[Vergari2016]<br/>
+_Vergari, Antonio and Di Mauro, Nicola and Esposito, Floriana_<br/>
+**Visualizing and Understanding Sum-Product Networks**<br/>
+arXiv:1608.08266
+</p>
 * <p id="wang2015">
   [Wang2015]<br/>
 _Wang, Jinghua and Wang, Gang_<br/>
@@ -669,6 +679,6 @@ ICML 2016
 * <p id="zhao2016b">
 [Zhao2016b]<br/>
 _Zhao, Han and Poupart, Pascal_<br/>
-**A unified approach for learning the parameters of sum-product networks**<br/>
-arXiv:1601.00318
+**A Unified Approach for Learning the Parameters of Sum-Product Networks**<br/>
+NIPS 2016
 </p>
