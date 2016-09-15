@@ -50,8 +50,8 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2016
-   - [[Vergari2016](#vergari2016)][**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *arXiv* `representation learning`
-   - [[Melibari2016c](#melibari2016c)][**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412)
+   - [[Vergari2016](#vergari2016)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *arXiv* `representation learning`
+   - [[Melibari2016c](#melibari2016c)] [**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412)
    *PGM2016* [`modeling`](#modeling) [`structure-learning`](#structure-learning)
    - [[Jaini2016](#jaini2016)]
      [**Online Algorithms for Sum-Product Networks with Continuous Variables**](http://jmlr.org/proceedings/papers/v52/jaini16.pdf)
@@ -63,8 +63,7 @@ Sorted by [year](#year) or [topics](#topics)
      [**On the Latent Variable Interpretation in Sum-Product Networks**](http://arxiv.org/abs/1601.06180)
      *arXiv* [`theory`](#theory)	 [`weight-learning`](#weight-learning)
    - [[Zhao2016b](#zhao2016b)]
-       [**A unified approach for learning the parameters of sum-product networks**](http://arxiv.org/abs/1601.00318)
-       *NIPS 2016* [`weight-learning`](#weight-learning)
+       [**A unified approach for learning the parameters of sum-product networks**](http://arxiv.org/abs/1601.00318)    *NIPS 2016* [`weight-learning`](#weight-learning)
    - [[Yuan2016](#yuan2016)]
      [**Modeling Spatial Layout for Scene Image Understanding Via a Novel Multiscale Sum-Product Network**](http://www.sciencedirect.com/science/article/pii/S0957417416303591)
      *Expert Systems and Applications* [`applications`](#applications)
@@ -378,6 +377,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 ### Talks and Tutorials
 
+   - Di Mauro and Vergari [**Learning Sum-Product Networks**](http://people.idsia.ch/~alessandro/pgm/DiMauroVergari.pdf)
+     tutorial at PGM'16 _2016_
    - Poupart P. **Deep Learning, Sum-Product Networks** [**Part I**](https://www.youtube.com/watch?v=eF0APeEIJNw)
      [**Part II**](https://www.youtube.com/watch?v=9-1YE_N-lnw) _2015_
    - Hernàndez-Lobato, J. M. [**An Introduction to Sum-Product Networks**](http://cbl.eng.cam.ac.uk/pub/Intranet/MLG/ResearchAndCommunicationClub/SumProductNetworks.pdf) _2013_  
