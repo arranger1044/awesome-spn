@@ -29,6 +29,7 @@ are very welcome!
       * [Topic](#topics)
         * [Weight Learning](#weight-learning)
         * [Structure Learning](#structure-learning)
+        * [Representation Learning](#representation-learning)
         * [Modeling](#modeling)
         * [Applications](#applications)
         * [Theory](#theory)
@@ -50,7 +51,8 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2016
-   - [[Vergari2016](#vergari2016)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *arXiv* `representation learning`
+   - [[Pronobis2016](#pronobis2016)] [**Learning Deep Generative Spatial Models for Mobile Robots**](https://arxiv.org/abs/1610.02627) *arXiv* [`applications`](#applications)
+   - [[Vergari2016](#vergari2016)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *arXiv* [`representation learning`](#representation-learning)
    - [[Melibari2016c](#melibari2016c)] [**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412)
    *PGM2016* [`modeling`](#modeling) [`structure-learning`](#structure-learning)
    - [[Jaini2016](#jaini2016)]
@@ -225,7 +227,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 <div id="structure-learning"></div>
 #### Structure Learning
-   - [[Melibari2016c](#melibari2016c)][**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412) `hill-climbing`
+   - [[Melibari2016c](#melibari2016c)]
+     [**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412) `hill-climbing`
    - [[Rahman2016](#rahman2016)]
      [**Merging Strategies for Sum-Product Networks: From Trees to Graphs**](http://www.hlt.utdallas.edu/~vgogate/papers/uai16.pdf)
      `pruning` `dagSPN`
@@ -252,10 +255,14 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Dennis2012](#dennis2012)]
      [**Learning the Architecture of Sum-Product Networks Using Clustering on Variables**](http://papers.nips.cc/paper/4544-learning-the-architecture-of-sum-product-networks-using-clustering-on-variables.pdf)
      `top-down``k-means`
-	 
+
+<div id="representation-learning"></div>
+#### Representation Learning
+   - [[Vergari2016](#vergari2016)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *arXiv* `embeddings`
+     
 <div id="modeling"></div>	 
 #### Modeling
-   - [[Melibari2016c](#melibari2016c)][**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412) `dynamic-SPN`
+   - [[Melibari2016c](#melibari2016c)] [**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412) `dynamic-SPN`
    - [[Melibari2016b](#melibari2016b)]
      [**Sum-Product-Max Networks for Tractable Decision Making**](http://trust.sce.ntu.edu.sg/aamas16/pdfs/p1419.pdf) `decision-diagram`
    - [[Melibari2016a](#melibari2016a)]
@@ -279,6 +286,9 @@ Sorted by [year](#year) or [topics](#topics)
 <div id="applications"></div>	 
 #### Applications
   
+   - [[Pronobis2016](#pronobis2016)] 
+     [**Learning Deep Generative Spatial Models for Mobile Robots**](https://arxiv.org/abs/1610.02627)
+     `robot control`
    - [[Yuan2016](#yuan2016)]
      [**Modeling Spatial Layout for Scene Image Understanding Via a Novel Multiscale Sum-Product Network**](http://www.sciencedirect.com/science/article/pii/S0957417416303591)
      `cv` `segmentation`
@@ -603,6 +613,12 @@ arxiv.org/abs/1601.06180
 _Poon, Hoifung and Domingos, Pedro_<br/>
 **Sum-Product Network: a New Deep Architecture**<br/>
 UAI 2011
+</p>
+* <p id="pronobis2016">
+[Pronobis2016]<br/>
+_Pronobis, A. and Rao, R.~P.~N._<br/>
+**Learning Deep Generative Spatial Models for Mobile Robots**<br/>
+arXiv 2016
 </p>
 * <p id="rahman2016">
 [Rahman2016]<br/>
