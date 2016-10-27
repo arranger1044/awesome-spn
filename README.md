@@ -314,6 +314,8 @@ Sorted by [year](#year) or [topics](#topics)
 	 
 <div id="theory"></div>   
 #### Theory
+   - [[Zhao2016b](#zhao2016b)]
+      [**A Unified Approach for Learning the Parameters of Sum-Product Networks**](https://arxiv.org/abs/1601.00318) `CCCP`
    - [[Peharz2016](#peharz2016)]
      [**On the Latent Variable Interpretation in Sum-Product Networks**](http://arxiv.org/abs/1601.06180) `EM`
    - [[Friesen2016](#friesen2016)]
@@ -360,6 +362,8 @@ Sorted by [year](#year) or [topics](#topics)
      [datasets for density estimation](https://github.com/arranger1044/DEBD) as in [[Lowd2013](#lowd2013)][[Gens2013](#gens2013)][[Rooshenas2014](#rooshenas2014)][[Vergari2015](#vergari2015)][[Adel2015](#adel2015)][[Zhao2016a](#zhao2016a)][[Rooshenas2016](#rooshenas2016)]
 
 ### Code
+   - [[Zhao2016a, Zhao2016b](#zhao2016b)] Parameter optimization using MLE and Bayesian approach
+      [**spn-opt**](http://www.cs.cmu.edu/~hzhao1/papers/ICML2016/spn_release.zip) `C++`  
    - [[Vergari2016](#vergari2016)]
      [**spyn-repr**](https://github.com/arranger1044/spyn-repr)
      extracting embeddings from SPNs `python3`
@@ -695,7 +699,7 @@ ICML 2016
 </p>
 * <p id="zhao2016b">
 [Zhao2016b]<br/>
-_Zhao, Han and Poupart, Pascal_<br/>
+_Zhao, Han and Poupart, Pascal and Gordon, Geoff_<br/>
 **A Unified Approach for Learning the Parameters of Sum-Product Networks**<br/>
 NIPS 2016
 </p>
