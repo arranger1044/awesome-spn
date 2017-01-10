@@ -52,7 +52,7 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2017
-   - [[Molina2017](#molina2017)] [**Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**](http://www-ai.cs.uni-dortmund.de/auto?self=$Publication_ewtkrvss1s) *AAAI* [`modeling`](#modeling)
+   - [[Molina2017](#molina2017)] [**Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**](http://www-ai.cs.uni-dortmund.de/auto?self=$Publication_ewtkrvss1s) *AAAI2017* [`modeling`](#modeling)
   
   
 #### 2016
