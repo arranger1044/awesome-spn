@@ -20,6 +20,7 @@ are very welcome!
 
    * [Papers](#papers)
       * [Year](#year)
+        * [2017](#2017)
         * [2016](#2016)
         * [2015](#2015)
         * [2014](#2014)
@@ -50,6 +51,10 @@ Sorted by [year](#year) or [topics](#topics)
 
 ### Year
 
+#### 2017
+   - [[Molina2017](#molina2017)] [**Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**](http://www-ai.cs.uni-dortmund.de/auto?self=$Publication_ewtkrvss1s) *AAAI* [`modeling`](#modeling)
+  
+  
 #### 2016
    - [[Pronobis2016](#pronobis2016)] [**Learning Deep Generative Spatial Models for Mobile Robots**](https://arxiv.org/abs/1610.02627) *arXiv* [`applications`](#applications)
    - [[Vergari2016](#vergari2016)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *arXiv* [`representation learning`](#representation-learning)
@@ -207,7 +212,7 @@ Sorted by [year](#year) or [topics](#topics)
 #### Weight Learning
    - [[Jaini2016](#jaini2016)]
      [**Online Algorithms for Sum-Product Networks with Continuous Variables**](http://jmlr.org/proceedings/papers/v52/jaini16.pdf) `OBMM`
-   - [[Desana2016](#desana2016)]
+<   - [[Desana2016](#desana2016)]
      [**Expectation Maximization for Sum-Product Networks as Exponential Family Mixture Models**](http://arxiv.org/abs/1604.07243) `EM`
    - [[Zhao2016b](#zhao2016b)]
        [**A unified approach for learning the parameters of sum-product networks**](http://arxiv.org/abs/1601.00318)
@@ -262,6 +267,7 @@ Sorted by [year](#year) or [topics](#topics)
      
 <div id="modeling"></div>	 
 #### Modeling
+   - [[Molina2017](#molina2017)] [**Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**](http://www-ai.cs.uni-dortmund.de/auto?self=$Publication_ewtkrvss1s) `Poisson SPNs`
    - [[Melibari2016c](#melibari2016c)] [**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412) `dynamic-SPN`
    - [[Melibari2016b](#melibari2016b)]
      [**Sum-Product-Max Networks for Tractable Decision Making**](http://trust.sce.ntu.edu.sg/aamas16/pdfs/p1419.pdf) `decision-diagram`
@@ -533,7 +539,7 @@ arXiv/1411.7717
 [Melibari2016a]<br/>
 _Melibari, Mazen and Poupart, Pascal and Doshi, Prashant_<br/>
 **Decision Sum-Product-Max Networks**<br/>
-Thirtieth AAAI Conference on Artificial Intelligence
+Proceedings of the 30th AAAI Conference on Artificial Intelligence (AAAI 2016)
 </p>
 * <p id="melibari2016b">
 [Melibari2016b]<br/>
@@ -548,6 +554,13 @@ Trimponias, George_<br/>
 **Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**<br/>
 International Conference on Probabilistic Graphical Models 2016
 </p>
+* <p id="molina2017">
+[Molina2017]<br/>
+_Molina, Alejandro and Natarajan, Sriraam and Kersting, Kristian_<br/>
+**Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**<br/>
+Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAAI 2017)
+</p>
+
 * <p id="nath2014">
 [Nath2014]<br/>
 _Nath, Aniruddh and Domingos, Pedro_<br/>
@@ -558,13 +571,13 @@ Workshop on Learning Tractable Probabilistic Models
 [Nath2015]<br/>
 _Nath, Aniruddh and Domingos, Pedro_<br/>
 **Learning Relational Sum-Product Networks**<br/>
-AAAI 2015
+Proceedings of the 29th AAAI Conference on Artificial Intelligence (AAAI 2015)
 </p>
 * <p id="nath2016">
 [Nath2016]<br/>
 _Nath, Aniruddh and Domingos, Pedro_<br/>
 **Learning Tractable Probabilistic Models for Fault Localization**<br/>
-AAAI 2016
+Proceedings of the 30th AAAI Conference on Artificial Intelligence (AAAI 2016)
 </p>
 * <p id="niepert2015">
 [Niepert2015]<br/>
