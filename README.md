@@ -56,6 +56,7 @@ Sorted by [year](#year) or [topics](#topics)
   
   
 #### 2016
+   - [[Trapp2016](#trapp2016)] [**Structure Inference in Sum-Product Networks using Infinite Sum-Product Trees**](https://drive.google.com/file/d/0B3WHb3BabixAVWFVaDEzdThSbk0/view) Practical Bayesian Nonparametrics [`structure-learning`](#structure-learning)
    - [[Pronobis2016](#pronobis2016)] [**Learning Deep Generative Spatial Models for Mobile Robots**](https://arxiv.org/abs/1610.02627) *arXiv* [`applications`](#applications)
    - [[Vergari2016](#vergari2016)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *arXiv* [`representation learning`](#representation-learning)
    - [[Melibari2016c](#melibari2016c)] [**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412)
@@ -673,6 +674,12 @@ Proceedings of the 19th International Conference on Artificial Intelligence and 
 _Stuhlmuller, Andreas and Goodman, Noah D._<br/>
 **A Dynamic Programming Algorithm for Inference in Recursive Probabilistic Programs**<br/>
 StaRAI 2012
+</p>
+* <p id="trapp2016">
+[Trapp2016]<br/>
+_Trapp, Martin and Peharz, Robert and Skowron, Marcin and Madl, Tamas and Pernkopf, Franz and Trappl, Robert_<br/>
+**Structure Inference in Sum-Product Networks using Infinite Sum-Product Trees**<br/>
+Workshop on Practical Bayesian Nonparametrics at NIPS 2016
 </p>
 * <p id="vergari2015">
 [Vergari2015]<br/>
