@@ -233,6 +233,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 <div id="structure-learning"></div>
 #### Structure Learning
+   - [[Trapp2016](#trapp2016)] [**Structure Inference in Sum-Product Networks using Infinite Sum-Product Trees**](https://drive.google.com/file/d/0B3WHb3BabixAVWFVaDEzdThSbk0/view) `infiniteSPT` `Bayesian nonparametrics`
    - [[Melibari2016c](#melibari2016c)]
      [**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412) `hill-climbing`
    - [[Rahman2016](#rahman2016)]
