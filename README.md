@@ -389,6 +389,7 @@ Sorted by [year](#year) or [topics](#topics)
      [datasets for density estimation](https://github.com/arranger1044/DEBD) as in [[Lowd2013](#lowd2013)][[Gens2013](#gens2013)][[Rooshenas2014](#rooshenas2014)][[Vergari2015](#vergari2015)][[Adel2015](#adel2015)][[Zhao2016a](#zhao2016a)][[Rooshenas2016](#rooshenas2016)]
 
 ### Code
+   - [[Hsu2017](#hsu2017)] [**Tachyon**](https://github.com/KalraA/Tachyon) structure and parameter learning in `python3`
    - [[Hsu2017](#hsu2017)] Online structure learning for [**continuous leaf**](https://github.com/whsu/spn) SPNs `python3` 
    - [[Zhao2016a, Zhao2016b](#zhao2016b)] Parameter optimization using MLE and Bayesian approach
       [**spn-opt**](http://www.cs.cmu.edu/~hzhao1/papers/ICML2016/spn_release.zip) `C++`  
