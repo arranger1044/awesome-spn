@@ -71,7 +71,7 @@ Sorted by [year](#year) or [topics](#topics)
      [**Online Algorithms for Sum-Product Networks with Continuous Variables**](http://jmlr.org/proceedings/papers/v52/jaini16.pdf)
      *PGM2016* [`weight-learning`](#weight-learning)
    - [[Desana2016](#desana2016)]
-     [**Expectation Maximization for Sum-Product Networks as Exponential Family Mixture Models**](http://arxiv.org/abs/1604.07243)
+     [**Learning Arbitrary Sum-Product Network Leaves with Expectation-Maximization**](http://arxiv.org/abs/1604.07243)
      *arXiv* [`weight-learning`](#weight-learning)
    - [[Peharz2016](#peharz2016)]
      [**On the Latent Variable Interpretation in Sum-Product Networks**](http://arxiv.org/abs/1601.06180)
@@ -222,7 +222,7 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Jaini2016](#jaini2016)]
      [**Online Algorithms for Sum-Product Networks with Continuous Variables**](http://jmlr.org/proceedings/papers/v52/jaini16.pdf) `OBMM`
    - [[Desana2016](#desana2016)]
-     [**Expectation Maximization for Sum-Product Networks as Exponential Family Mixture Models**](http://arxiv.org/abs/1604.07243) `EM`
+     [**Learning Arbitrary Sum-Product Network Leaves with Expectation-Maximization**](http://arxiv.org/abs/1604.07243) `EM`
    - [[Zhao2016b](#zhao2016b)]
        [**A unified approach for learning the parameters of sum-product networks**](http://arxiv.org/abs/1601.00318)
    - [[Zhao2016a](#zhao2016a)]
@@ -485,7 +485,7 @@ International Joint Conference on Artificial Intelligence 2015
 * <p id="desana2016">
 [Desana2016]<br/>
 _Desana, Mattia and Schn{\"{o}}rr Christoph_<br/>
-**Expectation Maximization for Sum-Product Networks as Exponential Family**<br/>
+**Learning Arbitrary Sum-Product Network Leaves with Expectation-Maximization**<br/>
 arxiv.org/abs/1604.07243
 </p>
 * <p id="friesen2015">
