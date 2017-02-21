@@ -37,6 +37,7 @@ are very welcome!
    * [Related Works](#related-works) 
       * [Arithmetic Circuits](#arithmetic-circuits)
       * [Other TPMs](#other-tpms)
+      * [Exploiting Sum-Product Theorem](#Exploiting-Sum-Product-Theorem)
    * [Resources](#resources)
       * [Dataset](#dataset)
       * [Code](#code)
@@ -52,6 +53,7 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2017
+   - [[Gens2017](#gens2017)] [**Compositional Kernel Machines**](https://openreview.net/pdf?id=S1Bm3T_lg) *ICLR 2017 - Workshop* [`modeling`](#modeling)
    - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) *OpenReview@ICLR 2017* [`applications`](#applications) [`modeling`](#modeling)
    - [[Molina2017](#molina2017)] [**Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**](http://www-ai.cs.uni-dortmund.de/auto?self=$Publication_ewtkrvss1s) *AAAI2017* [`modeling`](#modeling)
   
@@ -271,6 +273,7 @@ Sorted by [year](#year) or [topics](#topics)
      
 <div id="modeling"></div>	 
 #### Modeling
+   - [[Gens2017](#gens2017)] [**Compositional Kernel Machines**](https://openreview.net/pdf?id=S1Bm3T_lg) *ICLR 2017 - Workshop* `CKM`
    - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) *OpenReview@ICLR 2017* `SSPN`
    - [[Molina2017](#molina2017)] [**Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**](http://www-ai.cs.uni-dortmund.de/auto?self=$Publication_ewtkrvss1s) `Poisson SPNs`
    - [[Melibari2016c](#melibari2016c)] [**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412) `dynamic-SPN`
@@ -367,6 +370,12 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Livni2013](#livni2013)]
      [**A Provably Efficient Algorithm for Training Deep Networks**](http://arxiv.org/abs/1304.7045)
      *arXiv 2013*
+
+### Exploiting Sum-Product Theorem
+
+   - [[Gens2017](#gens2017)] 
+     [**Compositional Kernel Machines**](https://openreview.net/pdf?id=S1Bm3T_lg)
+     *ICLR 2017 - Workshop*
 
 ## Resources
 
@@ -501,6 +510,12 @@ NIPS 2012
 _Gens, Robert and Domingos, Pedro_<br/>
 **Learning the Structure of Sum-Product Networks**<br/>
 ICML 2013
+</p>
+* <p id="gens2017">
+[Gens2017]<br/>
+_Gens, Robert and Domingos, Pedro_<br/>
+**Compositional Kernel Machines**<br/>
+ICLR 2017 - Workshop Track
 </p>
 * <p id="jaini2016">
 [Jaini2016]<br/>
