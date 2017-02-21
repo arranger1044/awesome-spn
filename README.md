@@ -52,7 +52,7 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2017
-   - [[]()]
+   - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) *OpenReview@ICLR 2017* [`applications`](#applications) [`modeling`](#modeling)
    - [[Molina2017](#molina2017)] [**Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**](http://www-ai.cs.uni-dortmund.de/auto?self=$Publication_ewtkrvss1s) *AAAI2017* [`modeling`](#modeling)
   
   
@@ -271,6 +271,7 @@ Sorted by [year](#year) or [topics](#topics)
      
 <div id="modeling"></div>	 
 #### Modeling
+   - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) *OpenReview@ICLR 2017* `SSPN`
    - [[Molina2017](#molina2017)] [**Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**](http://www-ai.cs.uni-dortmund.de/auto?self=$Publication_ewtkrvss1s) `Poisson SPNs`
    - [[Melibari2016c](#melibari2016c)] [**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412) `dynamic-SPN`
    - [[Melibari2016b](#melibari2016b)]
@@ -295,7 +296,7 @@ Sorted by [year](#year) or [topics](#topics)
 	 
 <div id="applications"></div>	 
 #### Applications
-  
+   - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) *OpenReview@ICLR 2017* `segmentation`
    - [[Sguerra2016](#sguerra2016)] 
      [**Image Classification Using Sum-Product Networks for Autonomous Flight of Micro Aerial Vehicles**](http://ieeexplore.ieee.org/abstract/document/7839576/) `image-classification` `ID-Spn`
    - [[Pronobis2016](#pronobis2016)] 
@@ -473,15 +474,21 @@ arxiv.org/abs/1604.07243
 </p>
 * <p id="friesen2015">
 [Friesen2015]<br/>
-_Friesen, Abram L and Domingos, Pedro_<br/>
+_Friesen, Abram L. and Domingos, Pedro_<br/>
 **Recursive Decomposition for Nonconvex Optimization**<br/>
 Proceedings of the 24th International Joint Conference on Artificial Intelligence
 </p>
 * <p id="friesen2016">
 [Friesen2016]<br/>
-_Friesen, Abram L and Domingos, Pedro_<br/>
+_Friesen, Abram L. and Domingos, Pedro_<br/>
 **The Sum-Product Theorem: A Foundation for Learning Tractable Models**<br/>
 ICML 2016
+</p>
+* <p id="friesen2017">
+[Friesen2017]<br/>
+_Friesen, Abram L. and Domingos, Pedro_<br/>
+**Submodular Sum-Product Networks for Scene Understanding**<br/>
+openreview@ICLR 2017
 </p>
 * <p id="gens2012">
 [Gens2012]<br/>
