@@ -53,6 +53,7 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2017
+   - [[Hsu2017](#hsu2017)] [**Online Structure Learning for Sum-Product Networks with Gaussian Leaves**](https://openreview.net/pdf?id=S1QefL5ge) *ICLR 2017 - Workshop* [`structure-learning`](#structure-learning)
    - [[Gens2017](#gens2017)] [**Compositional Kernel Machines**](https://openreview.net/pdf?id=S1Bm3T_lg) *ICLR 2017 - Workshop* [`modeling`](#modeling)
    - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) *OpenReview@ICLR 2017* [`applications`](#applications) [`modeling`](#modeling)
    - [[Molina2017](#molina2017)] [**Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**](http://www-ai.cs.uni-dortmund.de/auto?self=$Publication_ewtkrvss1s) *AAAI2017* [`modeling`](#modeling)
@@ -237,6 +238,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 <div id="structure-learning"></div>
 #### Structure Learning
+   - [[Hsu2017](#hsu2017)] [**Online Structure Learning for Sum-Product Networks with Gaussian Leaves**](https://openreview.net/pdf?id=S1QefL5ge) *ICLR 2017 - Workshop* `online structure learning`
    - [[Trapp2016](#trapp2016)] [**Structure Inference in Sum-Product Networks using Infinite Sum-Product Trees**](https://drive.google.com/file/d/0B3WHb3BabixAVWFVaDEzdThSbk0/view) `infiniteSPT` `Bayesian nonparametrics`
    - [[Melibari2016c](#melibari2016c)]
      [**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412) `hill-climbing`
@@ -384,6 +386,7 @@ Sorted by [year](#year) or [topics](#topics)
      [datasets for density estimation](https://github.com/arranger1044/DEBD) as in [[Lowd2013](#lowd2013)][[Gens2013](#gens2013)][[Rooshenas2014](#rooshenas2014)][[Vergari2015](#vergari2015)][[Adel2015](#adel2015)][[Zhao2016a](#zhao2016a)][[Rooshenas2016](#rooshenas2016)]
 
 ### Code
+   - [[Hsu2017](#hsu2017)] Online structure learning for [**continuous leaf**](https://github.com/whsu/spn) SPNs `python3` 
    - [[Zhao2016a, Zhao2016b](#zhao2016b)] Parameter optimization using MLE and Bayesian approach
       [**spn-opt**](http://www.cs.cmu.edu/~hzhao1/papers/ICML2016/spn_release.zip) `C++`  
    - [[Vergari2016](#vergari2016)]
@@ -515,6 +518,12 @@ ICML 2013
 [Gens2017]<br/>
 _Gens, Robert and Domingos, Pedro_<br/>
 **Compositional Kernel Machines**<br/>
+ICLR 2017 - Workshop Track
+</p>
+* <p id="hsu2017">
+[Hsu2017]<br/>
+_Hsu, Wilson and Kalra, Agastya and Poupart, Pascal_<br/>
+**Online Structure Learning for Sum-Product Networks with Gaussian Leaves**<br/>
 ICLR 2017 - Workshop Track
 </p>
 * <p id="jaini2016">
