@@ -56,6 +56,7 @@ Sorted by [year](#year) or [topics](#topics)
   
   
 #### 2016
+   - [[Sguerra2016](#sguerra2016)] [**Image Classification Using Sum-Product Networks for Autonomous Flight of Micro Aerial Vehicles**](http://ieeexplore.ieee.org/abstract/document/7839576/) BRACIS 2016 [`applications`](#applications)
    - [[Trapp2016](#trapp2016)] [**Structure Inference in Sum-Product Networks using Infinite Sum-Product Trees**](https://drive.google.com/file/d/0B3WHb3BabixAVWFVaDEzdThSbk0/view) Practical Bayesian Nonparametrics [`structure-learning`](#structure-learning)
    - [[Pronobis2016](#pronobis2016)] [**Learning Deep Generative Spatial Models for Mobile Robots**](https://arxiv.org/abs/1610.02627) *arXiv* [`applications`](#applications)
    - [[Vergari2016](#vergari2016)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *arXiv* [`representation learning`](#representation-learning)
@@ -294,6 +295,8 @@ Sorted by [year](#year) or [topics](#topics)
 <div id="applications"></div>	 
 #### Applications
   
+   - [[Sguerra2016](#sguerra2016)] 
+     [**Image Classification Using Sum-Product Networks for Autonomous Flight of Micro Aerial Vehicles**](http://ieeexplore.ieee.org/abstract/document/7839576/) `image-classification` `ID-Spn`
    - [[Pronobis2016](#pronobis2016)] 
      [**Learning Deep Generative Spatial Models for Mobile Robots**](https://arxiv.org/abs/1610.02627)
      `robot control`
@@ -670,6 +673,11 @@ _Rooshenas, Amirmohammad and Lowd, Daniel_<br/>
 **Discriminative Structure Learning of Arithmetic Circuits**<br/>
 Proceedings of the 19th International Conference on Artificial Intelligence and Statistics
 </p>
+* <p id="sguerra2016">
+[Sguerra2016]<br/>
+_Sguerra, Bruno Massoni and Cozman, Fabio G._<br/>
+**Image Classification Using Sum-Product Networks for Autonomous Flight of Micro Aerial Vehicles**<br/>
+BRACIS 2016 - 5th Brazilian Conference on Intelligent Systems
 * <p id="stuhlmueller2012">
 [Stuhlmueller2012]<br/>
 _Stuhlmuller, Andreas and Goodman, Noah D._<br/>
