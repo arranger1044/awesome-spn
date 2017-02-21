@@ -53,6 +53,7 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2017
+   - [[Zhao2017](#zhao2017)] [** Efficient Computation of Moments in Sum-Product Networks**](https://arxiv.org/abs/1702.04767) *arXiv* [`weight-learning`](#weight-learning)
    - [[Hsu2017](#hsu2017)] [**Online Structure Learning for Sum-Product Networks with Gaussian Leaves**](https://openreview.net/pdf?id=S1QefL5ge) *ICLR 2017 - Workshop* [`structure-learning`](#structure-learning)
    - [[Gens2017](#gens2017)] [**Compositional Kernel Machines**](https://openreview.net/pdf?id=S1Bm3T_lg) *ICLR 2017 - Workshop* [`modeling`](#modeling)
    - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) *OpenReview@ICLR 2017* [`applications`](#applications) [`modeling`](#modeling)
@@ -216,6 +217,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 <div id="weight-learning"></div>
 #### Weight Learning
+   - [[Zhao2017](#zhao2017)] 
+     [** Efficient Computation of Moments in Sum-Product Networks**](https://arxiv.org/abs/1702.04767) `ADF`
    - [[Jaini2016](#jaini2016)]
      [**Online Algorithms for Sum-Product Networks with Continuous Variables**](http://jmlr.org/proceedings/papers/v52/jaini16.pdf) `OBMM`
    - [[Desana2016](#desana2016)]
@@ -762,4 +765,10 @@ ICML 2016
 _Zhao, Han and Poupart, Pascal and Gordon, Geoff_<br/>
 **A Unified Approach for Learning the Parameters of Sum-Product Networks**<br/>
 NIPS 2016
+</p>
+* <p id="zhao2017">
+[Zhao2017]<br/>
+_Zhao, Han and Gordon, Geoff and Poupart, Pascal_<br/>
+** Efficient Computation of Moments in Sum-Product Networks**<br/>
+arXiv
 </p>
