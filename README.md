@@ -52,12 +52,13 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2017
+   - [[]()]
    - [[Molina2017](#molina2017)] [**Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**](http://www-ai.cs.uni-dortmund.de/auto?self=$Publication_ewtkrvss1s) *AAAI2017* [`modeling`](#modeling)
   
   
 #### 2016
-   - [[Sguerra2016](#sguerra2016)] [**Image Classification Using Sum-Product Networks for Autonomous Flight of Micro Aerial Vehicles**](http://ieeexplore.ieee.org/abstract/document/7839576/) BRACIS 2016 [`applications`](#applications)
-   - [[Trapp2016](#trapp2016)] [**Structure Inference in Sum-Product Networks using Infinite Sum-Product Trees**](https://drive.google.com/file/d/0B3WHb3BabixAVWFVaDEzdThSbk0/view) Practical Bayesian Nonparametrics [`structure-learning`](#structure-learning)
+   - [[Sguerra2016](#sguerra2016)] [**Image Classification Using Sum-Product Networks for Autonomous Flight of Micro Aerial Vehicles**](http://ieeexplore.ieee.org/abstract/document/7839576/) *BRACIS 2016* [`applications`](#applications)
+   - [[Trapp2016](#trapp2016)] [**Structure Inference in Sum-Product Networks using Infinite Sum-Product Trees**](https://drive.google.com/file/d/0B3WHb3BabixAVWFVaDEzdThSbk0/view) *Practical Bayesian Nonparametrics* [`structure-learning`](#structure-learning)
    - [[Pronobis2016](#pronobis2016)] [**Learning Deep Generative Spatial Models for Mobile Robots**](https://arxiv.org/abs/1610.02627) *arXiv* [`applications`](#applications)
    - [[Vergari2016](#vergari2016)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *arXiv* [`representation learning`](#representation-learning)
    - [[Melibari2016c](#melibari2016c)] [**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412)
@@ -214,7 +215,7 @@ Sorted by [year](#year) or [topics](#topics)
 #### Weight Learning
    - [[Jaini2016](#jaini2016)]
      [**Online Algorithms for Sum-Product Networks with Continuous Variables**](http://jmlr.org/proceedings/papers/v52/jaini16.pdf) `OBMM`
-<   - [[Desana2016](#desana2016)]
+   - [[Desana2016](#desana2016)]
      [**Expectation Maximization for Sum-Product Networks as Exponential Family Mixture Models**](http://arxiv.org/abs/1604.07243) `EM`
    - [[Zhao2016b](#zhao2016b)]
        [**A unified approach for learning the parameters of sum-product networks**](http://arxiv.org/abs/1601.00318)
@@ -569,7 +570,6 @@ _Molina, Alejandro and Natarajan, Sriraam and Kersting, Kristian_<br/>
 **Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**<br/>
 Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAAI 2017)
 </p>
-
 * <p id="nath2014">
 [Nath2014]<br/>
 _Nath, Aniruddh and Domingos, Pedro_<br/>
