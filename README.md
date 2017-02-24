@@ -224,7 +224,7 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Desana2016](#desana2016)]
      [**Learning Arbitrary Sum-Product Network Leaves with Expectation-Maximization**](http://arxiv.org/abs/1604.07243) `EM`
    - [[Zhao2016b](#zhao2016b)]
-       [**A unified approach for learning the parameters of sum-product networks**](http://arxiv.org/abs/1601.00318)
+       [**A unified approach for learning the parameters of sum-product networks**](http://arxiv.org/abs/1601.00318) `CCCP`
    - [[Zhao2016a](#zhao2016a)]
      [**Collapsed Variational Inference for Sum-Product Networks**](http://jmlr.org/proceedings/papers/v48/zhaoa16.pdf) `variational method`
    - [[Rashwan2016](#rashwan2016)]
