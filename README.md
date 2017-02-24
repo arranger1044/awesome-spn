@@ -218,7 +218,7 @@ Sorted by [year](#year) or [topics](#topics)
 <div id="weight-learning"></div>
 #### Weight Learning
    - [[Zhao2017](#zhao2017)] 
-     [** Efficient Computation of Moments in Sum-Product Networks**](https://arxiv.org/abs/1702.04767) `ADF`
+     [**Efficient Computation of Moments in Sum-Product Networks**](https://arxiv.org/abs/1702.04767) `ADF`
    - [[Jaini2016](#jaini2016)]
      [**Online Algorithms for Sum-Product Networks with Continuous Variables**](http://jmlr.org/proceedings/papers/v52/jaini16.pdf) `OBMM`
    - [[Desana2016](#desana2016)]
@@ -226,7 +226,7 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Zhao2016b](#zhao2016b)]
        [**A unified approach for learning the parameters of sum-product networks**](http://arxiv.org/abs/1601.00318)
    - [[Zhao2016a](#zhao2016a)]
-     [**Collapsed Variational Inference for Sum-Product Networks**](http://jmlr.org/proceedings/papers/v48/zhaoa16.pdf) `non-parametrics`
+     [**Collapsed Variational Inference for Sum-Product Networks**](http://jmlr.org/proceedings/papers/v48/zhaoa16.pdf) `variational method`
    - [[Rashwan2016](#rashwan2016)]
   [**Online and Distributed Bayesian Moment Matching for Parameter Learning in Sum-Product Networks**](http://www.jmlr.org/proceedings/papers/v51/rashwan16.pdf)
   `OBMM` `EGD`
@@ -770,6 +770,6 @@ NIPS 2016
 * <p id="zhao2017">
 [Zhao2017]<br/>
 _Zhao, Han and Gordon, Geoff and Poupart, Pascal_<br/>
-** Efficient Computation of Moments in Sum-Product Networks**<br/>
+**Efficient Computation of Moments in Sum-Product Networks**<br/>
 arXiv
 </p>
