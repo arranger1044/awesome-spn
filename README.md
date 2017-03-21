@@ -54,6 +54,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2017
    - [[Zhao2017](#zhao2017)] [**Efficient Computation of Moments in Sum-Product Networks**](https://arxiv.org/abs/1702.04767) *arXiv* [`weight-learning`](#weight-learning)
+   - [[Vergari2017](#vergari2017)] [**Encoding and Decoding Representations with Sum- and Max-Product Networks**](https://openreview.net/forum?id=rkndY2VYx) *ICLR 2017 - Workshop* [`representation learning`](#representation-learning)
    - [[Hsu2017](#hsu2017)] [**Online Structure Learning for Sum-Product Networks with Gaussian Leaves**](https://openreview.net/pdf?id=S1QefL5ge) *ICLR 2017 - Workshop* [`structure-learning`](#structure-learning)
    - [[Gens2017](#gens2017)] [**Compositional Kernel Machines**](https://openreview.net/pdf?id=S1Bm3T_lg) *ICLR 2017 - Workshop* [`modeling`](#modeling)
    - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) *OpenReview@ICLR 2017* [`applications`](#applications) [`modeling`](#modeling)
@@ -274,12 +275,13 @@ Sorted by [year](#year) or [topics](#topics)
 
 <div id="representation-learning"></div>
 #### Representation Learning
-   - [[Vergari2016](#vergari2016)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *arXiv* `embeddings`
+   - [[Vergari2017](#vergari2017)] [**Encoding and Decoding Representations with Sum- and Max-Product Networks**](https://openreview.net/forum?id=rkndY2VYx) `decoding`
+   - [[Vergari2016](#vergari2016)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) `embeddings`
      
 <div id="modeling"></div>	 
 #### Modeling
-   - [[Gens2017](#gens2017)] [**Compositional Kernel Machines**](https://openreview.net/pdf?id=S1Bm3T_lg) *ICLR 2017 - Workshop* `CKM`
-   - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) *OpenReview@ICLR 2017* `SSPN`
+   - [[Gens2017](#gens2017)] [**Compositional Kernel Machines**](https://openreview.net/pdf?id=S1Bm3T_lg) `CKM`
+   - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) `SSPN`
    - [[Molina2017](#molina2017)] [**Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**](http://www-ai.cs.uni-dortmund.de/auto?self=$Publication_ewtkrvss1s) `Poisson SPNs`
    - [[Melibari2016c](#melibari2016c)] [**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412) `dynamic-SPN`
    - [[Melibari2016b](#melibari2016b)]
@@ -736,6 +738,12 @@ ECML-PKDD 2015
 _Vergari, Antonio and Di Mauro, Nicola and Esposito, Floriana_<br/>
 **Visualizing and Understanding Sum-Product Networks**<br/>
 arXiv:1608.08266
+</p>
+* <p id="vergari2017">
+[Vergari2017]<br/>
+_Vergari, Antonio and Peharz, Robert and Di Mauro, Nicola and Esposito, Floriana_<br/>
+**Encoding and Decoding Representations with Sum- and Max-Product Networks**<br/>
+ICLR 2017 - Workshop Track
 </p>
 * <p id="wang2015">
   [Wang2015]<br/>
