@@ -428,7 +428,7 @@ Sorted by [year](#year) or [topics](#topics)
      tutorial at PGM'16 _2016_
    - Poupart P. **Deep Learning, Sum-Product Networks** [**Part I**](https://www.youtube.com/watch?v=eF0APeEIJNw)
      [**Part II**](https://www.youtube.com/watch?v=9-1YE_N-lnw) _2015_
-   - Hernàndez-Lobato, J. M. [**An Introduction to Sum-Product Networks**](http://cbl.eng.cam.ac.uk/pub/Intranet/MLG/ResearchAndCommunicationClub/SumProductNetworks.pdf) _2013_  
+   - Hernàndez-Lobato, J. M. [**An Introduction to Sum-Product Networks**](https://jmhldotorg.files.wordpress.com/2013/11/slidescambridgesumproductnetworks2013.pdf) _2013_  
    - Gens, R. [**Learning the Structure of Sum-Product Networks**](http://spn.cs.washington.edu/talks/Gens_SLSPN_ICML2013.pdf)
      [[Gens2013](#gens2013)] _2013_  
    - Poon,
