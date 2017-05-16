@@ -217,8 +217,9 @@ Sorted by [year](#year) or [topics](#topics)
 
 ### Topics
 
-<div id="weight-learning"></div>
+
 #### Weight Learning
+
    - [[Zhao2017](#zhao2017)] 
      [**Efficient Computation of Moments in Sum-Product Networks**](https://arxiv.org/abs/1702.04767) `ADF`
    - [[Jaini2016](#jaini2016)]
@@ -241,8 +242,9 @@ Sorted by [year](#year) or [topics](#topics)
    [**Discriminative Learning of Sum-Product Networks**](http://spn.cs.washington.edu/papers/dspn.pdf)
    `disc Hard EM` `disc Hard SGD`
 
-<div id="structure-learning"></div>
+
 #### Structure Learning
+
    - [[Hsu2017](#hsu2017)] [**Online Structure Learning for Sum-Product Networks with Gaussian Leaves**](https://openreview.net/pdf?id=S1QefL5ge) *ICLR 2017 - Workshop* `online structure learning`
    - [[Trapp2016](#trapp2016)] [**Structure Inference in Sum-Product Networks using Infinite Sum-Product Trees**](https://drive.google.com/file/d/0B3WHb3BabixAVWFVaDEzdThSbk0/view) `infiniteSPT` `Bayesian nonparametrics`
    - [[Melibari2016c](#melibari2016c)]
@@ -274,13 +276,15 @@ Sorted by [year](#year) or [topics](#topics)
      [**Learning the Architecture of Sum-Product Networks Using Clustering on Variables**](http://papers.nips.cc/paper/4544-learning-the-architecture-of-sum-product-networks-using-clustering-on-variables.pdf)
      `top-down``k-means`
 
-<div id="representation-learning"></div>
+
 #### Representation Learning
+
    - [[Vergari2017](#vergari2017)] [**Encoding and Decoding Representations with Sum- and Max-Product Networks**](https://openreview.net/forum?id=rkndY2VYx) `decoding`
    - [[Vergari2016](#vergari2016)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) `embeddings`
      
-<div id="modeling"></div>	 
+
 #### Modeling
+
    - [[Gens2017](#gens2017)] [**Compositional Kernel Machines**](https://openreview.net/pdf?id=S1Bm3T_lg) `CKM`
    - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) `SSPN`
    - [[Molina2017](#molina2017)] [**Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**](http://www-ai.cs.uni-dortmund.de/auto?self=$Publication_ewtkrvss1s) `Poisson SPNs`
@@ -305,8 +309,9 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Poon2011](#poon2011)]
    [**Sum-Product Networks: A New Deep Architecture**](http://spn.cs.washington.edu/papers/spn.pdf) `SPN`
 	 
-<div id="applications"></div>	 
+
 #### Applications
+
    - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) *OpenReview@ICLR 2017* `segmentation`
    - [[Sguerra2016](#sguerra2016)] 
      [**Image Classification Using Sum-Product Networks for Autonomous Flight of Micro Aerial Vehicles**](http://ieeexplore.ieee.org/abstract/document/7839576/) `image-classification` `ID-Spn`
@@ -336,8 +341,9 @@ Sorted by [year](#year) or [topics](#topics)
      [**Sum-product Networks for Modeling Activities with Stochastic Structure**](http://web.engr.oregonstate.edu/~sinisa/research/publications/cvpr12_SPN.pdf)
      `cv``activity-recognition`
 	 
-<div id="theory"></div>   
+
 #### Theory
+
    - [[Deratani2017](#deratani2017)] [**Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1703.06045) `MAP inference`
    - [[Zhao2016b](#zhao2016b)]
       [**A Unified Approach for Learning the Parameters of Sum-Product Networks**](https://arxiv.org/abs/1601.00318) `CCCP`
