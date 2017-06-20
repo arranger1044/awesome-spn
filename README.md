@@ -53,7 +53,7 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2017
-   - [[Deratani2017](#deratani2017)] [**Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1703.06045) *arXiv* [`theory`](#theory)
+   - [[Conaty2017](#conaty2017)] [**Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1703.06045) *UAI 2017* [`theory`](#theory)
    - [[Zhao2017](#zhao2017)] [**Efficient Computation of Moments in Sum-Product Networks**](https://arxiv.org/abs/1702.04767) *arXiv* [`weight-learning`](#weight-learning)
    - [[Vergari2017](#vergari2017)] [**Encoding and Decoding Representations with Sum- and Max-Product Networks**](https://openreview.net/forum?id=rkndY2VYx) *ICLR 2017 - Workshop* [`representation learning`](#representation-learning)
    - [[Hsu2017](#hsu2017)] [**Online Structure Learning for Sum-Product Networks with Gaussian Leaves**](https://openreview.net/pdf?id=S1QefL5ge) *ICLR 2017 - Workshop* [`structure-learning`](#structure-learning)
@@ -344,7 +344,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Theory
 
-   - [[Deratani2017](#deratani2017)] [**Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1703.06045) `MAP inference`
+   - [[Conaty2017](#conaty2017)] [**Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1703.06045) `MAP inference`
    - [[Zhao2016b](#zhao2016b)]
       [**A Unified Approach for Learning the Parameters of Sum-Product Networks**](https://arxiv.org/abs/1601.00318) `CCCP`
    - [[Peharz2016](#peharz2016)]
@@ -492,11 +492,11 @@ _Dennis, Aaron and Ventura, Dan_<br/>
 **Greedy Structure Search for Sum-product Networks**<br/>
 International Joint Conference on Artificial Intelligence 2015
 </p>
-* <p id="deratani2017">
-[Deratani2017]<br/>
-_Deratani Mauá, Denis and de Campos, Cassio P._<br/>
+* <p id="conaty2017">
+[Conaty2017]<br/>
+_Conaty, Diarmaid and Deratani Mauá, Denis and de Campos, Cassio P._<br/>
 **Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**<br/>
-arXiv:1703.06045
+UAI 2017
 </p>
 * <p id="desana2016">
 [Desana2016]<br/>
