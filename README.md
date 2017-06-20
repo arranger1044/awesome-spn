@@ -53,6 +53,7 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2017
+   - [[Mauà2017](#conaty2017)] [**Credal Sum-Product Networks**](http://pure.qub.ac.uk/portal/files/128951275/maua17.pdf) *ISIPTA 2017* [`modeling`](#modeling)
    - [[Conaty2017](#conaty2017)] [**Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1703.06045) *UAI 2017* [`theory`](#theory)
    - [[Zhao2017](#zhao2017)] [**Efficient Computation of Moments in Sum-Product Networks**](https://arxiv.org/abs/1702.04767) *arXiv* [`weight-learning`](#weight-learning)
    - [[Vergari2017](#vergari2017)] [**Encoding and Decoding Representations with Sum- and Max-Product Networks**](https://openreview.net/forum?id=rkndY2VYx) *ICLR 2017 - Workshop* [`representation learning`](#representation-learning)
@@ -285,6 +286,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
+   - [[Mauà2017](#conaty2017)] [**Credal Sum-Product Networks**](http://pure.qub.ac.uk/portal/files/128951275/maua17.pdf) `CSPN`
    - [[Gens2017](#gens2017)] [**Compositional Kernel Machines**](https://openreview.net/pdf?id=S1Bm3T_lg) `CKM`
    - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) `SSPN`
    - [[Molina2017](#molina2017)] [**Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**](http://www-ai.cs.uni-dortmund.de/auto?self=$Publication_ewtkrvss1s) `Poisson SPNs`
@@ -468,6 +470,12 @@ _Cheng, Wei-Chen and Kok, Stanley and Pham, Hoai Vu and Chieu, Hai Leong and Cha
 **Language modeling with Sum-Product Networks**<br/>
 INTERSPEECH 2014
 </p>
+* <p id="conaty2017">
+[Conaty2017]<br/>
+_Conaty, Diarmaid and Deratani Mauá, Denis and de Campos, Cassio P._<br/>
+**Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**<br/>
+UAI 2017
+</p>
 * <p id="darwiche2003">
 [Darwiche2003]<br/>
 _Darwiche, Adnan_<br/>
@@ -491,12 +499,6 @@ Advances in Neural Information Processing Systems 25<br/>
 _Dennis, Aaron and Ventura, Dan_<br/>
 **Greedy Structure Search for Sum-product Networks**<br/>
 International Joint Conference on Artificial Intelligence 2015
-</p>
-* <p id="conaty2017">
-[Conaty2017]<br/>
-_Conaty, Diarmaid and Deratani Mauá, Denis and de Campos, Cassio P._<br/>
-**Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**<br/>
-UAI 2017
 </p>
 * <p id="desana2016">
 [Desana2016]<br/>
@@ -595,6 +597,12 @@ Proceedings of the 16th International Conference on Artificial Intelligence and 
 _Martens, James and Medabalimi, Venkatesh_<br/>
 **On the Expressive Efficiency of Sum Product Networks**<br/>
 arXiv/1411.7717
+</p>
+* <p id="maua2017">
+[Mauà2017]<br/>
+_Mauá, Deratani Denis and Cozman Fabio Gagliardi and Conaty, Diarmaid and de Campos, Cassio P._<br/>
+**Credal Sum-Product Networks**<br/>
+ISIPTA 2017
 </p>
 * <p id="melibari2016a">
 [Melibari2016a]<br/>
