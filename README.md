@@ -53,6 +53,8 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2017
+
+   - [[Trapp2017](#trapp2017)] [**Safe Semi-Supervised Learning of Sum-Product Networks**]() *UAI 2017* [`weight learning`](#weight-learning)
    - [[Mauà2017](#conaty2017)] [**Credal Sum-Product Networks**](http://pure.qub.ac.uk/portal/files/128951275/maua17.pdf) *ISIPTA 2017* [`modeling`](#modeling)
    - [[Conaty2017](#conaty2017)] [**Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1703.06045) *UAI 2017* [`theory`](#theory)
    - [[Zhao2017](#zhao2017)] [**Efficient Computation of Moments in Sum-Product Networks**](https://arxiv.org/abs/1702.04767) *arXiv* [`weight-learning`](#weight-learning)
@@ -221,6 +223,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Weight Learning
 
+   - [[Trapp2017](#trapp2017)] 
+     [**Safe Semi-Supervised Learning of Sum-Product Networks**]() `semi supervised`
    - [[Zhao2017](#zhao2017)] 
      [**Efficient Computation of Moments in Sum-Product Networks**](https://arxiv.org/abs/1702.04767) `ADF`
    - [[Jaini2016](#jaini2016)]
@@ -748,6 +752,12 @@ StaRAI 2012
 _Trapp, Martin and Peharz, Robert and Skowron, Marcin and Madl, Tamas and Pernkopf, Franz and Trappl, Robert_<br/>
 **Structure Inference in Sum-Product Networks using Infinite Sum-Product Trees**<br/>
 Workshop on Practical Bayesian Nonparametrics at NIPS 2016
+</p>
+* <p id="trapp2017">
+[Trapp2017]<br/>
+_Trapp, Martin and Madl, Tamas and Peharz, Robert and Pernkopf, Franz and Trappl, Robert_<br/>
+**Safe Semi-Supervised Learning of Sum-Product Networks**<br/>
+UAI 2017
 </p>
 * <p id="vergari2015">
 [Vergari2015]<br/>
