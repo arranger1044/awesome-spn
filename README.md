@@ -54,6 +54,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2017
 
+   - [[Rathke2017](#rathke2017)] [**Locally Adaptive Probabilistic Models for Global Segmentation of Pathological OCT Scans**](https://ipa.math.uni-heidelberg.de/dokuwiki/Papers/Rathke2017.pdf) *MICCAI 2017* [`applications`](#applications)
    - [[Trapp2017](#trapp2017)] [**Safe Semi-Supervised Learning of Sum-Product Networks**]() *UAI 2017* [`weight learning`](#weight-learning)
    - [[Mauà2017](#conaty2017)] [**Credal Sum-Product Networks**](http://pure.qub.ac.uk/portal/files/128951275/maua17.pdf) *ISIPTA 2017* [`modeling`](#modeling)
    - [[Conaty2017](#conaty2017)] [**Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1703.06045) *UAI 2017* [`theory`](#theory)
@@ -318,6 +319,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Applications
 
+   - [[Rathke2017](#rathke2017)] [**Locally Adaptive Probabilistic Models for Global Segmentation of Pathological OCT Scans**](https://ipa.math.uni-heidelberg.de/dokuwiki/Papers/Rathke2017.pdf) *MICCAI 2017* `segmentation`
    - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) *OpenReview@ICLR 2017* `segmentation`
    - [[Sguerra2016](#sguerra2016)] 
      [**Image Classification Using Sum-Product Networks for Autonomous Flight of Micro Aerial Vehicles**](http://ieeexplore.ieee.org/abstract/document/7839576/) `image-classification` `ID-Spn`
@@ -580,8 +582,7 @@ Workshop on Learning Tractable Probabilistic Models 2014
 * <p id="li2015">
 [Li2015]<br/>
 _Weizhuo Li_<br/>
-**Combining sum-product network and noisy-or model for ontology
-matching**<br/>
+**Combining sum-product network and noisy-or model for ontology matching**<br/>
 Proceedings of the 10th International Workshop on Ontology Matching
 </p>
 * <p id="livni2013">
@@ -723,6 +724,12 @@ Proceedings of the 19th International Conference on Artificial Intelligence and 
 _Ratajczak, Martin and Tschiatschek, S and Pernkopf, F_<br/>
 **Sum-Product Networks for Structured Prediction: Context-Specific Deep Conditional Random Fields**<br/>
 Workshop on Learning Tractable Probabilistic Models 2014
+</p>
+* <p id="rathke2017">
+[Rathke2017]<br/>
+_Rathke, F.; Desana, M. and Schnörr, C._<br/>
+**Locally Adaptive Probabilistic Models for Global Segmentation of Pathological OCT Scans**<br/>
+MICCAI 2017
 </p>
 * <p id="rooshenas2014">
 [Rooshenas2014]<br/>
