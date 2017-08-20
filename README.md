@@ -387,6 +387,10 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Rooshenas2016](#rooshenas2016)]
      [**Discriminative Structure Learning of Arithmetic Circuits**](http://www.jmlr.org/proceedings/papers/v51/rooshenas16.pdf)
      *AISTATS 2016*
+   - [[Choi2017](#Choi2017)]
+     [**On Relaxing Determinism in Arithmetic Circuits**](http://proceedings.mlr.press/v70/choi17a/choi17a.pdf)
+     *ICML 2017*
+     
 
 ### Other TPMs
 
@@ -475,6 +479,12 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence<br/>
 _Cheng, Wei-Chen and Kok, Stanley and Pham, Hoai Vu and Chieu, Hai Leong and Chai, Kian Ming Adam_<br/>
 **Language modeling with Sum-Product Networks**<br/>
 INTERSPEECH 2014
+</p>
+* <p id="choi2017">
+[Choi2017]<br/>
+_Cheng, Arthur and Darwiche, Adnan_<br/>
+**On Relaxing Determinism in Arithmetic Circuits**<br/>
+ICML 2017
 </p>
 * <p id="conaty2017">
 [Conaty2017]<br/>
