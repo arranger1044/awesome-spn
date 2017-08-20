@@ -55,7 +55,7 @@ Sorted by [year](#year) or [topics](#topics)
 #### 2017
 
    - [[Rathke2017](#rathke2017)] [**Locally Adaptive Probabilistic Models for Global Segmentation of Pathological OCT Scans**](https://ipa.math.uni-heidelberg.de/dokuwiki/Papers/Rathke2017.pdf) *MICCAI 2017* [`applications`](#applications)
-   - [[Trapp2017](#trapp2017)] [**Safe Semi-Supervised Learning of Sum-Product Networks**]() *UAI 2017* [`weight learning`](#weight-learning)
+   - [[Trapp2017](#trapp2017)] [**Safe Semi-Supervised Learning of Sum-Product Networks**](http://auai.org/uai2017/proceedings/papers/108.pdf) *UAI 2017* [`weight learning`](#weight-learning)
    - [[Mauà2017](#conaty2017)] [**Credal Sum-Product Networks**](http://pure.qub.ac.uk/portal/files/128951275/maua17.pdf) *ISIPTA 2017* [`modeling`](#modeling)
    - [[Conaty2017](#conaty2017)] [**Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1703.06045) *UAI 2017* [`theory`](#theory)
    - [[Zhao2017](#zhao2017)] [**Efficient Computation of Moments in Sum-Product Networks**](https://arxiv.org/abs/1702.04767) *arXiv* [`weight-learning`](#weight-learning)
@@ -456,8 +456,7 @@ Sorted by [year](#year) or [topics](#topics)
 [Adel2015]<br/>
 _Adel, Tameem and Balduzzi, David and Ghodsi, Ali_<br/>
 **Learning the Structure of Sum-Product Networks via an SVD-based Algorithm**<br/>
-Uncertainty in Artificial Intelligence 2015
-</p>
+Uncertainty in Artificial Intelligence 2015</p>
 * <p id="amer2012">
 [Amer2012]<br/>
 _Amer, Mohamed and Todorovic, Sinisa_<br/>
