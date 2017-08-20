@@ -56,7 +56,7 @@ Sorted by [year](#year) or [topics](#topics)
 
    - [[Rathke2017](#rathke2017)] [**Locally Adaptive Probabilistic Models for Global Segmentation of Pathological OCT Scans**](https://ipa.math.uni-heidelberg.de/dokuwiki/Papers/Rathke2017.pdf) *MICCAI 2017* [`applications`](#applications)
    - [[Trapp2017](#trapp2017)] [**Safe Semi-Supervised Learning of Sum-Product Networks**](http://auai.org/uai2017/proceedings/papers/108.pdf) *UAI 2017* [`weight learning`](#weight-learning)
-   - [[Mauà2017](#conaty2017)] [**Credal Sum-Product Networks**](http://pure.qub.ac.uk/portal/files/128951275/maua17.pdf) *ISIPTA 2017* [`modeling`](#modeling)
+   - [[Mauà2017](#mauà2017)] [**Credal Sum-Product Networks**](http://pure.qub.ac.uk/portal/files/128951275/maua17.pdf) *ISIPTA 2017* [`modeling`](#modeling)
    - [[Conaty2017](#conaty2017)] [**Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1703.06045) *UAI 2017* [`theory`](#theory)
    - [[Zhao2017](#zhao2017)] [**Efficient Computation of Moments in Sum-Product Networks**](https://arxiv.org/abs/1702.04767) *arXiv* [`weight-learning`](#weight-learning)
    - [[Vergari2017](#vergari2017)] [**Encoding and Decoding Representations with Sum- and Max-Product Networks**](https://openreview.net/forum?id=rkndY2VYx) *ICLR 2017 - Workshop* [`representation learning`](#representation-learning)
@@ -291,7 +291,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
-   - [[Mauà2017](#conaty2017)] [**Credal Sum-Product Networks**](http://pure.qub.ac.uk/portal/files/128951275/maua17.pdf) `CSPN`
+   - [[Mauà2017](#mauà2017)] [**Credal Sum-Product Networks**](http://pure.qub.ac.uk/portal/files/128951275/maua17.pdf) `CSPN`
    - [[Gens2017](#gens2017)] [**Compositional Kernel Machines**](https://openreview.net/pdf?id=S1Bm3T_lg) `CKM`
    - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) `SSPN`
    - [[Molina2017](#molina2017)] [**Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**](http://www-ai.cs.uni-dortmund.de/auto?self=$Publication_ewtkrvss1s) `Poisson SPNs`
@@ -603,7 +603,7 @@ _Martens, James and Medabalimi, Venkatesh_<br/>
 **On the Expressive Efficiency of Sum Product Networks**<br/>
 arXiv/1411.7717
 </p>
-* <p id="maua2017">
+* <p id="mauà2017">
 [Mauà2017]<br/>
 _Mauá, Deratani Denis and Cozman Fabio Gagliardi and Conaty, Diarmaid and de Campos, Cassio P._<br/>
 **Credal Sum-Product Networks**<br/>
