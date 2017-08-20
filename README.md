@@ -54,6 +54,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2017
 
+   - [[Pronobis2017](#pronobis2017)] [** Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**](http://www.ece.rochester.edu/projects/rail/ssrr2017/contributions/rao_rss17_ssrr_ws.pdf) *SSRR 2017* [`applications`](#applications)
    - [[Mei2017](#mei2017)] [** Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) *arXiv* [`theory`](#theory)
    - [[Rathke2017](#rathke2017)] [**Locally Adaptive Probabilistic Models for Global Segmentation of Pathological OCT Scans**](https://ipa.math.uni-heidelberg.de/dokuwiki/Papers/Rathke2017.pdf) *MICCAI 2017* [`applications`](#applications)
    - [[Trapp2017](#trapp2017)] [**Safe Semi-Supervised Learning of Sum-Product Networks**](http://auai.org/uai2017/proceedings/papers/108.pdf) *UAI 2017* [`weight learning`](#weight-learning)
@@ -70,7 +71,6 @@ Sorted by [year](#year) or [topics](#topics)
 #### 2016
    - [[Sguerra2016](#sguerra2016)] [**Image Classification Using Sum-Product Networks for Autonomous Flight of Micro Aerial Vehicles**](http://ieeexplore.ieee.org/abstract/document/7839576/) *BRACIS 2016* [`applications`](#applications)
    - [[Trapp2016](#trapp2016)] [**Structure Inference in Sum-Product Networks using Infinite Sum-Product Trees**](https://drive.google.com/file/d/0B3WHb3BabixAVWFVaDEzdThSbk0/view) *Practical Bayesian Nonparametrics* [`structure-learning`](#structure-learning)
-   - [[Pronobis2016](#pronobis2016)] [**Learning Deep Generative Spatial Models for Mobile Robots**](https://arxiv.org/abs/1610.02627) *arXiv* [`applications`](#applications)
    - [[Vergari2016](#vergari2016)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *arXiv* [`representation learning`](#representation-learning)
    - [[Melibari2016c](#melibari2016c)] [**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412)
    *PGM2016* [`modeling`](#modeling) [`structure-learning`](#structure-learning)
@@ -320,13 +320,11 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Applications
 
+   - [[Pronobis2017](#pronobis2017)] [** Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**](http://www.ece.rochester.edu/projects/rail/ssrr2017/contributions/rao_rss17_ssrr_ws.pdf) *SSRR 2017* [`robot control`](#robot control)
    - [[Rathke2017](#rathke2017)] [**Locally Adaptive Probabilistic Models for Global Segmentation of Pathological OCT Scans**](https://ipa.math.uni-heidelberg.de/dokuwiki/Papers/Rathke2017.pdf) *MICCAI 2017* `segmentation`
    - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) *OpenReview@ICLR 2017* `segmentation`
    - [[Sguerra2016](#sguerra2016)] 
      [**Image Classification Using Sum-Product Networks for Autonomous Flight of Micro Aerial Vehicles**](http://ieeexplore.ieee.org/abstract/document/7839576/) `image-classification` `ID-Spn`
-   - [[Pronobis2016](#pronobis2016)] 
-     [**Learning Deep Generative Spatial Models for Mobile Robots**](https://arxiv.org/abs/1610.02627)
-     `robot control`
    - [[Yuan2016](#yuan2016)]
      [**Modeling Spatial Layout for Scene Image Understanding Via a Novel Multiscale Sum-Product Network**](http://www.sciencedirect.com/science/article/pii/S0957417416303591)
      `cv` `segmentation`
@@ -709,9 +707,19 @@ _Poon, Hoifung and Domingos, Pedro_<br/>
 **Sum-Product Network: a New Deep Architecture**<br/>
 UAI 2011
 </p>
-* <p id="pronobis2016">
-[Pronobis2016]<br/>
-_Pronobis, A. and Rao, R.~P.~N._<br/>
+* <p id="pronobis2017">
+[Pronobis2017]<br/>
+_Pronobis, A. and Riccio, F. and Rao, R.~P.~N._<br/>
+**Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**<br/>
+SSRR 2017
+</p>
+* <p id="rahman2016">
+[Rahman2016]<br/>
+_Tahrima Rahman and Vibhav Gogate_<br/>
+**Merging Strategies for Sum-Product Networks: From Trees to
+Graphs**<br/>
+UAI 2016
+</p>
 **Learning Deep Generative Spatial Models for Mobile Robots**<br/>
 arXiv 2016
 </p>
