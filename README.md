@@ -54,8 +54,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2017
 
-   - [[Pronobis2017](#pronobis2017)] [** Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**](http://www.ece.rochester.edu/projects/rail/ssrr2017/contributions/rao_rss17_ssrr_ws.pdf) *SSRR 2017* [`applications`](#applications)
-   - [[Mei2017](#mei2017)] [** Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) *arXiv* [`theory`](#theory)
+   - [[Pronobis2017](#pronobis2017)] [**Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**](http://www.ece.rochester.edu/projects/rail/ssrr2017/contributions/rao_rss17_ssrr_ws.pdf) *SSRR 2017* [`applications`](#applications)
+   - [[Mei2017](#mei2017)] [**Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) *arXiv* [`theory`](#theory)
    - [[Rathke2017](#rathke2017)] [**Locally Adaptive Probabilistic Models for Global Segmentation of Pathological OCT Scans**](https://ipa.math.uni-heidelberg.de/dokuwiki/Papers/Rathke2017.pdf) *MICCAI 2017* [`applications`](#applications)
    - [[Trapp2017](#trapp2017)] [**Safe Semi-Supervised Learning of Sum-Product Networks**](http://auai.org/uai2017/proceedings/papers/108.pdf) *UAI 2017* [`weight learning`](#weight-learning)
    - [[Mauà2017](#mauà2017)] [**Credal Sum-Product Networks**](http://pure.qub.ac.uk/portal/files/128951275/maua17.pdf) *ISIPTA 2017* [`modeling`](#modeling)
@@ -320,7 +320,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Applications
 
-   - [[Pronobis2017](#pronobis2017)] [** Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**](http://www.ece.rochester.edu/projects/rail/ssrr2017/contributions/rao_rss17_ssrr_ws.pdf) *SSRR 2017* [`robot control`](#robot control)
+   - [[Pronobis2017](#pronobis2017)] [**Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**](http://www.ece.rochester.edu/projects/rail/ssrr2017/contributions/rao_rss17_ssrr_ws.pdf) *SSRR 2017* [`robot control`](#robot control)
    - [[Rathke2017](#rathke2017)] [**Locally Adaptive Probabilistic Models for Global Segmentation of Pathological OCT Scans**](https://ipa.math.uni-heidelberg.de/dokuwiki/Papers/Rathke2017.pdf) *MICCAI 2017* `segmentation`
    - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) *OpenReview@ICLR 2017* `segmentation`
    - [[Sguerra2016](#sguerra2016)] 
@@ -351,7 +351,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Theory
 
-   - [[Mei2017](#mei2017)] [** Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) `MAP inference`
+   - [[Mei2017](#mei2017)] [**Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) `MAP inference`
    - [[Conaty2017](#conaty2017)] [**Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1703.06045) `MAP inference`
    - [[Zhao2016b](#zhao2016b)]
       [**A Unified Approach for Learning the Parameters of Sum-Product Networks**](https://arxiv.org/abs/1601.00318) `CCCP`
@@ -622,10 +622,10 @@ ISIPTA 2017
 * <p id="mei2017">
 [Mei2017]<br/>
 _Mei, Jun and Jiang, Yong and Tu, Kewei_<br/>
-** Maximum A Posteriori Inference in Sum-Product Networks**<br/>
+**Maximum A Posteriori Inference in Sum-Product Networks**<br/>
 arXiv 2017
 </p>
-- [[Mei2017](#mei2017)] [** Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) *arXiv* [`theory`](#theory)
+- [[Mei2017](#mei2017)] [**Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) *arXiv* [`theory`](#theory)
 * <p id="melibari2016a">
 [Melibari2016a]<br/>
 _Melibari, Mazen and Poupart, Pascal and Doshi, Prashant_<br/>
