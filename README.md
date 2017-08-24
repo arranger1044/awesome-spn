@@ -53,9 +53,9 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2017
-
+   - [[Pronobis2017b](#pronobis2017b)] [**LibSPN: A Library for Learning and Inference with Sum-Product Networks and TensorFlow**](http://padl.ws/papers/Paper%2043.pdf) *PADL@ICML 2017* [`code`](#code)
    - [[Friesen2017](#friesen2017)] [**Unifying Sum-Product Networks and Submodular Fields**](http://padl.ws/papers/Paper%201.pdf) *PADL@ICML 2017* [`applications`](#applications) [`modeling`](#modeling)
-   - [[Pronobis2017](#pronobis2017)] [**Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**](http://www.ece.rochester.edu/projects/rail/ssrr2017/contributions/rao_rss17_ssrr_ws.pdf) *SSRR 2017* [`applications`](#applications)
+   - [[Pronobis2017a](#pronobis2017a)] [**Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**](http://www.ece.rochester.edu/projects/rail/ssrr2017/contributions/rao_rss17_ssrr_ws.pdf) *SSRR 2017* [`applications`](#applications)
    - [[Mei2017](#mei2017)] [**Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) *arXiv* [`theory`](#theory)
    - [[Rathke2017](#rathke2017)] [**Locally Adaptive Probabilistic Models for Global Segmentation of Pathological OCT Scans**](https://ipa.math.uni-heidelberg.de/dokuwiki/Papers/Rathke2017.pdf) *MICCAI 2017* [`applications`](#applications)
    - [[Trapp2017](#trapp2017)] [**Safe Semi-Supervised Learning of Sum-Product Networks**](http://auai.org/uai2017/proceedings/papers/108.pdf) *UAI 2017* [`weight learning`](#weight-learning)
@@ -320,7 +320,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Applications
 
-   - [[Pronobis2017](#pronobis2017)] [**Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**](http://www.ece.rochester.edu/projects/rail/ssrr2017/contributions/rao_rss17_ssrr_ws.pdf) *SSRR 2017* `robot control`
+   - [[Pronobis2017a](#pronobis2017a)] [**Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**](http://www.ece.rochester.edu/projects/rail/ssrr2017/contributions/rao_rss17_ssrr_ws.pdf) *SSRR 2017* `robot control`
    - [[Rathke2017](#rathke2017)] [**Locally Adaptive Probabilistic Models for Global Segmentation of Pathological OCT Scans**](https://ipa.math.uni-heidelberg.de/dokuwiki/Papers/Rathke2017.pdf) *MICCAI 2017* `segmentation`
    - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) *OpenReview@ICLR 2017* `segmentation`
    - [[Sguerra2016](#sguerra2016)] 
@@ -411,6 +411,7 @@ Sorted by [year](#year) or [topics](#topics)
      [datasets for density estimation](https://github.com/arranger1044/DEBD) as in [[Lowd2013](#lowd2013)][[Gens2013](#gens2013)][[Rooshenas2014](#rooshenas2014)][[Vergari2015](#vergari2015)][[Adel2015](#adel2015)][[Zhao2016a](#zhao2016a)][[Rooshenas2016](#rooshenas2016)]
 
 ### Code
+   - [[Pronobis2017b](#pronobis2017b)] [**LibSPN**](http://www.libspn.org/) tensorflow implementation with bindings in `python3`
    - [**SumProductNetworks.jl**](https://github.com/trappmartin/SumProductNetworks.jl) Software package for SPNs. `julia`
    - [[Hsu2017](#hsu2017)] [**Tachyon**](https://github.com/KalraA/Tachyon) structure and parameter learning in `python3`
    - [[Hsu2017](#hsu2017)] Online structure learning for [**continuous leaf**](https://github.com/whsu/spn) SPNs `python3` 
@@ -717,11 +718,17 @@ _Poon, Hoifung and Domingos, Pedro_<br/>
 **Sum-Product Network: a New Deep Architecture**<br/>
 UAI 2011
 </p>
-* <p id="pronobis2017">
-[Pronobis2017]<br/>
+* <p id="pronobis2017a">
+[Pronobis2017a]<br/>
 _Pronobis, A. and Riccio, F. and Rao, R.~P.~N._<br/>
 **Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**<br/>
 SSRR 2017
+</p>
+* <p id="pronobis2017b">
+[Pronobis2017b]<br/>
+_Pronobis, A. and Ranganath, A. and Rao, R.~P.~N._<br/>
+**LibSPN: A Library for Learning and Inference with Sum-Product Networks and TensorFlow**<br/>
+Principled Approaches to Deep Learning Workshop at ICML 2017
 </p>
 * <p id="rahman2016">
 [Rahman2016]<br/>
