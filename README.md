@@ -53,6 +53,9 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2017
+   - [[Desana2017](#desana2017)]
+     [**Sum-Product Graphical Models**](https://arxiv.org/abs/1708.06438)
+     *arXiv* [`modeling`](#modeling)
    - [[Pronobis2017b](#pronobis2017b)] [**LibSPN: A Library for Learning and Inference with Sum-Product Networks and TensorFlow**](http://padl.ws/papers/Paper%2043.pdf) *PADL@ICML 2017* [`code`](#code)
    - [[Friesen2017](#friesen2017)] [**Unifying Sum-Product Networks and Submodular Fields**](http://padl.ws/papers/Paper%201.pdf) *PADL@ICML 2017* [`applications`](#applications) [`modeling`](#modeling)
    - [[Pronobis2017a](#pronobis2017a)] [**Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**](http://www.ece.rochester.edu/projects/rail/ssrr2017/contributions/rao_rss17_ssrr_ws.pdf) *SSRR 2017* [`applications`](#applications)
@@ -292,6 +295,9 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
+   - [[Desana2017](#desana2017)]
+     [**Sum-Product Graphical Models**](https://arxiv.org/abs/1708.06438)
+     `SPGM`
    - [[Mauà2017](#mauà2017)] [**Credal Sum-Product Networks**](http://pure.qub.ac.uk/portal/files/128951275/maua17.pdf) `CSPN`
    - [[Gens2017](#gens2017)] [**Compositional Kernel Machines**](https://openreview.net/pdf?id=S1Bm3T_lg) `CKM`
    - [[Friesen2017](#friesen2017)] [**Unifying Sum-Product Networks and Submodular Fields**](http://padl.ws/papers/Paper%201.pdf) `SSPN`
@@ -411,6 +417,8 @@ Sorted by [year](#year) or [topics](#topics)
      [datasets for density estimation](https://github.com/arranger1044/DEBD) as in [[Lowd2013](#lowd2013)][[Gens2013](#gens2013)][[Rooshenas2014](#rooshenas2014)][[Vergari2015](#vergari2015)][[Adel2015](#adel2015)][[Zhao2016a](#zhao2016a)][[Rooshenas2016](#rooshenas2016)]
 
 ### Code
+
+   - [[Desana2017](#desana2017)] [**SPGM**](https://github.com/ocarinamat/SumProductGraphMod) implementation in `C++`
    - [[Pronobis2017b](#pronobis2017b)] [**LibSPN**](http://www.libspn.org/) tensorflow implementation with bindings in `python3`
    - [**SumProductNetworks.jl**](https://github.com/trappmartin/SumProductNetworks.jl) Software package for SPNs. `julia`
    - [[Hsu2017](#hsu2017)] [**Tachyon**](https://github.com/KalraA/Tachyon) structure and parameter learning in `python3`
@@ -522,6 +530,12 @@ International Joint Conference on Artificial Intelligence 2015
 _Desana, Mattia and Schn{\"{o}}rr Christoph_<br/>
 **Learning Arbitrary Sum-Product Network Leaves with Expectation-Maximization**<br/>
 arxiv.org/abs/1604.07243
+</p>
+* <p id="desana2017">
+[Desana2017]<br/>
+_Desana, Mattia and Schn{\"{o}}rr Christoph_<br/>
+**Sum-Product Graphical Models**<br/>
+arxiv.org/abs/1708.06438
 </p>
 * <p id="friesen2015">
 [Friesen2015]<br/>
