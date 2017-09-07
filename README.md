@@ -55,7 +55,7 @@ Sorted by [year](#year) or [topics](#topics)
 #### 2017
    - [[DiMauro2017](#dimauro2017)]
      [**Alternative variable splitting methods to learn Sum-Product Networks**](https://www.researchgate.net/profile/Esposito_Floriana/publication/319504310_Alternative_variable_splitting_methods_to_learn_Sum-Product_Networks/links/59afcc050f7e9bf3c72920bb/Alternative-variable-splitting-methods-to-learn-Sum-Product-Networks.pdf)
-     *UAI2016* [`structure-learning`](#structure-learning)
+     [`structure-learning`](#structure-learning)
    - [[Desana2017](#desana2017)]
      [**Sum-Product Graphical Models**](https://arxiv.org/abs/1708.06438)
      *arXiv* [`modeling`](#modeling)
