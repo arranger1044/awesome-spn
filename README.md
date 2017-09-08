@@ -53,6 +53,9 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2017
+   - [[DiMauro2017](#dimauro2017)]
+     [**Alternative Variable Splitting Methods to Learn Sum-Product Networks**](https://www.researchgate.net/profile/Esposito_Floriana/publication/319504310_Alternative_variable_splitting_methods_to_learn_Sum-Product_Networks/links/59afcc050f7e9bf3c72920bb/Alternative-variable-splitting-methods-to-learn-Sum-Product-Networks.pdf)
+     [`structure-learning`](#structure-learning)
    - [[Desana2017](#desana2017)]
      [**Sum-Product Graphical Models**](https://arxiv.org/abs/1708.06438)
      *arXiv* [`modeling`](#modeling)
@@ -255,6 +258,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Structure Learning
 
+   - [[DiMauro2017](#dimauro2017)]
+     [**Alternative Variable Splitting Methods to Learn Sum-Product Networks**](https://www.researchgate.net/profile/Esposito_Floriana/publication/319504310_Alternative_variable_splitting_methods_to_learn_Sum-Product_Networks/links/59afcc050f7e9bf3c72920bb/Alternative-variable-splitting-methods-to-learn-Sum-Product-Networks.pdf) `RGVS` `EBVS`
    - [[Hsu2017](#hsu2017)] [**Online Structure Learning for Sum-Product Networks with Gaussian Leaves**](https://openreview.net/pdf?id=S1QefL5ge) *ICLR 2017 - Workshop* `online structure learning`
    - [[Trapp2016](#trapp2016)] [**Structure Inference in Sum-Product Networks using Infinite Sum-Product Trees**](https://drive.google.com/file/d/0B3WHb3BabixAVWFVaDEzdThSbk0/view) `infiniteSPT` `Bayesian nonparametrics`
    - [[Melibari2016c](#melibari2016c)]
@@ -536,6 +541,12 @@ arxiv.org/abs/1604.07243
 _Desana, Mattia and Schn{\"{o}}rr Christoph_<br/>
 **Sum-Product Graphical Models**<br/>
 arxiv.org/abs/1708.06438
+</p>
+* <p id="dimauro2017">
+[DiMauro2017]<br/>
+_Di Mauro, Nicola and Esposito, Floriana and Ventola, Fabrizio Giuseppe and Vergari, Antonio_<br/>
+**Alternative variable splitting methods to learn Sum-Product Networks**<br/>
+Proceedings of the 16th International Conference of the Italian Association for Artificial Intelligence (AI*IA 2017)
 </p>
 * <p id="friesen2015">
 [Friesen2015]<br/>
