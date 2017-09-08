@@ -167,7 +167,7 @@ Sorted by [year](#year) or [topics](#topics)
      [**Modeling Speech with Sum-Product Networks: Application to Bandwidth Extension**](http://spn.cs.washington.edu/papers/icassp14.pdf)
      *ICASSP2014* [`applications`](#applications)
    - [[Lee2014](#lee2014)]
-     [Non-Parametric Bayesian Sum-Product Networks](http://spn.cs.washington.edu/papers/ltpm2014_paper_6.pdf)
+     [**Non-Parametric Bayesian Sum-Product Networks**](http://spn.cs.washington.edu/papers/ltpm2014_paper_6.pdf)
      *LTPM2014*  [`structure-learning`](#structure-learning)
    - [[Ratajczak2014](#ratajczak2014)]
      [**Sum-Product Networks for Structured Prediction: Context-Specific Deep Conditional Random Fields**](https://www.spsc.tugraz.at/biblio/ratajczak20143046)
@@ -278,7 +278,7 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Nath2015](#nath2015)]
      [**Learning Relational Sum-Product Networks**](http://homes.cs.washington.edu/~pedrod/papers/aaai15.pdf) `relational`
    - [[Lee2014](#lee2014)]
-     [Non-Parametric Bayesian Sum-Product Networks](http://spn.cs.washington.edu/papers/ltpm2014_paper_6.pdf) `non-parametrics`
+     [**Non-Parametric Bayesian Sum-Product Networks**](http://spn.cs.washington.edu/papers/ltpm2014_paper_6.pdf) `non-parametrics`
    - [[Peharz2014b](#peharz2014b)] [**Learning Selective Sum-Product Networks**](http://spn.cs.washington.edu/papers/ltpm2014_paper_9.pdf) `SSPN`
    - [[Rooshenas2014](#rooshenas2014)] [**Learning Sum-Product Networks with Direct and Indirect Interactions**](http://ix.cs.uoregon.edu/~lowd/icml14rooshenas.pdf) `ID-SPN`
    - [[Lee2013](#lee2013)]
