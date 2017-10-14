@@ -53,6 +53,9 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2017
+   - [[Sharir2017](#sharir2017)]
+     [** Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) *arXiv*
+     [`modeling`](#modeling)
    - [[Zheng2017](#zheng2017)]
      [**Learning Semantic Maps with Topological Spatial Relations Using Graph-Structured Sum-Product Networks**](https://arxiv.org/abs/1709.08274) *arXiv*
      [`modeling`](#modeling)
@@ -303,6 +306,9 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
+
+   - [[Sharir2017](#sharir2017)]
+     [** Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) `SPQN`
    - [[Zheng2017](#zheng2017)]
      [**Learning Semantic Maps with Topological Spatial Relations Using Graph-Structured Sum-Product Networks**](https://arxiv.org/abs/1709.08274)
      `GraphSPN`
@@ -808,6 +814,11 @@ _Rooshenas, Amirmohammad and Lowd, Daniel_<br/>
 **Discriminative Structure Learning of Arithmetic Circuits**<br/>
 Proceedings of the 19th International Conference on Artificial Intelligence and Statistics
 </p>
+* <p id="sharir2017">
+[Sharir2017]<br/>
+_Sharir, Or and Shashua, Amnon_<br/>
+** Sum-Product-Quotient Networks**<br/>
+arXiv
 * <p id="sguerra2016">
 [Sguerra2016]<br/>
 _Sguerra, Bruno Massoni and Cozman, Fabio G._<br/>
