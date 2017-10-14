@@ -54,7 +54,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2017
    - [[Sharir2017](#sharir2017)]
-     [** Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) *arXiv*
+     [**Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) *arXiv*
      [`modeling`](#modeling)
    - [[Zheng2017](#zheng2017)]
      [**Learning Semantic Maps with Topological Spatial Relations Using Graph-Structured Sum-Product Networks**](https://arxiv.org/abs/1709.08274) *arXiv*
@@ -308,7 +308,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 
    - [[Sharir2017](#sharir2017)]
-     [** Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) `SPQN`
+     [**Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) `SPQN`
    - [[Zheng2017](#zheng2017)]
      [**Learning Semantic Maps with Topological Spatial Relations Using Graph-Structured Sum-Product Networks**](https://arxiv.org/abs/1709.08274)
      `GraphSPN`
