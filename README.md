@@ -20,6 +20,7 @@ are very welcome!
 
    * [Papers](#papers)
       * [Year](#year)
+        * [2018](#2018)
         * [2017](#2017)
         * [2016](#2016)
         * [2015](#2015)
@@ -52,6 +53,11 @@ Sorted by [year](#year) or [topics](#topics)
 
 ### Year
 
+#### 2018
+   - [[Molina2018](#molina2018)]
+     [**Mixed Sum-Product Networks: A Deep Architecture for Hybrid Domains**](http://www.ml.informatik.tu-darmstadt.de/papers/molina2018aaai_mspns.pdf) *AAAI 2018*
+     [`modeling`](#modeling)
+     
 #### 2017
    - [[Sharir2017](#sharir2017)]
      [**Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) *arXiv*
@@ -307,6 +313,8 @@ Sorted by [year](#year) or [topics](#topics)
 #### Modeling
 
 
+   - [[Molina2018](#molina2018)]
+     [**Mixed Sum-Product Networks: A Deep Architecture for Hybrid Domains**](http://www.ml.informatik.tu-darmstadt.de/papers/molina2018aaai_mspns.pdf) `MSPN`
    - [[Sharir2017](#sharir2017)]
      [**Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) `SPQN`
    - [[Zheng2017](#zheng2017)]
@@ -435,6 +443,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 ### Code
 
+   - [[Molina2018](#molina2018)] [**MSPN**](https://github.com/alejandromolinaml/MSPN) learning SPNs in hybrid domains in `python3` 
    - [[DiMauro2017](#dimauro2017)] [**alt-vs-spyn**](https://github.com/fabriziov/alt-vs-spyn) `dockerized` `python3` implementation of structure learning variants
    - [[Desana2017](#desana2017)] [**SPGM**](https://github.com/ocarinamat/SumProductGraphMod) implementation in `C++`
    - [[Pronobis2017b](#pronobis2017b)] [**LibSPN**](http://www.libspn.org/) tensorflow implementation with bindings in `python3`
@@ -689,6 +698,12 @@ International Conference on Probabilistic Graphical Models 2016
 _Molina, Alejandro and Natarajan, Sriraam and Kersting, Kristian_<br/>
 **Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**<br/>
 Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAAI 2017)
+</p>
+* <p id="molina2018">
+[Molina2018]<br/>
+_Molina, Alejandro and Vergari, Antonio and Di Mauro, Nicola and Natarajan, Sriraam and Esposito, Floriana and Kersting, Kristian_<br/>
+**Mixed Sum-Product Networks: A Deep Architecture for Hybrid Domains**<br/>
+Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI 2018)
 </p>
 * <p id="nath2014">
 [Nath2014]<br/>
