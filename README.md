@@ -54,6 +54,10 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2018
+
+   - [[Vergari2018](#vergari2018)]
+     [**Sum-Product Autoencoding: Encoding and Decoding Representations with Sum-Product Networks**](http://www.di.uniba.it/~ndm/pubs/vergari18aaai.pdf) *AAAI 2018*
+     [`representation learning`](#representation-learning)
    - [[Molina2018](#molina2018)]
      [**Mixed Sum-Product Networks: A Deep Architecture for Hybrid Domains**](http://www.ml.informatik.tu-darmstadt.de/papers/molina2018aaai_mspns.pdf) *AAAI 2018*
      [`modeling`](#modeling)
@@ -306,6 +310,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Representation Learning
 
+   - [[Vergari2018](#vergari2018)]
+     [**Sum-Product Autoencoding: Encoding and Decoding Representations with Sum-Product Networks**](http://www.di.uniba.it/~ndm/pubs/vergari18aaai.pdf) `SPAE`
    - [[Vergari2017](#vergari2017)] [**Encoding and Decoding Representations with Sum- and Max-Product Networks**](https://openreview.net/forum?id=rkndY2VYx) `decoding`
    - [[Vergari2016](#vergari2016)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) `embeddings`
      
@@ -443,6 +449,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 ### Code
 
+   - [[Vergari2018](#vergari2018)] [**SPAE**](https://github.com/arranger1044/spae) encoding and decoding embeddings from SPNs in `python3`
    - [[Molina2018](#molina2018)] [**MSPN**](https://github.com/alejandromolinaml/MSPN) learning SPNs in hybrid domains in `python3` 
    - [[DiMauro2017](#dimauro2017)] [**alt-vs-spyn**](https://github.com/fabriziov/alt-vs-spyn) `dockerized` `python3` implementation of structure learning variants
    - [[Desana2017](#desana2017)] [**SPGM**](https://github.com/ocarinamat/SumProductGraphMod) implementation in `C++`
@@ -875,6 +882,12 @@ arXiv:1608.08266
 _Vergari, Antonio and Peharz, Robert and Di Mauro, Nicola and Esposito, Floriana_<br/>
 **Encoding and Decoding Representations with Sum- and Max-Product Networks**<br/>
 ICLR 2017 - Workshop Track
+</p>
+* <p id="vergari2018">
+[Vergari2018]<br/>
+_Vergari, Antonio and Peharz, Robert and Di Mauro, Nicola and Molina, Alejandro and Kersting, Kristian and Esposito, Floriana_<br/>
+**Sum-Product Autoencoding: Encoding and Decoding Representations with Sum-Product Networks**<br/>
+Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI 2018)
 </p>
 * <p id="wang2015">
   [Wang2015]<br/>
