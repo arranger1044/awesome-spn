@@ -435,7 +435,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 ### Code
 
-   - [[DiMauro2017](#dimauro2017)] [**SPGM**](https://github.com/fabriziov/alt-vs-spyn) `dockerized` `python3` implementation of structure learning variants
+   - [[DiMauro2017](#dimauro2017)] [**alt-vs-spyn**](https://github.com/fabriziov/alt-vs-spyn) `dockerized` `python3` implementation of structure learning variants
    - [[Desana2017](#desana2017)] [**SPGM**](https://github.com/ocarinamat/SumProductGraphMod) implementation in `C++`
    - [[Pronobis2017b](#pronobis2017b)] [**LibSPN**](http://www.libspn.org/) tensorflow implementation with bindings in `python3`
    - [**SumProductNetworks.jl**](https://github.com/trappmartin/SumProductNetworks.jl) Software package for SPNs. `julia`
