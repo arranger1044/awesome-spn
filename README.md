@@ -54,7 +54,9 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2018
-
+   - [[Zheng2018](#zheng2018)]
+     [**Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**](https://arxiv.org/abs/1709.08274) *AAAI 2018*
+     [`modeling`](#modeling)
    - [[Mei2018](#mei2018)] [**Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) *AAAI 2018* [`theory`](#theory)
    - [[Vergari2018](#vergari2018)]
      [**Sum-Product Autoencoding: Encoding and Decoding Representations with Sum-Product Networks**](http://www.di.uniba.it/~ndm/pubs/vergari18aaai.pdf) *AAAI 2018*
@@ -66,9 +68,6 @@ Sorted by [year](#year) or [topics](#topics)
 #### 2017
    - [[Sharir2017](#sharir2017)]
      [**Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) *arXiv*
-     [`modeling`](#modeling)
-   - [[Zheng2017](#zheng2017)]
-     [**Learning Semantic Maps with Topological Spatial Relations Using Graph-Structured Sum-Product Networks**](https://arxiv.org/abs/1709.08274) *arXiv*
      [`modeling`](#modeling)
    - [[DiMauro2017](#dimauro2017)]
      [**Alternative Variable Splitting Methods to Learn Sum-Product Networks**](https://www.researchgate.net/profile/Esposito_Floriana/publication/319504310_Alternative_variable_splitting_methods_to_learn_Sum-Product_Networks/links/59afcc050f7e9bf3c72920bb/Alternative-variable-splitting-methods-to-learn-Sum-Product-Networks.pdf) *AIxIA 2017*
