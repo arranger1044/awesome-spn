@@ -56,7 +56,7 @@ Sorted by [year](#year) or [topics](#topics)
 #### 2018
    - [[Zheng2018](#zheng2018)]
      [**Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**](https://arxiv.org/abs/1709.08274) *AAAI 2018*
-     [`modeling`](#modeling)[`application`](#applications)
+     [`modeling`](#modeling) [`applications`](#applications)
    - [[Mei2018](#mei2018)] [**Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) *AAAI 2018* [`theory`](#theory)
    - [[Vergari2018](#vergari2018)]
      [**Sum-Product Autoencoding: Encoding and Decoding Representations with Sum-Product Networks**](http://www.di.uniba.it/~ndm/pubs/vergari18aaai.pdf) *AAAI 2018*
