@@ -317,14 +317,13 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
-
+   - [[Zheng2018](#zheng2018)]
+     [**Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**](https://arxiv.org/abs/1709.08274)
+     `GraphSPN`
    - [[Molina2018](#molina2018)]
      [**Mixed Sum-Product Networks: A Deep Architecture for Hybrid Domains**](http://www.ml.informatik.tu-darmstadt.de/papers/molina2018aaai_mspns.pdf) `MSPN`
    - [[Sharir2017](#sharir2017)]
      [**Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) `SPQN`
-   - [[Zheng2017](#zheng2017)]
-     [**Learning Semantic Maps with Topological Spatial Relations Using Graph-Structured Sum-Product Networks**](https://arxiv.org/abs/1709.08274)
-     `GraphSPN`
    - [[Desana2017](#desana2017)]
      [**Sum-Product Graphical Models**](https://arxiv.org/abs/1708.06438)
      `SPGM`
@@ -925,10 +924,10 @@ _Zhao, Han and Gordon, Geoff and Poupart, Pascal_<br/>
 **Efficient Computation of Moments in Sum-Product Networks**<br/>
 NIPS 2017
 </p>
-* <p id="zheng2017">
-[Zheng2017]<br/>
+* <p id="zheng2018">
+[Zheng2018]<br/>
 _Zheng, Kaiyu and Pronobis, Andrzej and Rao, Rajesh P.N.<br/>
-**Learning Semantic Maps with Topological Spatial Relations Using Graph-Structured Sum-Product Networks**<br/>
-arXiv
+**Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**<br/>
+AAAI 2018
 </p>
 
