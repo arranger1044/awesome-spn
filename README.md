@@ -55,6 +55,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2018
 
+   - [[Mei2018](#mei2018)] [**Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) *AAAI 2018* [`theory`](#theory)
    - [[Vergari2018](#vergari2018)]
      [**Sum-Product Autoencoding: Encoding and Decoding Representations with Sum-Product Networks**](http://www.di.uniba.it/~ndm/pubs/vergari18aaai.pdf) *AAAI 2018*
      [`representation learning`](#representation-learning)
@@ -78,7 +79,6 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Pronobis2017b](#pronobis2017b)] [**LibSPN: A Library for Learning and Inference with Sum-Product Networks and TensorFlow**](http://padl.ws/papers/Paper%2043.pdf) *PADL@ICML 2017* [`code`](#code)
    - [[Friesen2017](#friesen2017)] [**Unifying Sum-Product Networks and Submodular Fields**](http://padl.ws/papers/Paper%201.pdf) *PADL@ICML 2017* [`applications`](#applications) [`modeling`](#modeling)
    - [[Pronobis2017a](#pronobis2017a)] [**Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**](http://www.ece.rochester.edu/projects/rail/ssrr2017/contributions/rao_rss17_ssrr_ws.pdf) *SSRR 2017* [`applications`](#applications)
-   - [[Mei2017](#mei2017)] [**Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) *arXiv* [`theory`](#theory)
    - [[Rathke2017](#rathke2017)] [**Locally Adaptive Probabilistic Models for Global Segmentation of Pathological OCT Scans**](https://ipa.math.uni-heidelberg.de/dokuwiki/Papers/Rathke2017.pdf) *MICCAI 2017* [`applications`](#applications)
    - [[Trapp2017](#trapp2017)] [**Safe Semi-Supervised Learning of Sum-Product Networks**](http://auai.org/uai2017/proceedings/papers/108.pdf) *UAI 2017* [`weight learning`](#weight-learning)
    - [[Mauà2017](#mauà2017)] [**Credal Sum-Product Networks**](http://pure.qub.ac.uk/portal/files/128951275/maua17.pdf) *ISIPTA 2017* [`modeling`](#modeling)
@@ -388,7 +388,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Theory
 
-   - [[Mei2017](#mei2017)] [**Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) `MAP inference`
+   - [[Mei2018](#mei2018)] [**Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) `MAP inference`
    - [[Conaty2017](#conaty2017)] [**Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1703.06045) `MAP inference`
    - [[Zhao2016b](#zhao2016b)]
       [**A Unified Approach for Learning the Parameters of Sum-Product Networks**](https://arxiv.org/abs/1601.00318) `CCCP`
@@ -449,6 +449,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 ### Code
 
+   - [[Mai2018](#mei2018)] [**MAP inference**](https://github.com/shtechair/maxspn) routines and experiments in  `Go` 
    - [[Vergari2018](#vergari2018)] [**SPAE**](https://github.com/arranger1044/spae) encoding and decoding embeddings from SPNs in `python3`
    - [[Molina2018](#molina2018)] [**MSPN**](https://github.com/alejandromolinaml/MSPN) learning SPNs in hybrid domains in `python3` 
    - [[DiMauro2017](#dimauro2017)] [**alt-vs-spyn**](https://github.com/fabriziov/alt-vs-spyn) `dockerized` `python3` implementation of structure learning variants
@@ -674,11 +675,11 @@ _Mauá, Deratani Denis and Cozman Fabio Gagliardi and Conaty, Diarmaid and de Ca
 **Credal Sum-Product Networks**<br/>
 ISIPTA 2017
 </p>
-* <p id="mei2017">
-[Mei2017]<br/>
+* <p id="mei2018">
+[Mei2018]<br/>
 _Mei, Jun and Jiang, Yong and Tu, Kewei_<br/>
 **Maximum A Posteriori Inference in Sum-Product Networks**<br/>
-arXiv 2017
+AAAI 2018
 </p>
 - [[Mei2017](#mei2017)] [**Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) *arXiv* [`theory`](#theory)
 * <p id="melibari2016a">
