@@ -54,7 +54,9 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2018
-
+   - [[Zheng2018](#zheng2018)]
+     [**Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**](https://arxiv.org/abs/1709.08274) *AAAI 2018*
+     [`modeling`](#modeling) [`applications`](#applications)
    - [[Mei2018](#mei2018)] [**Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) *AAAI 2018* [`theory`](#theory)
    - [[Vergari2018](#vergari2018)]
      [**Sum-Product Autoencoding: Encoding and Decoding Representations with Sum-Product Networks**](http://www.di.uniba.it/~ndm/pubs/vergari18aaai.pdf) *AAAI 2018*
@@ -66,9 +68,6 @@ Sorted by [year](#year) or [topics](#topics)
 #### 2017
    - [[Sharir2017](#sharir2017)]
      [**Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) *arXiv*
-     [`modeling`](#modeling)
-   - [[Zheng2017](#zheng2017)]
-     [**Learning Semantic Maps with Topological Spatial Relations Using Graph-Structured Sum-Product Networks**](https://arxiv.org/abs/1709.08274) *arXiv*
      [`modeling`](#modeling)
    - [[DiMauro2017](#dimauro2017)]
      [**Alternative Variable Splitting Methods to Learn Sum-Product Networks**](https://www.researchgate.net/profile/Esposito_Floriana/publication/319504310_Alternative_variable_splitting_methods_to_learn_Sum-Product_Networks/links/59afcc050f7e9bf3c72920bb/Alternative-variable-splitting-methods-to-learn-Sum-Product-Networks.pdf) *AIxIA 2017*
@@ -318,14 +317,13 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
-
+   - [[Zheng2018](#zheng2018)]
+     [**Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**](https://arxiv.org/abs/1709.08274)
+     `GraphSPN`
    - [[Molina2018](#molina2018)]
      [**Mixed Sum-Product Networks: A Deep Architecture for Hybrid Domains**](http://www.ml.informatik.tu-darmstadt.de/papers/molina2018aaai_mspns.pdf) `MSPN`
    - [[Sharir2017](#sharir2017)]
      [**Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) `SPQN`
-   - [[Zheng2017](#zheng2017)]
-     [**Learning Semantic Maps with Topological Spatial Relations Using Graph-Structured Sum-Product Networks**](https://arxiv.org/abs/1709.08274)
-     `GraphSPN`
    - [[Desana2017](#desana2017)]
      [**Sum-Product Graphical Models**](https://arxiv.org/abs/1708.06438)
      `SPGM`
@@ -357,6 +355,9 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Applications
 
+   - [[Zheng2018](#zheng2018)]
+     [**Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**](https://arxiv.org/abs/1709.08274)
+     `semantic mapping in robotics`
    - [[Pronobis2017a](#pronobis2017a)] [**Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**](http://www.ece.rochester.edu/projects/rail/ssrr2017/contributions/rao_rss17_ssrr_ws.pdf) *SSRR 2017* `robot control`
    - [[Rathke2017](#rathke2017)] [**Locally Adaptive Probabilistic Models for Global Segmentation of Pathological OCT Scans**](https://ipa.math.uni-heidelberg.de/dokuwiki/Papers/Rathke2017.pdf) *MICCAI 2017* `segmentation`
    - [[Friesen2017](#friesen2017)] [**Submodular Sum-Product Networks for Scene Understanding**](https://openreview.net/pdf?id=ryEGFD9gl) *OpenReview@ICLR 2017* `segmentation`
@@ -927,10 +928,10 @@ _Zhao, Han and Gordon, Geoff and Poupart, Pascal_<br/>
 **Efficient Computation of Moments in Sum-Product Networks**<br/>
 NIPS 2017
 </p>
-* <p id="zheng2017">
-[Zheng2017]<br/>
+* <p id="zheng2018">
+[Zheng2018]<br/>
 _Zheng, Kaiyu and Pronobis, Andrzej and Rao, Rajesh P.N.<br/>
-**Learning Semantic Maps with Topological Spatial Relations Using Graph-Structured Sum-Product Networks**<br/>
-arXiv
+**Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**<br/>
+AAAI 2018
 </p>
 
