@@ -458,6 +458,7 @@ Sorted by [year](#year) or [topics](#topics)
    - [**SumProductNetworks.jl**](https://github.com/trappmartin/SumProductNetworks.jl) Software package for SPNs. `julia`
    - [[Hsu2017](#hsu2017)] [**Tachyon**](https://github.com/KalraA/Tachyon) structure and parameter learning in `python3`
    - [[Hsu2017](#hsu2017)] Online structure learning for [**continuous leaf**](https://github.com/whsu/spn) SPNs `python3` 
+   - [[Peharz2016](#peharz2016)] Weight learning by the correct [**EM algorithm**](https://github.com/smatmo/LatentSPN) in `C++` 
    - [[Zhao2016a, Zhao2016b](#zhao2016b)] Parameter optimization using MLE and Bayesian approach
       [**spn-opt**](http://www.cs.cmu.edu/~hzhao1/papers/ICML2016/spn_release.zip) `C++`  
    - [[Vergari2016](#vergari2016)]
