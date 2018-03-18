@@ -54,6 +54,9 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2018
+   - [[Sharir2018](#sharir2018)]
+     [**Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) *AISTATS 2018*
+     [`modeling`](#modeling)
    - [[Zheng2018](#zheng2018)]
      [**Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**](https://arxiv.org/abs/1709.08274) *AAAI 2018*
      [`modeling`](#modeling) [`applications`](#applications)
@@ -66,9 +69,7 @@ Sorted by [year](#year) or [topics](#topics)
      [`modeling`](#modeling)
      
 #### 2017
-   - [[Sharir2017](#sharir2017)]
-     [**Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) *arXiv*
-     [`modeling`](#modeling)
+   
    - [[DiMauro2017](#dimauro2017)]
      [**Alternative Variable Splitting Methods to Learn Sum-Product Networks**](https://www.researchgate.net/profile/Esposito_Floriana/publication/319504310_Alternative_variable_splitting_methods_to_learn_Sum-Product_Networks/links/59afcc050f7e9bf3c72920bb/Alternative-variable-splitting-methods-to-learn-Sum-Product-Networks.pdf) *AIxIA 2017*
      [`structure-learning`](#structure-learning)
@@ -322,7 +323,7 @@ Sorted by [year](#year) or [topics](#topics)
      `GraphSPN`
    - [[Molina2018](#molina2018)]
      [**Mixed Sum-Product Networks: A Deep Architecture for Hybrid Domains**](http://www.ml.informatik.tu-darmstadt.de/papers/molina2018aaai_mspns.pdf) `MSPN`
-   - [[Sharir2017](#sharir2017)]
+   - [[Sharir2018](#sharir2018)]
      [**Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) `SPQN`
    - [[Desana2017](#desana2017)]
      [**Sum-Product Graphical Models**](https://arxiv.org/abs/1708.06438)
@@ -840,11 +841,11 @@ _Rooshenas, Amirmohammad and Lowd, Daniel_<br/>
 **Discriminative Structure Learning of Arithmetic Circuits**<br/>
 Proceedings of the 19th International Conference on Artificial Intelligence and Statistics
 </p>
-* <p id="sharir2017">
-[Sharir2017]<br/>
+* <p id="sharir2018">
+[Sharir2018]<br/>
 _Sharir, Or and Shashua, Amnon_<br/>
 ** Sum-Product-Quotient Networks**<br/>
-arXiv
+AISTATS 2018
 * <p id="sguerra2016">
 [Sguerra2016]<br/>
 _Sguerra, Bruno Massoni and Cozman, Fabio G._<br/>
