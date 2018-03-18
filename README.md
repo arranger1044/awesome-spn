@@ -70,6 +70,10 @@ Sorted by [year](#year) or [topics](#topics)
      
 #### 2017
    
+   - [[Dennis2017b](#dennis2017b)]
+     [**Autoencoder-Enhanced Sum-Product Networks**](http://ieeexplore.ieee.org/document/8260779/) *ICMLA 2017* [`modeling`](#modeling)
+   - [[Dennis2017a](#dennis2017a)]
+     [**Online Structure-Search for Sum-Product Networks**](http://ieeexplore.ieee.org/document/8260628/) *ICMLA 2017*  [`structure-learning`](#structure-learning)
    - [[DiMauro2017](#dimauro2017)]
      [**Alternative Variable Splitting Methods to Learn Sum-Product Networks**](https://www.researchgate.net/profile/Esposito_Floriana/publication/319504310_Alternative_variable_splitting_methods_to_learn_Sum-Product_Networks/links/59afcc050f7e9bf3c72920bb/Alternative-variable-splitting-methods-to-learn-Sum-Product-Networks.pdf) *AIxIA 2017*
      [`structure-learning`](#structure-learning)
@@ -274,9 +278,13 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Structure Learning
 
-   - [[DiMauro2017](#dimauro2017)]
+   
+   
+   - [[Dennis2017a](#dennis2017a)]
+     [**Online Structure-Search for Sum-Product Networks**](http://ieeexplore.ieee.org/document/8260628/) 
+   - [[DiMauro2017](#dimauro2017)] `online SEARCHSPN`
      [**Alternative Variable Splitting Methods to Learn Sum-Product Networks**](https://www.researchgate.net/profile/Esposito_Floriana/publication/319504310_Alternative_variable_splitting_methods_to_learn_Sum-Product_Networks/links/59afcc050f7e9bf3c72920bb/Alternative-variable-splitting-methods-to-learn-Sum-Product-Networks.pdf) `RGVS` `EBVS`
-   - [[Hsu2017](#hsu2017)] [**Online Structure Learning for Sum-Product Networks with Gaussian Leaves**](https://openreview.net/pdf?id=S1QefL5ge) *ICLR 2017 - Workshop* `online structure learning`
+   - [[Hsu2017](#hsu2017)] [**Online Structure Learning for Sum-Product Networks with Gaussian Leaves**](https://openreview.net/pdf?id=S1QefL5ge)  `online structure learning`
    - [[Trapp2016](#trapp2016)] [**Structure Inference in Sum-Product Networks using Infinite Sum-Product Trees**](https://drive.google.com/file/d/0B3WHb3BabixAVWFVaDEzdThSbk0/view) `infiniteSPT` `Bayesian nonparametrics`
    - [[Melibari2016c](#melibari2016c)]
      [**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412) `hill-climbing`
@@ -318,6 +326,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
+
    - [[Zheng2018](#zheng2018)]
      [**Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**](https://arxiv.org/abs/1709.08274)
      `GraphSPN`
@@ -325,6 +334,8 @@ Sorted by [year](#year) or [topics](#topics)
      [**Mixed Sum-Product Networks: A Deep Architecture for Hybrid Domains**](http://www.ml.informatik.tu-darmstadt.de/papers/molina2018aaai_mspns.pdf) `MSPN`
    - [[Sharir2018](#sharir2018)]
      [**Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) `SPQN`
+   - [[Dennis2017b](#dennis2017b)]
+     [**Autoencoder-Enhanced Sum-Product Networks**](http://ieeexplore.ieee.org/document/8260779/) `AESPN`
    - [[Desana2017](#desana2017)]
      [**Sum-Product Graphical Models**](https://arxiv.org/abs/1708.06438)
      `SPGM`
@@ -562,6 +573,18 @@ Advances in Neural Information Processing Systems 25<br/>
 _Dennis, Aaron and Ventura, Dan_<br/>
 **Greedy Structure Search for Sum-product Networks**<br/>
 International Joint Conference on Artificial Intelligence 2015
+</p>
+* <p id="dennis2017a">
+[Dennis2017a]<br/>
+_Dennis, Aaron and Ventura, Dan_<br/>
+**Online Structure-Search for Sum-Product Networks**<br/>
+16th IEEE International Conference on Machine Learning and Applications (ICMLA) 2017<br/>
+</p>
+* <p id="dennis2017b">
+[Dennis2017b]<br/>
+_Dennis, Aaron and Ventura, Dan_<br/>
+**Autoencoder-Enhanced Sum-Product Networks**<br/>
+16th IEEE International Conference on Machine Learning and Applications (ICMLA) 2017<br/>
 </p>
 * <p id="desana2016">
 [Desana2016]<br/>
