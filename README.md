@@ -1,4 +1,4 @@
-# Awesome Sum-Product Networks
+># Awesome Sum-Product Networks
 
 **awesome-spn** is a curated and structured list of resources about
 *Sum-Product Networks* (SPNs), tractable deep density estimators.
@@ -524,14 +524,12 @@ Uncertainty in Artificial Intelligence 2015</p>
 [Amer2012]<br/>
 _Amer, Mohamed and Todorovic, Sinisa_<br/>
 **Sum-Product Networks for Modeling Activities with Stochastic Structure**<br/>
-2012 IEEE Conference on CVPR
-</p>
+2012 IEEE Conference on CVPR</p>
 * <p id="amer2015">
 [Amer2015]<br/>
 _Amer, Mohamed and Todorovic, Sinisa_<br/>
 **Sum Product Networks for Activity Recognition**<br/>
-IEEE Transactions on Pattern Analysis and Machine Intelligence 
-</p>
+IEEE Transactions on Pattern Analysis and Machine Intelligence</p>
 * <p id="cheng2014">
 [Cheng2014]<br/>
 _Cheng, Wei-Chen and Kok, Stanley and Pham, Hoai Vu and Chieu, Hai Leong and Chai, Kian Ming Adam_<br/>
