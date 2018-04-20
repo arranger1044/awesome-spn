@@ -530,7 +530,7 @@ _Amer, Mohamed and Todorovic, Sinisa_<br/>
 [Amer2015]<br/>
 _Amer, Mohamed and Todorovic, Sinisa_<br/>
 **Sum Product Networks for Activity Recognition**<br/>
-IEEE Transactions on Pattern Analysis and Machine Intelligence<br/> 
+IEEE Transactions on Pattern Analysis and Machine Intelligence 
 </p>
 * <p id="cheng2014">
 [Cheng2014]<br/>
@@ -560,13 +560,13 @@ Journal of the ACM 2003.
 [Dellaleau2011]<br/>
 _Delalleau, Olivier and Bengio, Yoshua_<br/>
 **Shallow vs. Deep Sum-Product Networks**<br/>
-Advances in Neural Information Processing Systems 2011.
+Advances in Neural Information Processing Systems 2011
 </p>
 * <p id="dennis2012">
 [Dennis2012]<br/>
 _Dennis, Aaron and Ventura, Dan_<br/>
 **Learning the Architecture of Sum-Product Networks Using Clustering on Varibles**<br/>
-Advances in Neural Information Processing Systems 25<br/>
+Advances in Neural Information Processing Systems 25
 </p>
 * <p id="dennis2015">
 [Dennis2015]<br/>
@@ -578,13 +578,13 @@ International Joint Conference on Artificial Intelligence 2015
 [Dennis2017a]<br/>
 _Dennis, Aaron and Ventura, Dan_<br/>
 **Online Structure-Search for Sum-Product Networks**<br/>
-16th IEEE International Conference on Machine Learning and Applications (ICMLA) 2017<br/>
+16th IEEE International Conference on Machine Learning and Applications (ICMLA) 2017
 </p>
 * <p id="dennis2017b">
 [Dennis2017b]<br/>
 _Dennis, Aaron and Ventura, Dan_<br/>
 **Autoencoder-Enhanced Sum-Product Networks**<br/>
-16th IEEE International Conference on Machine Learning and Applications (ICMLA) 2017<br/>
+16th IEEE International Conference on Machine Learning and Applications (ICMLA) 2017
 </p>
 * <p id="desana2016">
 [Desana2016]<br/>
@@ -707,7 +707,6 @@ _Mei, Jun and Jiang, Yong and Tu, Kewei_<br/>
 **Maximum A Posteriori Inference in Sum-Product Networks**<br/>
 AAAI 2018
 </p>
-- [[Mei2017](#mei2017)] [**Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) *arXiv* [`theory`](#theory)
 * <p id="melibari2016a">
 [Melibari2016a]<br/>
 _Melibari, Mazen and Poupart, Pascal and Doshi, Prashant_<br/>
