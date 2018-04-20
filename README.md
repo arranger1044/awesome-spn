@@ -534,425 +534,348 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence</p>
 [Cheng2014]<br/>
 _Cheng, Wei-Chen and Kok, Stanley and Pham, Hoai Vu and Chieu, Hai Leong and Chai, Kian Ming Adam_<br/>
 **Language modeling with Sum-Product Networks**<br/>
-INTERSPEECH 2014
-</p>
+INTERSPEECH 2014</p>
 * <p id="choi2017">
 [Choi2017]<br/>
 _Cheng, Arthur and Darwiche, Adnan_<br/>
 **On Relaxing Determinism in Arithmetic Circuits**<br/>
-ICML 2017
-</p>
+ICML 2017</p>
 * <p id="conaty2017">
 [Conaty2017]<br/>
 _Conaty, Diarmaid and Deratani Mauá, Denis and de Campos, Cassio P._<br/>
 **Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**<br/>
-UAI 2017
-</p>
+UAI 2017</p>
 * <p id="darwiche2003">
 [Darwiche2003]<br/>
 _Darwiche, Adnan_<br/>
 **A Differential Approach to Inference in Bayesian Networks**<br/>
-Journal of the ACM 2003.
-</p>
+Journal of the ACM 2003</p>
 * <p id="dellaleau2011">
 [Dellaleau2011]<br/>
 _Delalleau, Olivier and Bengio, Yoshua_<br/>
 **Shallow vs. Deep Sum-Product Networks**<br/>
-Advances in Neural Information Processing Systems 2011
-</p>
+Advances in Neural Information Processing Systems 2011</p>
 * <p id="dennis2012">
 [Dennis2012]<br/>
 _Dennis, Aaron and Ventura, Dan_<br/>
 **Learning the Architecture of Sum-Product Networks Using Clustering on Varibles**<br/>
-Advances in Neural Information Processing Systems 25
-</p>
+Advances in Neural Information Processing Systems 25</p>
 * <p id="dennis2015">
 [Dennis2015]<br/>
 _Dennis, Aaron and Ventura, Dan_<br/>
 **Greedy Structure Search for Sum-product Networks**<br/>
-International Joint Conference on Artificial Intelligence 2015
-</p>
+International Joint Conference on Artificial Intelligence 2015</p>
 * <p id="dennis2017a">
 [Dennis2017a]<br/>
 _Dennis, Aaron and Ventura, Dan_<br/>
 **Online Structure-Search for Sum-Product Networks**<br/>
-16th IEEE International Conference on Machine Learning and Applications (ICMLA) 2017
-</p>
+16th IEEE International Conference on Machine Learning and Applications (ICMLA) 2017</p>
 * <p id="dennis2017b">
 [Dennis2017b]<br/>
 _Dennis, Aaron and Ventura, Dan_<br/>
 **Autoencoder-Enhanced Sum-Product Networks**<br/>
-16th IEEE International Conference on Machine Learning and Applications (ICMLA) 2017
-</p>
+16th IEEE International Conference on Machine Learning and Applications (ICMLA) 2017</p>
 * <p id="desana2016">
 [Desana2016]<br/>
 _Desana, Mattia and Schn{\"{o}}rr Christoph_<br/>
 **Learning Arbitrary Sum-Product Network Leaves with Expectation-Maximization**<br/>
-arxiv.org/abs/1604.07243
-</p>
-* <p id="desana2017">
-[Desana2017]<br/>
+arxiv.org/abs/1604.07243</p>
+* <p id="desana2017">[Desana2017]<br/>
 _Desana, Mattia and Schn{\"{o}}rr Christoph_<br/>
 **Sum-Product Graphical Models**<br/>
-arxiv.org/abs/1708.06438
-</p>
-* <p id="dimauro2017">
-[DiMauro2017]<br/>
+arxiv.org/abs/1708.06438</p>
+* <p id="dimauro2017">[DiMauro2017]<br/>
 _Di Mauro, Nicola and Esposito, Floriana and Ventola, Fabrizio Giuseppe and Vergari, Antonio_<br/>
 **Alternative variable splitting methods to learn Sum-Product Networks**<br/>
-Proceedings of the 16th International Conference of the Italian Association for Artificial Intelligence (AI*IA 2017)
-</p>
-* <p id="friesen2015">
-[Friesen2015]<br/>
+Proceedings of the 16th International Conference of the Italian Association for Artificial Intelligence (AI*IA 2017)</p>
+* <p id="friesen2015">[Friesen2015]<br/>
 _Friesen, Abram L. and Domingos, Pedro_<br/>
 **Recursive Decomposition for Nonconvex Optimization**<br/>
-Proceedings of the 24th International Joint Conference on Artificial Intelligence
-</p>
-* <p id="friesen2016">
-[Friesen2016]<br/>
+Proceedings of the 24th International Joint Conference on Artificial Intelligence</p>
+* <p id="friesen2016">[Friesen2016]<br/>
 _Friesen, Abram L. and Domingos, Pedro_<br/>
 **The Sum-Product Theorem: A Foundation for Learning Tractable Models**<br/>
-ICML 2016
-</p>
-* <p id="friesen2017">
-[Friesen2017]<br/>
+ICML 2016</p>
+* <p id="friesen2017">[Friesen2017]<br/>
 _Friesen, Abram L. and Domingos, Pedro_<br/>
 **Unifying Sum-Product Networks and Submodular Fields**<br/>
-Principled Approaches to Deep Learning Workshop at ICML 2017
-</p>
-* <p id="gens2012">
-[Gens2012]<br/>
+Principled Approaches to Deep Learning Workshop at ICML 2017</p>
+* <p id="gens2012">[Gens2012]<br/>
 _Gens, Robert and Domingos, Pedro_<br/>
 **Discriminative Learning of Sum-Product Networks**<br/>
-NIPS 2012
-</p>
+NIPS 2012</p>
 * <p id="gens2013">
 [Gens2013]<br/>
 _Gens, Robert and Domingos, Pedro_<br/>
 **Learning the Structure of Sum-Product Networks**<br/>
-ICML 2013
-</p>
+ICML 2013</p>
 * <p id="gens2017">
 [Gens2017]<br/>
 _Gens, Robert and Domingos, Pedro_<br/>
 **Compositional Kernel Machines**<br/>
-ICLR 2017 - Workshop Track
-</p>
+ICLR 2017 - Workshop Track</p>
 * <p id="hsu2017">
 [Hsu2017]<br/>
 _Hsu, Wilson and Kalra, Agastya and Poupart, Pascal_<br/>
 **Online Structure Learning for Sum-Product Networks with Gaussian Leaves**<br/>
-ICLR 2017 - Workshop Track
-</p>
+ICLR 2017 - Workshop Track</p>
 * <p id="jaini2016">
 [Jaini2016]<br/>
 _Jaini, Priyank and Rashwan, Abdullah and Zhao, Han and Liu, Yue and
 Banijamali, Ershad and Chen, Zhitang and Poupart, Pascal_<br/>
 **Online Algorithms for Sum-Product Networks with Continuous Variables**<br/>
-International Conference on Probabilistic Graphical Models 2016
-</p>
+International Conference on Probabilistic Graphical Models 2016</p>
 * <p id="krakovna2016">
 [Krakovna2016]<br/>
 _Krakovna, Viktoriya and Looks, Moshe_<br/>
 **A Minimalistic Approach to Sum-Product Network Learning for Real Applications**<br/>
-ICLR 2016
-</p>
+ICLR 2016</p>
 * <p id="lee2013">
 [Lee2013]<br/>
 _Lee, Sang-Woo and Heo, Min-Oh and Zhang, Byoung-Tak_<br/>
 **Online Incremental Structure Learning of Sum-Product Networks**<br/>
-ICONIP 2013
-</p>
+ICONIP 2013</p>
 * <p id="lee2014">
 [Lee2014]<br/>
 _Lee, Sang-Woo and Watkins, Christopher and Zhang, Byoung-Tak_<br/>
 **Non-Parametric Bayesian Sum-Product Networks**<br/>
-Workshop on Learning Tractable Probabilistic Models 2014
-</p>
+Workshop on Learning Tractable Probabilistic Models 2014</p>
 * <p id="li2015">
 [Li2015]<br/>
 _Weizhuo Li_<br/>
 **Combining sum-product network and noisy-or model for ontology matching**<br/>
-Proceedings of the 10th International Workshop on Ontology Matching
-</p>
+Proceedings of the 10th International Workshop on Ontology Matching</p>
 * <p id="livni2013">
 [Livni2013]<br/>
 _Livni, Roi and Shalev-Shwartz, Shai and Shamir, Ohad_<br/>
 **A Provably Efficient Algorithm for Training Deep Networks**<br/>
-arXiv 2013
-</p>
+arXiv 2013</p>
 * <p id="lowd2013">
 [Lowd2013]<br/>
 _Lowd, Daniel and Rooshenas, Amirmohammad_<br/>
 **Learning Markov Networks With Arithmetic Circuits**<br/>
-Proceedings of the 16th International Conference on Artificial Intelligence and Statistics 2013
-</p>
+Proceedings of the 16th International Conference on Artificial Intelligence and Statistics 2013</p>
 * <p id="martens2014">
 [Martens2014]<br/>
 _Martens, James and Medabalimi, Venkatesh_<br/>
 **On the Expressive Efficiency of Sum Product Networks**<br/>
-arXiv/1411.7717
-</p>
+arXiv/1411.7717</p>
 * <p id="mauà2017">
 [Mauà2017]<br/>
 _Mauá, Deratani Denis and Cozman Fabio Gagliardi and Conaty, Diarmaid and de Campos, Cassio P._<br/>
 **Credal Sum-Product Networks**<br/>
-ISIPTA 2017
-</p>
+ISIPTA 2017</p>
 * <p id="mei2018">
 [Mei2018]<br/>
 _Mei, Jun and Jiang, Yong and Tu, Kewei_<br/>
 **Maximum A Posteriori Inference in Sum-Product Networks**<br/>
-AAAI 2018
-</p>
+AAAI 2018</p>
 * <p id="melibari2016a">
 [Melibari2016a]<br/>
 _Melibari, Mazen and Poupart, Pascal and Doshi, Prashant_<br/>
 **Decision Sum-Product-Max Networks**<br/>
-Proceedings of the 30th AAAI Conference on Artificial Intelligence (AAAI 2016)
-</p>
+Proceedings of the 30th AAAI Conference on Artificial Intelligence (AAAI 2016)</p>
 * <p id="melibari2016b">
 [Melibari2016b]<br/>
 _Melibari, Mazen and Poupart, Pascal and Doshi, Prashant_<br/>
 **Sum-Product-Max Networks for Tractable Decision Making**<br/>
-Proceedings of the 2016 International Conference on Autonomous Agents & Multiagent Systems
-</p>
+Proceedings of the 2016 International Conference on Autonomous Agents & Multiagent Systems</p>
 * <p id="melibari2016c">
 [Melibari2016c]<br/>
 _Melibari, Mazen and Poupart, Pascal and Doshi, Prashant and
 Trimponias, George_<br/>
 **Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**<br/>
-International Conference on Probabilistic Graphical Models 2016
-</p>
+International Conference on Probabilistic Graphical Models 2016</p>
 * <p id="molina2017">
 [Molina2017]<br/>
 _Molina, Alejandro and Natarajan, Sriraam and Kersting, Kristian_<br/>
 **Poisson Sum-Product Networks: A Deep Architecture for Tractable Multivariate Poisson Distributions**<br/>
-Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAAI 2017)
-</p>
+Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAAI 2017)</p>
 * <p id="molina2018">
 [Molina2018]<br/>
 _Molina, Alejandro and Vergari, Antonio and Di Mauro, Nicola and Natarajan, Sriraam and Esposito, Floriana and Kersting, Kristian_<br/>
 **Mixed Sum-Product Networks: A Deep Architecture for Hybrid Domains**<br/>
-Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI 2018)
-</p>
+Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI 2018)</p>
 * <p id="nath2014">
 [Nath2014]<br/>
 _Nath, Aniruddh and Domingos, Pedro_<br/>
 **Learning Tractable Statistical Relational Models**<br/>
-Workshop on Learning Tractable Probabilistic Models
-</p>
+Workshop on Learning Tractable Probabilistic Models</p>
 * <p id="nath2015">
 [Nath2015]<br/>
 _Nath, Aniruddh and Domingos, Pedro_<br/>
 **Learning Relational Sum-Product Networks**<br/>
-Proceedings of the 29th AAAI Conference on Artificial Intelligence (AAAI 2015)
-</p>
+Proceedings of the 29th AAAI Conference on Artificial Intelligence (AAAI 2015)</p>
 * <p id="nath2016">
 [Nath2016]<br/>
 _Nath, Aniruddh and Domingos, Pedro_<br/>
 **Learning Tractable Probabilistic Models for Fault Localization**<br/>
-Proceedings of the 30th AAAI Conference on Artificial Intelligence (AAAI 2016)
-</p>
+Proceedings of the 30th AAAI Conference on Artificial Intelligence (AAAI 2016)</p>
 * <p id="niepert2015">
 [Niepert2015]<br/>
 _Niepert, Mathias and Domingos, Pedro_<br/>
 **Learning and Inference in Tractable Probabilistic Knowledge Bases**<br/>
-UAI 2015
-</p>
+UAI 2015</p>
 * <p id="peharz2013">
 [Peharz2013]<br/>
 _Peharz, Robert and Geiger, Bernhard and Pernkopf, Franz_<br/>
 **Greedy Part-Wise Learning of Sum-Product Networks**<br/>
-ECML-PKDD 2013
-</p>
+ECML-PKDD 2013</p>
 * <p id="peharz2014a">
 [Peharz2014a]<br/>
 _Peharz, Robert and Kapeller, Georg and Mowlaee, Pejman and Pernkopf, Franz_<br/>
 **Modeling Speech with Sum-Product Networks: Application to Bandwidth Extension**<br/>
-ICASSP2014
-</p>
+ICASSP2014</p>
 * <p id="peharz2014b">
 [Peharz2014b]<br/>
 _Robert Peharz and Gens, Robert and Domingos, Pedro_<br/>
 **Learning Selective Sum-Product Networks**<br/>
-Workshop on Learning Tractable Probabilistic Models 2014
-</p>
+Workshop on Learning Tractable Probabilistic Models 2014</p>
 * <p id="peharz2015a">
 [Peharz2015a]<br/>
 _Robert Peharz and Tschiatschek, Sebastian and Pernkopf, Franz and Domingos, Pedro_<br/>
 **On Theoretical Properties of Sum-Product Networks**<br/>
-Proceedings of the 18th International Conference on Artificial Intelligence and Statistics
-</p>
+Proceedings of the 18th International Conference on Artificial Intelligence and Statistics</p>
 * <p id="peharz2015b">
 [Peharz2015b]<br/>
 _Peharz, Robert_<br/>
 **Foundations of Sum-Product Networks for Probabilistic Modeling**<br/>
-PhD Thesis
-</p>
+PhD Thesis</p>
 * <p id="peharz2016">
 [Peharz2016]<br/>
 _Robert Peharz and Robert Gens and Franz Pernkopf and Pedro Domingos_<br/>
 **On the Latent Variable Interpretation in Sum-Product Networks**<br/>
-arxiv.org/abs/1601.06180
-</p>
+arxiv.org/abs/1601.06180</p>
 * <p id="poon2011">
 [Poon2011]<br/>
 _Poon, Hoifung and Domingos, Pedro_<br/>
 **Sum-Product Network: a New Deep Architecture**<br/>
-UAI 2011
-</p>
+UAI 2011</p>
 * <p id="pronobis2017a">
 [Pronobis2017a]<br/>
 _Pronobis, A. and Riccio, F. and Rao, R.~P.~N._<br/>
 **Deep Spatial Affordance Hierarchy: Spatial Knowledge Representation for Planning in Large-scale Environments**<br/>
-SSRR 2017
-</p>
+SSRR 2017</p>
 * <p id="pronobis2017b">
 [Pronobis2017b]<br/>
 _Pronobis, A. and Ranganath, A. and Rao, R.~P.~N._<br/>
 **LibSPN: A Library for Learning and Inference with Sum-Product Networks and TensorFlow**<br/>
-Principled Approaches to Deep Learning Workshop at ICML 2017
+Principled Approaches to Deep Learning Workshop at ICML 2017</p>
+* <p id="rahman2016">
+[Rahman2016]<br/>
+_Tahrima Rahman and Vibhav Gogate_<br/>
+**Merging Strategies for Sum-Product Networks: From Trees to
+Graphs**<br/>
 </p>
 * <p id="rahman2016">
 [Rahman2016]<br/>
 _Tahrima Rahman and Vibhav Gogate_<br/>
 **Merging Strategies for Sum-Product Networks: From Trees to
 Graphs**<br/>
-UAI 2016
-</p>
-**Learning Deep Generative Spatial Models for Mobile Robots**<br/>
-arXiv 2016
-</p>
-* <p id="rahman2016">
-[Rahman2016]<br/>
-_Tahrima Rahman and Vibhav Gogate_<br/>
-**Merging Strategies for Sum-Product Networks: From Trees to
-Graphs**<br/>
-UAI 2016
-</p>
+UAI 2016</p>
 * <p id="rashwan2016">
 [Rashwan2016]<br/>
 _Rashwan, Abdullah and Zhao, Han and Poupart, Pascal_<br/>
 **Online and Distributed Bayesian Moment Matching for Parameter Learning in Sum-Product Networks**<br/>
-Proceedings of the 19th International Conference on Artificial Intelligence and Statistics
-</p>
+Proceedings of the 19th International Conference on Artificial Intelligence and Statistics</p>
 * <p id="ratajczak2014">
 [Ratajczak2014]<br/>
 _Ratajczak, Martin and Tschiatschek, S and Pernkopf, F_<br/>
 **Sum-Product Networks for Structured Prediction: Context-Specific Deep Conditional Random Fields**<br/>
-Workshop on Learning Tractable Probabilistic Models 2014
-</p>
+Workshop on Learning Tractable Probabilistic Models 2014</p>
 * <p id="rathke2017">
 [Rathke2017]<br/>
 _Rathke, F.; Desana, M. and Schnörr, C._<br/>
 **Locally Adaptive Probabilistic Models for Global Segmentation of Pathological OCT Scans**<br/>
-MICCAI 2017
-</p>
+MICCAI 2017</p>
 * <p id="rooshenas2014">
 [Rooshenas2014]<br/>
 _Rooshenas, Amirmohammad and Lowd, Daniel_<br/>
 **Learning Sum-Product Networks with Direct and Indirect Variable Interactions**<br/>
-ICML 2014
-</p>
+ICML 2014</p>
 * <p id="rooshenas2016">
 [Rooshenas2016]<br/>
 _Rooshenas, Amirmohammad and Lowd, Daniel_<br/>
 **Discriminative Structure Learning of Arithmetic Circuits**<br/>
-Proceedings of the 19th International Conference on Artificial Intelligence and Statistics
-</p>
+Proceedings of the 19th International Conference on Artificial Intelligence and Statistics</p>
 * <p id="sharir2018">
 [Sharir2018]<br/>
 _Sharir, Or and Shashua, Amnon_<br/>
 ** Sum-Product-Quotient Networks**<br/>
-AISTATS 2018
+AISTATS 2018</p>
 * <p id="sguerra2016">
 [Sguerra2016]<br/>
 _Sguerra, Bruno Massoni and Cozman, Fabio G._<br/>
 **Image Classification Using Sum-Product Networks for Autonomous Flight of Micro Aerial Vehicles**<br/>
-BRACIS 2016 - 5th Brazilian Conference on Intelligent Systems
+BRACIS 2016 - 5th Brazilian Conference on Intelligent Systems</p>
 * <p id="stuhlmueller2012">
 [Stuhlmueller2012]<br/>
 _Stuhlmuller, Andreas and Goodman, Noah D._<br/>
 **A Dynamic Programming Algorithm for Inference in Recursive Probabilistic Programs**<br/>
-StaRAI 2012
-</p>
+StaRAI 2012</p>
 * <p id="trapp2016">
 [Trapp2016]<br/>
 _Trapp, Martin and Peharz, Robert and Skowron, Marcin and Madl, Tamas and Pernkopf, Franz and Trappl, Robert_<br/>
 **Structure Inference in Sum-Product Networks using Infinite Sum-Product Trees**<br/>
-Workshop on Practical Bayesian Nonparametrics at NIPS 2016
-</p>
+Workshop on Practical Bayesian Nonparametrics at NIPS 2016</p>
 * <p id="trapp2017">
 [Trapp2017]<br/>
 _Trapp, Martin and Madl, Tamas and Peharz, Robert and Pernkopf, Franz and Trappl, Robert_<br/>
 **Safe Semi-Supervised Learning of Sum-Product Networks**<br/>
-UAI 2017
-</p>
+UAI 2017</p>
 * <p id="vergari2015">
 [Vergari2015]<br/>
 _Vergari, Antonio and Di Mauro, Nicola and Esposito, Floriana_<br/>
 **Simplifying, Regularizing and Strengthening Sum-Product Network Structure Learning**<br/>
-ECML-PKDD 2015
-</p>
+ECML-PKDD 2015</p>
 * <p id="vergari2016">
 [Vergari2016]<br/>
 _Vergari, Antonio and Di Mauro, Nicola and Esposito, Floriana_<br/>
 **Visualizing and Understanding Sum-Product Networks**<br/>
-arXiv:1608.08266
-</p>
+arXiv:1608.08266</p>
 * <p id="vergari2017">
 [Vergari2017]<br/>
 _Vergari, Antonio and Peharz, Robert and Di Mauro, Nicola and Esposito, Floriana_<br/>
 **Encoding and Decoding Representations with Sum- and Max-Product Networks**<br/>
-ICLR 2017 - Workshop Track
-</p>
+ICLR 2017 - Workshop Track</p>
 * <p id="vergari2018">
 [Vergari2018]<br/>
 _Vergari, Antonio and Peharz, Robert and Di Mauro, Nicola and Molina, Alejandro and Kersting, Kristian and Esposito, Floriana_<br/>
 **Sum-Product Autoencoding: Encoding and Decoding Representations with Sum-Product Networks**<br/>
-Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI 2018)
-</p>
+Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI 2018)</p>
 * <p id="wang2015">
   [Wang2015]<br/>
 _Wang, Jinghua and Wang, Gang_<br/>
 **Hierarchical Spatial Sum-Product Networks for action recognition in Still Images**<br/>
-arXiv:1511.05292
-</p>
+arXiv:1511.05292</p>
 * <p id="yuan2016">
   [Yuan2016]<br/>
 _Zehuan Yuan and Hao Wang and Limin Wang and Tong Lu and Shivakumara Palaiahnakote and Chew Lim Tan_<br/>
 **Modeling Spatial Layout for Scene Image Understanding Via a Novel Multiscale Sum-Product Network**<br/>
-Expert Systems with Applications 
-</p>
+Expert Systems with Applications</p>
 * <p id="zhao2015">
 [Zhao2015]<br/>
 _Zhao, Han and Melibari, Mazen and Poupart, Pascal_<br/>
 **On the Relationship between Sum-Product Networks and Bayesian Networks**<br/>
-ICML 2015
-</p>
+ICML 2015</p>
 * <p id="zhao2016a">
 [Zhao2016a]<br/>
 _Zhao, Han and Adel, Tameem and Gordon, Geoff and Amos, Brandon_<br/>
 **Collapsed Variational Inference for Sum-Product Networks**<br/>
-ICML 2016
-</p>
+ICML 2016</p>
 * <p id="zhao2016b">
 [Zhao2016b]<br/>
 _Zhao, Han and Poupart, Pascal and Gordon, Geoff_<br/>
 **A Unified Approach for Learning the Parameters of Sum-Product Networks**<br/>
-NIPS 2016
-</p>
+NIPS 2016</p>
 * <p id="zhao2017">
 [Zhao2017]<br/>
 _Zhao, Han and Gordon, Geoff and Poupart, Pascal_<br/>
 **Efficient Computation of Moments in Sum-Product Networks**<br/>
-NIPS 2017
-</p>
+NIPS 2017</p>
 * <p id="zheng2018">
 [Zheng2018]<br/>
 _Zheng, Kaiyu and Pronobis, Andrzej and Rao, Rajesh P.N.<br/>
 **Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**<br/>
-AAAI 2018
-</p>
+AAAI 2018</p>
 
