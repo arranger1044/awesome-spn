@@ -766,12 +766,6 @@ Principled Approaches to Deep Learning Workshop at ICML 2017</p>
 _Tahrima Rahman and Vibhav Gogate_<br/>
 **Merging Strategies for Sum-Product Networks: From Trees to
 Graphs**<br/>
-</p>
-* <p id="rahman2016">
-[Rahman2016]<br/>
-_Tahrima Rahman and Vibhav Gogate_<br/>
-**Merging Strategies for Sum-Product Networks: From Trees to
-Graphs**<br/>
 UAI 2016</p>
 * <p id="rashwan2016">
 [Rashwan2016]<br/>
