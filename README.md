@@ -55,6 +55,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2018
 
+   - [[Peharz2018](#peharz2018)]
+     [**Probabilistic Deep Learning using Random Sum-Product Networks**](https://arxiv.org/abs/1806.01910) *arXiv preprint* [`weight-learning`](#weight-learning) [`modeling`](#modeling)
    - [[Ratajczak2018](#ratajczak2018)]
      [**Sum-Product Networks for Sequence Labeling**](https://arxiv.org/abs/1807.02324) *arXiv preprint* [`applications`](#applications) [`modeling`](#modeling)
    - [[Jaini2018a](#jaini2018a)]
@@ -260,6 +262,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Weight Learning
 
+   - [[Peharz2018](#peharz2018)]
+     [**Probabilistic Deep Learning using Random Sum-Product Networks**](https://arxiv.org/abs/1806.01910) `RAT-SPNs`
    - [[Trapp2017](#trapp2017)] 
      [**Safe Semi-Supervised Learning of Sum-Product Networks**]() `semi supervised`
    - [[Zhao2017](#zhao2017)] 
@@ -337,7 +341,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
-
+   - [[Peharz2018](#peharz2018)]
+     [**Probabilistic Deep Learning using Random Sum-Product Networks**](https://arxiv.org/abs/1806.01910) `RAT-SPNs`
    - [[Ratajczak2018](#ratajczak2018)]
      [**Sum-Product Networks for Sequence Labeling**](https://arxiv.org/abs/1807.02324) `SPN-HO-LC-CRF` `SPN-HO-MEMM`
    - [[Zheng2018](#zheng2018)]
@@ -779,6 +784,11 @@ PhD Thesis</p>
 _Robert Peharz and Robert Gens and Franz Pernkopf and Pedro Domingos_<br/>
 **On the Latent Variable Interpretation in Sum-Product Networks**<br/>
 arxiv.org/abs/1601.06180</p>
+* <p id="peharz2018">
+[Peharz2018]<br/>
+_Robert Peharz and Antonio Vergari and Karl Stelzner and Alejandro Molina and Martin Trapp and Kristian Kersting and Zoubin Ghahramani_<br/>
+**Probabilistic Deep Learning using Random Sum-Product Networks**<br/>
+arxiv.org/abs/1806.01910</p>
 * <p id="poon2011">
 [Poon2011]<br/>
 _Poon, Hoifung and Domingos, Pedro_<br/>
