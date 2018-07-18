@@ -55,6 +55,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2018
 
+   - [[Jaini2018a](#jaini2018a)]
+     [**Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**](https://amurg.github.io/files/AISTATS.pdf) *preprint* [`structure-learning`](#structure-learning)
    - [[Butz2018b](#butz2018b)]
      [**On learning the structure of sum-product networks**](https://ieeexplore.ieee.org/abstract/document/8280810/) *IEEE SSCI 2018* [`structure-learning`](#structure-learning)
    - [[Butz2018a](#butz2018a)]
@@ -283,7 +285,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Structure Learning
 
-   
+   - [[Jaini2018a](#jaini2018a)]
+     [**Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**](https://amurg.github.io/files/AISTATS.pdf) `Prometheus`
    - [[Butz2018b](#butz2018b)]
      [**On learning the structure of sum-product networks**](https://ieeexplore.ieee.org/abstract/document/8280810/) 
    - [[Dennis2017a](#dennis2017a)]
@@ -643,6 +646,11 @@ _Jaini, Priyank and Rashwan, Abdullah and Zhao, Han and Liu, Yue and
 Banijamali, Ershad and Chen, Zhitang and Poupart, Pascal_<br/>
 **Online Algorithms for Sum-Product Networks with Continuous Variables**<br/>
 International Conference on Probabilistic Graphical Models 2016</p>
+* <p id="jaini2018a">
+[Jaini2018a]<br/>
+_Jaini, Priyank and Ghose Amur and Poupart, Pascal_<br/>
+**Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**<br/>
+preprint</p>
 * <p id="krakovna2016">
 [Krakovna2016]<br/>
 _Krakovna, Viktoriya and Looks, Moshe_<br/>
