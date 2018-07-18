@@ -55,6 +55,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2018
 
+   - [[Ratajczak2018](#ratajczak2018)]
+     [**Sum-Product Networks for Sequence Labeling**](https://arxiv.org/abs/1807.02324) *arXiv preprint* [`applications`](#applications) [`modeling`](#modeling)
    - [[Jaini2018a](#jaini2018a)]
      [**Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**](https://amurg.github.io/files/AISTATS.pdf) *preprint* [`structure-learning`](#structure-learning)
    - [[Butz2018b](#butz2018b)]
@@ -336,6 +338,8 @@ Sorted by [year](#year) or [topics](#topics)
 #### Modeling
 
 
+   - [[Ratajczak2018](#ratajczak2018)]
+     [**Sum-Product Networks for Sequence Labeling**](https://arxiv.org/abs/1807.02324) `SPN-HO-LC-CRF` `SPN-HO-MEMM`
    - [[Zheng2018](#zheng2018)]
      [**Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**](https://arxiv.org/abs/1709.08274)
      `GraphSPN`
@@ -376,6 +380,9 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Applications
 
+   - [[Ratajczak2018](#ratajczak2018)]
+     [**Sum-Product Networks for Sequence Labeling**](https://arxiv.org/abs/1807.02324)
+     `speech`
    - [[Butz2018a](#butz2018a)]
      [**Efficient Examination of Soil Bacteria Using Probabilistic Graphical Models**](https://link.springer.com/chapter/10.1007/978-3-319-92058-0_30)  
    - [[Zheng2018](#zheng2018)]
@@ -803,6 +810,11 @@ Proceedings of the 19th International Conference on Artificial Intelligence and 
 _Ratajczak, Martin and Tschiatschek, S and Pernkopf, F_<br/>
 **Sum-Product Networks for Structured Prediction: Context-Specific Deep Conditional Random Fields**<br/>
 Workshop on Learning Tractable Probabilistic Models 2014</p>
+* <p id="ratajczak2018">
+[Ratajczak2018]<br/>
+_Ratajczak, Martin and Tschiatschek, S and Pernkopf, F_<br/>
+**Sum-Product Networks for Sequence Labeling**<br/>
+preprint</p>
 * <p id="rathke2017">
 [Rathke2017]<br/>
 _Rathke, F.; Desana, M. and Schnörr, C._<br/>
