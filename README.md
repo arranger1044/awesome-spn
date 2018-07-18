@@ -54,6 +54,11 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2018
+
+   - [[Butz2018b](#butz2018b)]
+     [**On learning the structure of sum-product networks**](https://ieeexplore.ieee.org/abstract/document/8280810/) *IEEE SSCI 2018* [`structure-learning`](#structure-learning)
+   - [[Butz2018a](#butz2018a)]
+     [**Efficient Examination of Soil Bacteria Using Probabilistic Graphical Models**](https://link.springer.com/chapter/10.1007/978-3-319-92058-0_30) *IEA-AIE 2018*  [`applications`](#applications)
    - [[Sharir2018](#sharir2018)]
      [**Sum-Product-Quotient Networks**](https://arxiv.org/abs/1710.04404) *AISTATS 2018*
      [`modeling`](#modeling)
@@ -279,7 +284,8 @@ Sorted by [year](#year) or [topics](#topics)
 #### Structure Learning
 
    
-   
+   - [[Butz2018b](#butz2018b)]
+     [**On learning the structure of sum-product networks**](https://ieeexplore.ieee.org/abstract/document/8280810/) 
    - [[Dennis2017a](#dennis2017a)]
      [**Online Structure-Search for Sum-Product Networks**](http://ieeexplore.ieee.org/document/8260628/) 
    - [[DiMauro2017](#dimauro2017)] `online SEARCHSPN`
@@ -367,6 +373,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Applications
 
+   - [[Butz2018a](#butz2018a)]
+     [**Efficient Examination of Soil Bacteria Using Probabilistic Graphical Models**](https://link.springer.com/chapter/10.1007/978-3-319-92058-0_30)  
    - [[Zheng2018](#zheng2018)]
      [**Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**](https://arxiv.org/abs/1709.08274)
      `semantic mapping in robotics`
@@ -530,6 +538,16 @@ _Amer, Mohamed and Todorovic, Sinisa_<br/>
 _Amer, Mohamed and Todorovic, Sinisa_<br/>
 **Sum Product Networks for Activity Recognition**<br/>
 IEEE Transactions on Pattern Analysis and Machine Intelligence</p>
+* <p id="butz2018a">
+[Butz2018a]<br/>
+_Butz, Cory J. and dos Santos André E. and Oliveira Jhonatan S. and Stavrinides John_<br/>
+**Efficient Examination of Soil Bacteria Using Probabilistic Graphical Models**<br/>
+International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems 2018</p>
+* <p id="butz2018b">
+[Butz2018b]<br/>
+_Butz, Cory J. and Oliveira Jhonatan S. and dos Santos André E._<br/>
+**On learning the structure of Sum-Product Networks**<br/>
+2017 IEEE Symposium Series on Computational Intelligence (SSCI)</p>
 * <p id="cheng2014">
 [Cheng2014]<br/>
 _Cheng, Wei-Chen and Kok, Stanley and Pham, Hoai Vu and Chieu, Hai Leong and Chai, Kian Ming Adam_<br/>
