@@ -55,6 +55,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2018
 
+   - [[Jaini2018a](#jaini2018a)]
+     [**Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**](http://pgm2018.utia.cz/data/proc/jaini18a.pdf) *PGM2018* [`structure-learning`](#structure-learning)
    - [[Conaty2018](#conaty2018)]
      [**Cascading Sum-Product Networks using Robustness**](http://pgm2018.utia.cz/data/proc/conaty18a.pdf) *PGM 2018*  [`applications`](#applications)
    - [[Joshi2018](#joshi2018)]
@@ -63,8 +65,6 @@ Sorted by [year](#year) or [topics](#topics)
      [**Probabilistic Deep Learning using Random Sum-Product Networks**](https://arxiv.org/abs/1806.01910) *arXiv preprint* [`weight-learning`](#weight-learning) [`modeling`](#modeling)
    - [[Ratajczak2018](#ratajczak2018)]
      [**Sum-Product Networks for Sequence Labeling**](https://arxiv.org/abs/1807.02324) *arXiv preprint* [`applications`](#applications) [`modeling`](#modeling)
-   - [[Jaini2018a](#jaini2018a)]
-     [**Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**](https://amurg.github.io/files/AISTATS.pdf) *preprint* [`structure-learning`](#structure-learning)
    - [[Butz2018b](#butz2018b)]
      [**On learning the structure of sum-product networks**](https://ieeexplore.ieee.org/abstract/document/8280810/) *IEEE SSCI 2018* [`structure-learning`](#structure-learning)
    - [[Butz2018a](#butz2018a)]
@@ -296,7 +296,7 @@ Sorted by [year](#year) or [topics](#topics)
 #### Structure Learning
 
    - [[Jaini2018a](#jaini2018a)]
-     [**Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**](https://amurg.github.io/files/AISTATS.pdf) `Prometheus`
+     [**Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**](http://pgm2018.utia.cz/data/proc/jaini18a.pdf) `Prometheus`
    - [[Butz2018b](#butz2018b)]
      [**On learning the structure of sum-product networks**](https://ieeexplore.ieee.org/abstract/document/8280810/) 
    - [[Dennis2017a](#dennis2017a)]
@@ -675,7 +675,7 @@ International Conference on Probabilistic Graphical Models 2016</p>
 [Jaini2018a]<br/>
 _Jaini, Priyank and Ghose Amur and Poupart, Pascal_<br/>
 **Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**<br/>
-preprint</p>
+PGM 2018</p>
 * <p id="joshi2018">
 [Joshi2018]<br/>
 _Joshi, Himanshu, Paul S. Rosenbloom, and Volkan Ustun_<br/>
