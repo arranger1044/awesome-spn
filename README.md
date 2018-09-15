@@ -55,10 +55,12 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2018
 
+   - [[Rashwan2018b](#rashwan2018b)]
+     [**Online Structure Learning for Feed-Forward and Recurrent Sum-Product Networks**]() *NIPS 2018* [`structure-learning`](#structure-learning)
    - [[Rashwan2018a](#rashwan2018a)]
-     [**Discriminative Training of Sum-Product Networks by Extended Baum-Welch**](http://pgm2018.utia.cz/data/proc/rashwan18a.pdf) *PGM2018* [`weight-learning`](#weight-learning)
+     [**Discriminative Training of Sum-Product Networks by Extended Baum-Welch**](http://pgm2018.utia.cz/data/proc/rashwan18a.pdf) *PGM 2018* [`weight-learning`](#weight-learning)
    - [[Jaini2018a](#jaini2018a)]
-     [**Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**](http://pgm2018.utia.cz/data/proc/jaini18a.pdf) *PGM2018* [`structure-learning`](#structure-learning)
+     [**Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**](http://pgm2018.utia.cz/data/proc/jaini18a.pdf) *PGM 2018* [`structure-learning`](#structure-learning)
    - [[Conaty2018](#conaty2018)]
      [**Cascading Sum-Product Networks using Robustness**](http://pgm2018.utia.cz/data/proc/conaty18a.pdf) *PGM 2018*  [`applications`](#applications)
    - [[Joshi2018](#joshi2018)]
@@ -299,6 +301,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Structure Learning
 
+   - [[Rashwan2018b](#rashwan2018b)]
+     [**Online Structure Learning for Feed-Forward and Recurrent Sum-Product Networks**]() `RSPN`
    - [[Jaini2018a](#jaini2018a)]
      [**Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**](http://pgm2018.utia.cz/data/proc/jaini18a.pdf) `Prometheus`
    - [[Butz2018b](#butz2018b)]
@@ -842,6 +846,11 @@ Proceedings of the 19th International Conference on Artificial Intelligence and 
 _Rashwan, Abdullah and Poupart, Pascal and Zhitang, Chen_<br/>
 **Discriminative Training of Sum-Product Networks by Extended Baum-Welch**<br/>
 PGM 2018</p>
+* <p id="rashwan2018b">
+[Rashwan2018b]<br/>
+_Rashwan, Abdullah and Kalra, Agastya and  Poupart, Pascal and Doshi, Prashant and Trimponias, George and Hsu, Wei-Shou_<br/>
+**Online Structure Learning for Feed-Forward and Recurrent Sum-Product Networks**<br/>
+NIPS 2018</p>
 * <p id="ratajczak2014">
 [Ratajczak2014]<br/>
 _Ratajczak, Martin and Tschiatschek, S and Pernkopf, F_<br/>
