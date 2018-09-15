@@ -55,6 +55,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2018
 
+   - [[Rashwan2018a](#rashwan2018a)]
+     [**Discriminative Training of Sum-Product Networks by Extended Baum-Welch**](http://pgm2018.utia.cz/data/proc/rashwan18a.pdf) *PGM2018* [`weight-learning`](#weight-learning)
    - [[Jaini2018a](#jaini2018a)]
      [**Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**](http://pgm2018.utia.cz/data/proc/jaini18a.pdf) *PGM2018* [`structure-learning`](#structure-learning)
    - [[Conaty2018](#conaty2018)]
@@ -266,6 +268,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Weight Learning
 
+   - [[Rashwan2018a](#rashwan2018a)]
+     [**Discriminative Training of Sum-Product Networks by Extended Baum-Welch**](http://pgm2018.utia.cz/data/proc/rashwan18a.pdf) `EBW SPN`
    - [[Peharz2018](#peharz2018)]
      [**Probabilistic Deep Learning using Random Sum-Product Networks**](https://arxiv.org/abs/1806.01910) `RAT-SPNs`
    - [[Trapp2017](#trapp2017)] 
@@ -833,6 +837,11 @@ UAI 2016</p>
 _Rashwan, Abdullah and Zhao, Han and Poupart, Pascal_<br/>
 **Online and Distributed Bayesian Moment Matching for Parameter Learning in Sum-Product Networks**<br/>
 Proceedings of the 19th International Conference on Artificial Intelligence and Statistics</p>
+* <p id="rashwan2018a">
+[Rashwan2018a]<br/>
+_Rashwan, Abdullah and Poupart, Pascal and Zhitang, Chen_<br/>
+**Discriminative Training of Sum-Product Networks by Extended Baum-Welch**<br/>
+PGM 2018</p>
 * <p id="ratajczak2014">
 [Ratajczak2014]<br/>
 _Ratajczak, Martin and Tschiatschek, S and Pernkopf, F_<br/>
