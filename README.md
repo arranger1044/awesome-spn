@@ -55,6 +55,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2018
 
+   - [[Bueff2018](#bueff2018)]
+     [**Tractable Querying and Learning in Hybrid Domains via Sum-Product Networks**](https://arxiv.org/abs/1807.05464) *preprint* [`structure-learning`](#structure-learning)
    - [[Rashwan2018b](#rashwan2018b)]
      [**Online Structure Learning for Feed-Forward and Recurrent Sum-Product Networks**]() *NIPS 2018* [`structure-learning`](#structure-learning)
    - [[Rashwan2018a](#rashwan2018a)]
@@ -301,6 +303,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Structure Learning
 
+   - [[Bueff2018](#bueff2018)]
+     [**Tractable Querying and Learning in Hybrid Domains via Sum-Product Networks**](https://arxiv.org/abs/1807.05464) `WMI-SPN`
    - [[Rashwan2018b](#rashwan2018b)]
      [**Online Structure Learning for Feed-Forward and Recurrent Sum-Product Networks**]() `RSPN`
    - [[Jaini2018a](#jaini2018a)]
@@ -569,6 +573,11 @@ _Amer, Mohamed and Todorovic, Sinisa_<br/>
 _Amer, Mohamed and Todorovic, Sinisa_<br/>
 **Sum Product Networks for Activity Recognition**<br/>
 IEEE Transactions on Pattern Analysis and Machine Intelligence</p>
+* <p id="bueff2018">
+[Bueff2018]<br/>
+_Bueff, Andreas and Spelchert, Stefanie and Belle, Vaishak_<br/>
+**Tractable Querying and Learning in Hybrid Domains via Sum-Product Networks**<br/>
+preprint</p>
 * <p id="butz2018a">
 [Butz2018a]<br/>
 _Butz, Cory J. and dos Santos André E. and Oliveira Jhonatan S. and Stavrinides John_<br/>
