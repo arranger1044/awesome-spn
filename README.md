@@ -55,6 +55,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2018
 
+   - [[Joshi2018](#joshi2018)]
+     [**Exact, Tractable Inference in the Sigma Cognitive Architecture via Sum-Product Networks**](http://www.cogsys.org/papers/ACSvol6/article08.pdf) *Advances in Cognitive Systems 2018*  [`applications`](#applications)
    - [[Peharz2018](#peharz2018)]
      [**Probabilistic Deep Learning using Random Sum-Product Networks**](https://arxiv.org/abs/1806.01910) *arXiv preprint* [`weight-learning`](#weight-learning) [`modeling`](#modeling)
    - [[Ratajczak2018](#ratajczak2018)]
@@ -385,6 +387,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Applications
 
+   - [[Joshi2018](#joshi2018)]
+     [**Exact, Tractable Inference in the Sigma Cognitive Architecture via Sum-Product Networks**](http://www.cogsys.org/papers/ACSvol6/article08.pdf) `cognitive architectures`
    - [[Ratajczak2018](#ratajczak2018)]
      [**Sum-Product Networks for Sequence Labeling**](https://arxiv.org/abs/1807.02324)
      `speech`
@@ -663,6 +667,11 @@ International Conference on Probabilistic Graphical Models 2016</p>
 _Jaini, Priyank and Ghose Amur and Poupart, Pascal_<br/>
 **Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**<br/>
 preprint</p>
+* <p id="joshi2018">
+[Joshi2018]<br/>
+_Joshi, Himanshu, Paul S. Rosenbloom, and Volkan Ustun_<br/>
+**Exact, Tractable Inference in the Sigma Cognitive Architecture via Sum-Product Networks**<br/>
+Advances in Cognitive Systems 6 (2018)</p>
 * <p id="krakovna2016">
 [Krakovna2016]<br/>
 _Krakovna, Viktoriya and Looks, Moshe_<br/>
