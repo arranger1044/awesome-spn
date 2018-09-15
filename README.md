@@ -55,6 +55,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2018
 
+   - [[Vergari2018b](#vergari2018b)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *Machine Learning Journal* [`representation learning`](#representation-learning)
    - [[Bueff2018](#bueff2018)]
      [**Tractable Querying and Learning in Hybrid Domains via Sum-Product Networks**](https://arxiv.org/abs/1807.05464) *preprint* [`structure-learning`](#structure-learning)
    - [[Rashwan2018b](#rashwan2018b)]
@@ -82,7 +83,7 @@ Sorted by [year](#year) or [topics](#topics)
      [**Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**](https://arxiv.org/abs/1709.08274) *AAAI 2018*
      [`modeling`](#modeling) [`applications`](#applications)
    - [[Mei2018](#mei2018)] [**Maximum A Posteriori Inference in Sum-Product Networks**](https://arxiv.org/abs/1708.04846) *AAAI 2018* [`theory`](#theory)
-   - [[Vergari2018](#vergari2018)]
+   - [[Vergari2018a](#vergari2018a)]
      [**Sum-Product Autoencoding: Encoding and Decoding Representations with Sum-Product Networks**](http://www.di.uniba.it/~ndm/pubs/vergari18aaai.pdf) *AAAI 2018*
      [`representation learning`](#representation-learning)
    - [[Molina2018](#molina2018)]
@@ -118,7 +119,6 @@ Sorted by [year](#year) or [topics](#topics)
 #### 2016
    - [[Sguerra2016](#sguerra2016)] [**Image Classification Using Sum-Product Networks for Autonomous Flight of Micro Aerial Vehicles**](http://ieeexplore.ieee.org/abstract/document/7839576/) *BRACIS 2016* [`applications`](#applications)
    - [[Trapp2016](#trapp2016)] [**Structure Inference in Sum-Product Networks using Infinite Sum-Product Trees**](https://drive.google.com/file/d/0B3WHb3BabixAVWFVaDEzdThSbk0/view) *Practical Bayesian Nonparametrics* [`structure-learning`](#structure-learning)
-   - [[Vergari2016](#vergari2016)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *arXiv* [`representation learning`](#representation-learning)
    - [[Melibari2016c](#melibari2016c)] [**Dynamic Sum-Product Networks for Tractable Inference on Sequence Data**](http://arxiv.org/abs/1511.04412)
    *PGM2016* [`modeling`](#modeling) [`structure-learning`](#structure-learning)
    - [[Jaini2016](#jaini2016)]
@@ -349,10 +349,10 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Representation Learning
 
-   - [[Vergari2018](#vergari2018)]
+   - [[Vergari2018a](#vergari2018a)]
      [**Sum-Product Autoencoding: Encoding and Decoding Representations with Sum-Product Networks**](http://www.di.uniba.it/~ndm/pubs/vergari18aaai.pdf) `SPAE`
    - [[Vergari2017](#vergari2017)] [**Encoding and Decoding Representations with Sum- and Max-Product Networks**](https://openreview.net/forum?id=rkndY2VYx) `decoding`
-   - [[Vergari2016](#vergari2016)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) `embeddings`
+   - [[Vergari2018b](#vergari2018b)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) `embeddings`
      
 
 #### Modeling
@@ -517,7 +517,7 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Peharz2016](#peharz2016)] Weight learning by the correct [**EM algorithm**](https://github.com/smatmo/LatentSPN) in `C++` 
    - [[Zhao2016a, Zhao2016b](#zhao2016b)] Parameter optimization using MLE and Bayesian approach
       [**spn-opt**](http://www.cs.cmu.edu/~hzhao1/papers/ICML2016/spn_release.zip) `C++`  
-   - [[Vergari2016](#vergari2016)]
+   - [[Vergari2018b](#vergari2018b)]
      [**spyn-repr**](https://github.com/arranger1044/spyn-repr)
      extracting embeddings from SPNs `python3`
    - [[Vergari2015](#vergari2015)] [**spyn**](https://github.com/arranger1044/spyn) LearnSPN-B/T/B and SPN
@@ -915,21 +915,21 @@ UAI 2017</p>
 _Vergari, Antonio and Di Mauro, Nicola and Esposito, Floriana_<br/>
 **Simplifying, Regularizing and Strengthening Sum-Product Network Structure Learning**<br/>
 ECML-PKDD 2015</p>
-* <p id="vergari2016">
-[Vergari2016]<br/>
-_Vergari, Antonio and Di Mauro, Nicola and Esposito, Floriana_<br/>
-**Visualizing and Understanding Sum-Product Networks**<br/>
-arXiv:1608.08266</p>
 * <p id="vergari2017">
 [Vergari2017]<br/>
 _Vergari, Antonio and Peharz, Robert and Di Mauro, Nicola and Esposito, Floriana_<br/>
 **Encoding and Decoding Representations with Sum- and Max-Product Networks**<br/>
 ICLR 2017 - Workshop Track</p>
-* <p id="vergari2018">
-[Vergari2018]<br/>
+* <p id="vergari2018a">
+[Vergari2018a]<br/>
 _Vergari, Antonio and Peharz, Robert and Di Mauro, Nicola and Molina, Alejandro and Kersting, Kristian and Esposito, Floriana_<br/>
 **Sum-Product Autoencoding: Encoding and Decoding Representations with Sum-Product Networks**<br/>
 Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI 2018)</p>
+* <p id="vergari2018b">
+[Vergari2018b]<br/>
+_Vergari, Antonio and Di Mauro, Nicola and Esposito, Floriana_<br/>
+**Visualizing and Understanding Sum-Product Networks**<br/>
+Machine Learning Journal</p>
 * <p id="wang2015">
   [Wang2015]<br/>
 _Wang, Jinghua and Wang, Gang_<br/>
