@@ -55,6 +55,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2018
 
+   - [[Conaty2018](#conaty2018)]
+     [**Cascading Sum-Product Networks using Robustness**](http://pgm2018.utia.cz/data/proc/conaty18a.pdf) *PGM 2018*  [`applications`](#applications)
    - [[Joshi2018](#joshi2018)]
      [**Exact, Tractable Inference in the Sigma Cognitive Architecture via Sum-Product Networks**](http://www.cogsys.org/papers/ACSvol6/article08.pdf) *Advances in Cognitive Systems 2018*  [`applications`](#applications)
    - [[Peharz2018](#peharz2018)]
@@ -387,6 +389,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Applications
 
+   - [[Conaty2018](#conaty2018)]
+     [**Cascading Sum-Product Networks using Robustness**](http://pgm2018.utia.cz/data/proc/conaty18a.pdf) `Cascaded CSPN`
    - [[Joshi2018](#joshi2018)]
      [**Exact, Tractable Inference in the Sigma Cognitive Architecture via Sum-Product Networks**](http://www.cogsys.org/papers/ACSvol6/article08.pdf) `cognitive architectures`
    - [[Ratajczak2018](#ratajczak2018)]
@@ -582,6 +586,11 @@ ICML 2017</p>
 _Conaty, Diarmaid and Deratani Mauá, Denis and de Campos, Cassio P._<br/>
 **Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks**<br/>
 UAI 2017</p>
+* <p id="conaty2018">
+[Conaty2018]<br/>
+_Conaty, Diarmaid and Del Rincon, Jesus Martinez and de Campos, Cassio P._<br/>
+**Cascading Sum-Product Networks using Robustness**<br/>
+PGM 2018</p>
 * <p id="darwiche2003">
 [Darwiche2003]<br/>
 _Darwiche, Adnan_<br/>
