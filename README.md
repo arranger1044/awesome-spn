@@ -55,6 +55,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2018
 
+   - [[Trapp2018](#trapp2018)] [**Learning Deep Mixtures of Gaussian Process Experts Using Sum-Product Networks**](https://www.researchgate.net/publication/327621399_Learning_Deep_Mixtures_of_Gaussian_Process_Experts_Using_Sum-Product_Networks) *Workshop on Tractable Probabilistic Models* [`modeling`](#modeling)
    - [[Vergari2018b](#vergari2018b)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *Machine Learning Journal* [`representation learning`](#representation-learning)
    - [[Bueff2018](#bueff2018)]
      [**Tractable Querying and Learning in Hybrid Domains via Sum-Product Networks**](https://arxiv.org/abs/1807.05464) *preprint* [`structure-learning`](#structure-learning)
@@ -357,6 +358,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
+   - [[Trapp2018](#trapp2018)] [**Learning Deep Mixtures of Gaussian Process Experts Using Sum-Product Networks**](https://www.researchgate.net/publication/327621399_Learning_Deep_Mixtures_of_Gaussian_Process_Experts_Using_Sum-Product_Networks) `SPN-GP`
    - [[Peharz2018](#peharz2018)]
      [**Probabilistic Deep Learning using Random Sum-Product Networks**](https://arxiv.org/abs/1806.01910) `RAT-SPNs`
    - [[Ratajczak2018](#ratajczak2018)]
@@ -910,6 +912,11 @@ Workshop on Practical Bayesian Nonparametrics at NIPS 2016</p>
 _Trapp, Martin and Madl, Tamas and Peharz, Robert and Pernkopf, Franz and Trappl, Robert_<br/>
 **Safe Semi-Supervised Learning of Sum-Product Networks**<br/>
 UAI 2017</p>
+* <p id="trapp2018">
+[Trapp2018]<br/>
+_Trapp, Martin and Peharz, Robert and Rasmussen, Carl and Pernkopf, Franz_<br/>
+**Learning Deep Mixtures of Gaussian Process Experts Using Sum-Product Networks**<br/>
+Workshop on Tractable Probabilistic Models</p>
 * <p id="vergari2015">
 [Vergari2015]<br/>
 _Vergari, Antonio and Di Mauro, Nicola and Esposito, Floriana_<br/>
