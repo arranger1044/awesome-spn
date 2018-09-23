@@ -74,7 +74,7 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Ratajczak2018](#ratajczak2018)]
      [**Sum-Product Networks for Sequence Labeling**](https://arxiv.org/abs/1807.02324) *arXiv preprint* [`applications`](#applications) [`modeling`](#modeling)
    - [[Butz2018b](#butz2018b)]
-     [**On learning the structure of sum-product networks**](https://ieeexplore.ieee.org/abstract/document/8280810/) *IEEE SSCI 2018* [`structure-learning`](#structure-learning)
+     [**An Empirical Study of Methods for SPN Learning and Inference**](http://proceedings.mlr.press/v72/butz18a/butz18a.pdf) *PGM 2018* [`structure-learning`](#structure-learning)
    - [[Butz2018a](#butz2018a)]
      [**Efficient Examination of Soil Bacteria Using Probabilistic Graphical Models**](https://link.springer.com/chapter/10.1007/978-3-319-92058-0_30) *IEA-AIE 2018*  [`applications`](#applications)
    - [[Sharir2018](#sharir2018)]
@@ -311,7 +311,7 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Jaini2018a](#jaini2018a)]
      [**Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**](http://pgm2018.utia.cz/data/proc/jaini18a.pdf) `Prometheus`
    - [[Butz2018b](#butz2018b)]
-     [**On learning the structure of sum-product networks**](https://ieeexplore.ieee.org/abstract/document/8280810/) 
+     [**An Empirical Study of Methods for SPN Learning and Inference**](http://proceedings.mlr.press/v72/butz18a/butz18a.pdf) `PP` 
    - [[Dennis2017a](#dennis2017a)]
      [**Online Structure-Search for Sum-Product Networks**](http://ieeexplore.ieee.org/document/8260628/) 
    - [[DiMauro2017](#dimauro2017)] `online SEARCHSPN`
@@ -587,9 +587,9 @@ _Butz, Cory J. and dos Santos André E. and Oliveira Jhonatan S. and Stavrinides
 International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems 2018</p>
 * <p id="butz2018b">
 [Butz2018b]<br/>
-_Butz, Cory J. and Oliveira Jhonatan S. and dos Santos André E._<br/>
-**On learning the structure of Sum-Product Networks**<br/>
-2017 IEEE Symposium Series on Computational Intelligence (SSCI)</p>
+_Butz, Cory J. and Oliveira Jhonatan S. and dos Santos André E., Teixeira, A. L. and  Poupart, P. and Kalra, A._<br/>
+**An Empirical Study of Methods for SPN Learning and Inference**<br/>
+PGM 2018</p>
 * <p id="cheng2014">
 [Cheng2014]<br/>
 _Cheng, Wei-Chen and Kok, Stanley and Pham, Hoai Vu and Chieu, Hai Leong and Chai, Kian Ming Adam_<br/>
