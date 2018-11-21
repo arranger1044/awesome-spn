@@ -55,6 +55,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2018
 
+   - [[Ko2018](#ko2018)] [**Deep Compression of Sum-Product Networks on Tensor Networks**](https://arxiv.org/abs/1811.03963) *preprint* [`modeling`](#modeling)
    - [[Trapp2018](#trapp2018)] [**Learning Deep Mixtures of Gaussian Process Experts Using Sum-Product Networks**](https://www.researchgate.net/publication/327621399_Learning_Deep_Mixtures_of_Gaussian_Process_Experts_Using_Sum-Product_Networks) *Workshop on Tractable Probabilistic Models* [`modeling`](#modeling)
    - [[Vergari2018b](#vergari2018b)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *Machine Learning Journal* [`representation learning`](#representation-learning)
    - [[Bueff2018](#bueff2018)]
@@ -358,6 +359,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
+   - [[Ko2018](#ko2018)] [**Deep Compression of Sum-Product Networks on Tensor Networks**](https://arxiv.org/abs/1811.03963) `tSPN`
    - [[Trapp2018](#trapp2018)] [**Learning Deep Mixtures of Gaussian Process Experts Using Sum-Product Networks**](https://www.researchgate.net/publication/327621399_Learning_Deep_Mixtures_of_Gaussian_Process_Experts_Using_Sum-Product_Networks) `SPN-GP`
    - [[Peharz2018](#peharz2018)]
      [**Probabilistic Deep Learning using Random Sum-Product Networks**](https://arxiv.org/abs/1806.01910) `RAT-SPNs`
@@ -700,6 +702,11 @@ PGM 2018</p>
 _Joshi, Himanshu, Paul S. Rosenbloom, and Volkan Ustun_<br/>
 **Exact, Tractable Inference in the Sigma Cognitive Architecture via Sum-Product Networks**<br/>
 Advances in Cognitive Systems 6 (2018)</p>
+* <p id="k02018">
+[Ko2018]<br/>
+_Ko, Ching-Yun and Chen, Cong and Zhang, Yuke and Batselier, Kim and Wong, Ngai_<br/>
+**Deep Compression of Sum-Product Networks on Tensor Networks**<br/>
+arXiv 2018</p>
 * <p id="krakovna2016">
 [Krakovna2016]<br/>
 _Krakovna, Viktoriya and Looks, Moshe_<br/>
