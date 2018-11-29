@@ -55,6 +55,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2018
 
+   - [[Jaini2018b](#jaini2018b)] [**Deep Homogeneous Mixture Models: Representation, Separation, and Approximation**](http://papers.nips.cc/paper/7944-deep-homogeneous-mixture-models-representation-separation-and-approximation) *NeurIPS 2018* [`modeling`](#modeling)
    - [[Ko2018](#ko2018)] [**Deep Compression of Sum-Product Networks on Tensor Networks**](https://arxiv.org/abs/1811.03963) *preprint* [`modeling`](#modeling)
    - [[Trapp2018](#trapp2018)] [**Learning Deep Mixtures of Gaussian Process Experts Using Sum-Product Networks**](https://www.researchgate.net/publication/327621399_Learning_Deep_Mixtures_of_Gaussian_Process_Experts_Using_Sum-Product_Networks) *Workshop on Tractable Probabilistic Models* [`modeling`](#modeling)
    - [[Vergari2018b](#vergari2018b)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *Machine Learning Journal* [`representation learning`](#representation-learning)
@@ -359,6 +360,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
+   - [[Jaini2018b](#jaini2018b)] [**Deep Homogeneous Mixture Models: Representation, Separation, and Approximation**](http://papers.nips.cc/paper/7944-deep-homogeneous-mixture-models-representation-separation-and-approximation) `SPN-CG`
    - [[Ko2018](#ko2018)] [**Deep Compression of Sum-Product Networks on Tensor Networks**](https://arxiv.org/abs/1811.03963) `tSPN`
    - [[Trapp2018](#trapp2018)] [**Learning Deep Mixtures of Gaussian Process Experts Using Sum-Product Networks**](https://www.researchgate.net/publication/327621399_Learning_Deep_Mixtures_of_Gaussian_Process_Experts_Using_Sum-Product_Networks) `SPN-GP`
    - [[Peharz2018](#peharz2018)]
@@ -697,6 +699,10 @@ International Conference on Probabilistic Graphical Models 2016</p>
 _Jaini, Priyank and Ghose Amur and Poupart, Pascal_<br/>
 **Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**<br/>
 PGM 2018</p>
+[Jaini2018b]<br/>
+_Jaini, Priyank and Poupart, Pascal and Yu, Yaoliang_<br/>
+**Deep Homogeneous Mixture Models: Representation, Separation, and Approximation**<br/>
+NIPS 2018</p>
 * <p id="joshi2018">
 [Joshi2018]<br/>
 _Joshi, Himanshu, Paul S. Rosenbloom, and Volkan Ustun_<br/>
