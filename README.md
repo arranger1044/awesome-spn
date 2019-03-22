@@ -20,6 +20,7 @@ are very welcome!
 
    * [Papers](#papers)
       * [Year](#year)
+        * [2019](#2019)
         * [2018](#2018)
         * [2017](#2017)
         * [2016](#2016)
@@ -53,6 +54,12 @@ Sorted by [year](#year) or [topics](#topics)
 
 ### Year
 
+#### 2019
+
+   - [[Butz2019](#butz2019)] [**Deep Convolutional Sum-Product Networks**](https://www.aaai.org/Papers/AAAI/2019/AAAI-ButzC.3622.pdf) *AAAI 2019* [`modeling`](#modeling)
+   - [[Molina2019](#molina2019)] [**SPFlow: An Easy and Extensible Library for Deep Probabilistic Learning using Sum-Product Networks**](https://arxiv.org/abs/1901.03704) *preprint* [`applications`](#applications)
+   - [[Wolfshaar2019](#wolfshaar2019)] [**Deep Convolutional Sum-Product Networks for Probabilistic Image Representations**](https://arxiv.org/pdf/1902.06155.pdf) *preprint* [`applications`](#applications)
+
 #### 2018
 
    - [[Jaini2018b](#jaini2018b)] [**Deep Homogeneous Mixture Models: Representation, Separation, and Approximation**](http://papers.nips.cc/paper/7944-deep-homogeneous-mixture-models-representation-separation-and-approximation) *NeurIPS 2018* [`modeling`](#modeling)
@@ -62,7 +69,7 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Bueff2018](#bueff2018)]
      [**Tractable Querying and Learning in Hybrid Domains via Sum-Product Networks**](https://arxiv.org/abs/1807.05464) *preprint* [`structure-learning`](#structure-learning)
    - [[Rashwan2018b](#rashwan2018b)]
-     [**Online Structure Learning for Feed-Forward and Recurrent Sum-Product Networks**]() *NIPS 2018* [`structure-learning`](#structure-learning)
+     [**Online Structure Learning for Feed-Forward and Recurrent Sum-Product Networks**](http://papers.nips.cc/paper/7926-online-structure-learning-for-feed-forward-and-recurrent-sum-product-networks.pdf) *NIPS 2018* [`structure-learning`](#structure-learning)
    - [[Rashwan2018a](#rashwan2018a)]
      [**Discriminative Training of Sum-Product Networks by Extended Baum-Welch**](http://pgm2018.utia.cz/data/proc/rashwan18a.pdf) *PGM 2018* [`weight-learning`](#weight-learning)
    - [[Jaini2018a](#jaini2018a)]
@@ -309,7 +316,7 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Bueff2018](#bueff2018)]
      [**Tractable Querying and Learning in Hybrid Domains via Sum-Product Networks**](https://arxiv.org/abs/1807.05464) `WMI-SPN`
    - [[Rashwan2018b](#rashwan2018b)]
-     [**Online Structure Learning for Feed-Forward and Recurrent Sum-Product Networks**]() `RSPN`
+     [**Online Structure Learning for Feed-Forward and Recurrent Sum-Product Networks**](http://papers.nips.cc/paper/7926-online-structure-learning-for-feed-forward-and-recurrent-sum-product-networks.pdf) `RSPN`
    - [[Jaini2018a](#jaini2018a)]
      [**Prometheus: Directly Learning Acyclic Directed Graph Structures for Sum-Product Networks**](http://pgm2018.utia.cz/data/proc/jaini18a.pdf) `Prometheus`
    - [[Butz2018b](#butz2018b)]
@@ -360,6 +367,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
+   - [[Butz2019](#butz2019)] [**Deep Convolutional Sum-Product Networks**](https://www.aaai.org/Papers/AAAI/2019/AAAI-ButzC.3622.pdf) `DCSPN`
    - [[Jaini2018b](#jaini2018b)] [**Deep Homogeneous Mixture Models: Representation, Separation, and Approximation**](http://papers.nips.cc/paper/7944-deep-homogeneous-mixture-models-representation-separation-and-approximation) `SPN-CG`
    - [[Ko2018](#ko2018)] [**Deep Compression of Sum-Product Networks on Tensor Networks**](https://arxiv.org/abs/1811.03963) `tSPN`
    - [[Trapp2018](#trapp2018)] [**Learning Deep Mixtures of Gaussian Process Experts Using Sum-Product Networks**](https://www.researchgate.net/publication/327621399_Learning_Deep_Mixtures_of_Gaussian_Process_Experts_Using_Sum-Product_Networks) `SPN-GP`
@@ -403,10 +411,12 @@ Sorted by [year](#year) or [topics](#topics)
      `FSPN`
    - [[Poon2011](#poon2011)]
    [**Sum-Product Networks: A New Deep Architecture**](http://spn.cs.washington.edu/papers/spn.pdf) `SPN`
-	 
+
 
 #### Applications
 
+   - [[Molina2019](#molina2019)] [**SPFlow: An Easy and Extensible Library for Deep Probabilistic Learning using Sum-Product Networks**](https://arxiv.org/abs/1901.03704) *preprint* [`modeling`](#modeling)
+   - [[Wolfshaar2019](#wolfshaar2019)] [**Deep Convolutional Sum-Product Networks for Probabilistic Image Representations**](https://arxiv.org/pdf/1902.06155.pdf) *preprint* [`applications`](#applications)
    - [[Conaty2018](#conaty2018)]
      [**Cascading Sum-Product Networks using Robustness**](http://pgm2018.utia.cz/data/proc/conaty18a.pdf) `Cascaded CSPN`
    - [[Joshi2018](#joshi2018)]
@@ -511,6 +521,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 ### Code
 
+   - [[Molina2019](#molina2019)] [**SPFlow**](https://github.com/SPFlow/SPFlow) an open-source Python library providing a simple interface to inference, learning, and manipulation routines for SPNs `python3`
    - [[Mai2018](#mei2018)] [**MAP inference**](https://github.com/shtechair/maxspn) routines and experiments in  `Go` 
    - [[Vergari2018](#vergari2018)] [**SPAE**](https://github.com/arranger1044/spae) encoding and decoding embeddings from SPNs in `python3`
    - [[Molina2018](#molina2018)] [**MSPN**](https://github.com/alejandromolinaml/MSPN) learning SPNs in hybrid domains in `python3` 
@@ -982,7 +993,21 @@ _Zhao, Han and Gordon, Geoff and Poupart, Pascal_<br/>
 NIPS 2017</p>
 * <p id="zheng2018">
 [Zheng2018]<br/>
-_Zheng, Kaiyu and Pronobis, Andrzej and Rao, Rajesh P.N.<br/>
+_Zheng, Kaiyu and Pronobis, Andrzej and Rao, Rajesh P.N._<br/>
 **Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**<br/>
 AAAI 2018</p>
-
+* <p id="butz2019">
+[Butz2019]<br/>
+_Butz, Cory J and Oliveira, Jhonatan S. and dos Santos,  André E. and Teixeira, André L._<br/>
+**Deep Convolutional Sum-Product Networks**<br/>
+AAAI 2019</p>
+* <p id="molina2019">
+[Molina2019]<br/>
+_Molina, Alejandro and Vergari, Antonio and Stelzner, Karl and Peharz, Robert and Subramani, Pranav and Di Mauro, Nicola and Poupart, Pascal and Kersting, Kristian_<br/>
+**SPFlow: An Easy and Extensible Library for Deep Probabilistic Learning using Sum-Product Networks**<br/>
+arXiv:1901.03704</p>
+* <p id="wolfshaar2019">
+[Wolfshaar2019]<br/>
+_van de Wolfshaar, Jos and Pronobix, Andrzej_ <br/>
+**Deep Convolutional Sum-Product Networks for Probabilistic Image Representations**<br/>
+arXiv:1902.06155</p>
