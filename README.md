@@ -20,6 +20,7 @@ are very welcome!
 
    * [Papers](#papers)
       * [Year](#year)
+        * [2019](#2019)
         * [2018](#2018)
         * [2017](#2017)
         * [2016](#2016)
@@ -52,6 +53,10 @@ are very welcome!
 Sorted by [year](#year) or [topics](#topics) 
 
 ### Year
+
+#### 2019
+
+- [[Butz2019](#butz2019)] [**Deep Convolutional Sum-Product Networks**](http://www.cs.uregina.ca/~butz/publications/aaai19.pdf) *AAAI 2019* [`modeling`](#modeling) [`weight-learning`](#weight-learning)
 
 #### 2018
 
@@ -275,6 +280,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Weight Learning
 
+   - [[Butz2019](#butz2019)] [**Deep Convolutional Sum-Product Networks**](http://www.cs.uregina.ca/~butz/publications/aaai19.pdf) `DCSPN`
    - [[Rashwan2018a](#rashwan2018a)]
      [**Discriminative Training of Sum-Product Networks by Extended Baum-Welch**](http://pgm2018.utia.cz/data/proc/rashwan18a.pdf) `EBW SPN`
    - [[Peharz2018](#peharz2018)]
@@ -306,6 +312,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Structure Learning
 
+   - [[Butz2019](#butz2019)] [**Deep Convolutional Sum-Product Networks**](http://www.cs.uregina.ca/~butz/publications/aaai19.pdf) `DCSPN`
    - [[Bueff2018](#bueff2018)]
      [**Tractable Querying and Learning in Hybrid Domains via Sum-Product Networks**](https://arxiv.org/abs/1807.05464) `WMI-SPN`
    - [[Rashwan2018b](#rashwan2018b)]
@@ -403,7 +410,6 @@ Sorted by [year](#year) or [topics](#topics)
      `FSPN`
    - [[Poon2011](#poon2011)]
    [**Sum-Product Networks: A New Deep Architecture**](http://spn.cs.washington.edu/papers/spn.pdf) `SPN`
-	 
 
 #### Applications
 
@@ -511,6 +517,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 ### Code
 
+   - [[Butz2019](#butz2018)] [**DCSPNs**](https://github.com/jhonatanoliveira/dcspns) convolutional neural networks as SPNs  `python3`
    - [[Mai2018](#mei2018)] [**MAP inference**](https://github.com/shtechair/maxspn) routines and experiments in  `Go` 
    - [[Vergari2018](#vergari2018)] [**SPAE**](https://github.com/arranger1044/spae) encoding and decoding embeddings from SPNs in `python3`
    - [[Molina2018](#molina2018)] [**MSPN**](https://github.com/alejandromolinaml/MSPN) learning SPNs in hybrid domains in `python3` 
