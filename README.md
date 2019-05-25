@@ -56,6 +56,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2019
 
+   - [[Shao2019](#shao2019)] [**Conditional Sum-Product Networks: Imposing Structure on Deep Probabilistic Architectures**](https://arxiv.org/pdf/1905.08550.pdf) *preprint* [`modeling`](#modeling)
    - [[Butz2019](#butz2019)] [**Deep Convolutional Sum-Product Networks**](https://www.aaai.org/Papers/AAAI/2019/AAAI-ButzC.3622.pdf) *AAAI 2019* [`modeling`](#modeling)
    - [[Molina2019](#molina2019)] [**SPFlow: An Easy and Extensible Library for Deep Probabilistic Learning using Sum-Product Networks**](https://arxiv.org/abs/1901.03704) *preprint* [`applications`](#applications)
    - [[Wolfshaar2019](#wolfshaar2019)] [**Deep Convolutional Sum-Product Networks for Probabilistic Image Representations**](https://arxiv.org/pdf/1902.06155.pdf) *preprint* [`applications`](#applications)
@@ -367,6 +368,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
+   - [[Shao2019](#shao2019)] [**Conditional Sum-Product Networks: Imposing Structure on Deep Probabilistic Architectures**](https://arxiv.org/pdf/1905.08550.pdf) `CSPN`
    - [[Butz2019](#butz2019)] [**Deep Convolutional Sum-Product Networks**](https://www.aaai.org/Papers/AAAI/2019/AAAI-ButzC.3622.pdf) `DCSPN`
    - [[Jaini2018b](#jaini2018b)] [**Deep Homogeneous Mixture Models: Representation, Separation, and Approximation**](http://papers.nips.cc/paper/7944-deep-homogeneous-mixture-models-representation-separation-and-approximation) `SPN-CG`
    - [[Ko2018](#ko2018)] [**Deep Compression of Sum-Product Networks on Tensor Networks**](https://arxiv.org/abs/1811.03963) `tSPN`
@@ -1011,3 +1013,8 @@ arXiv:1901.03704</p>
 _van de Wolfshaar, Jos and Pronobix, Andrzej_ <br/>
 **Deep Convolutional Sum-Product Networks for Probabilistic Image Representations**<br/>
 arXiv:1902.06155</p>
+* <p id="shao2019">
+[Shao2019]<br/>
+_Shao, Xiaoting and Molina, Alejandro and Vergari, Antonio and Stelzner, Karl and Peharz, Robert and Liebig, Thomas and Kersting, Kristian_<br/>
+**Conditional Sum-Product Networks: Imposing Structure on Deep Probabilistic Architectures**<br/>
+arXiv:1905.08550</p>
