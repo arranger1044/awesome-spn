@@ -56,6 +56,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2019
 
+   - [[Stelzner2019](#stelzner2019)] [**Faster Attend-Infer-Repeat with Tractable Probabilistic Models**](http://proceedings.mlr.press/v97/stelzner19a/stelzner19a.pdf) *Bayesian Deep Learning at ICML 2019* [`applications`](#applications)
    - [[Shao2019](#shao2019)] [**Conditional Sum-Product Networks: Imposing Structure on Deep Probabilistic Architectures**](https://arxiv.org/pdf/1905.08550.pdf) *preprint* [`modeling`](#modeling)
    - [[Butz2019](#butz2019)] [**Deep Convolutional Sum-Product Networks**](https://www.aaai.org/Papers/AAAI/2019/AAAI-ButzC.3622.pdf) *AAAI 2019* [`modeling`](#modeling)
    - [[Molina2019](#molina2019)] [**SPFlow: An Easy and Extensible Library for Deep Probabilistic Learning using Sum-Product Networks**](https://arxiv.org/abs/1901.03704) *preprint* [`applications`](#applications)
@@ -417,6 +418,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Applications
 
+   - [[Stelzner2019](#stelzner2019)] [**Faster Attend-Infer-Repeat with Tractable Probabilistic Models**](http://proceedings.mlr.press/v97/stelzner19a/stelzner19a.pdf) *Bayesian Deep Learning at ICML 2019* `cv`
    - [[Molina2019](#molina2019)] [**SPFlow: An Easy and Extensible Library for Deep Probabilistic Learning using Sum-Product Networks**](https://arxiv.org/abs/1901.03704) *preprint* [`modeling`](#modeling)
    - [[Wolfshaar2019](#wolfshaar2019)] [**Deep Convolutional Sum-Product Networks for Probabilistic Image Representations**](https://arxiv.org/pdf/1902.06155.pdf) *preprint* [`applications`](#applications)
    - [[Conaty2018](#conaty2018)]
@@ -1018,3 +1020,8 @@ arXiv:1902.06155</p>
 _Shao, Xiaoting and Molina, Alejandro and Vergari, Antonio and Stelzner, Karl and Peharz, Robert and Liebig, Thomas and Kersting, Kristian_<br/>
 **Conditional Sum-Product Networks: Imposing Structure on Deep Probabilistic Architectures**<br/>
 arXiv:1905.08550</p>
+* <p id="stelzner2019">
+[Stelzner2019]<br/>
+_Stelzner, Karl and Peharz, Robert and Kersting, Kristian_<br/>
+**Faster Attend-Infer-Repeat with Tractable Probabilistic Models**<br/>
+ICML 2019</p>
