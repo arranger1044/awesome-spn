@@ -56,11 +56,11 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2019
 
-   - [[Stelzner2019](#stelzner2019)] [**Faster Attend-Infer-Repeat with Tractable Probabilistic Models**](http://proceedings.mlr.press/v97/stelzner19a/stelzner19a.pdf) *Bayesian Deep Learning at ICML 2019* [`applications`](#applications)
+   - [[Stelzner2019](#stelzner2019)] [**Faster Attend-Infer-Repeat with Tractable Probabilistic Models**](http://proceedings.mlr.press/v97/stelzner19a/stelzner19a.pdf) *ICML 2019* [`applications`](#applications)
    - [[Shao2019](#shao2019)] [**Conditional Sum-Product Networks: Imposing Structure on Deep Probabilistic Architectures**](https://arxiv.org/pdf/1905.08550.pdf) *preprint* [`modeling`](#modeling)
    - [[Butz2019](#butz2019)] [**Deep Convolutional Sum-Product Networks**](https://www.aaai.org/Papers/AAAI/2019/AAAI-ButzC.3622.pdf) *AAAI 2019* [`modeling`](#modeling)
    - [[Molina2019](#molina2019)] [**SPFlow: An Easy and Extensible Library for Deep Probabilistic Learning using Sum-Product Networks**](https://arxiv.org/abs/1901.03704) *preprint* [`applications`](#applications)
-   - [[Wolfshaar2019](#wolfshaar2019)] [**Deep Convolutional Sum-Product Networks for Probabilistic Image Representations**](https://arxiv.org/pdf/1902.06155.pdf) *preprint* [`applications`](#applications)
+   - [[Wolfshaar2019](#wolfshaar2019)] [**Deep Convolutional Sum-Product Networks for Probabilistic Image Representations**](https://arxiv.org/pdf/1902.06155.pdf) *preprint* [`modeling`](#modeling)
 
 #### 2018
 
@@ -370,6 +370,7 @@ Sorted by [year](#year) or [topics](#topics)
 #### Modeling
 
    - [[Shao2019](#shao2019)] [**Conditional Sum-Product Networks: Imposing Structure on Deep Probabilistic Architectures**](https://arxiv.org/pdf/1905.08550.pdf) `CSPN`
+   - [[Wolfshaar2019](#wolfshaar2019)] [**Deep Convolutional Sum-Product Networks for Probabilistic Image Representations**](https://arxiv.org/pdf/1902.06155.pdf) `WickerSPN`
    - [[Butz2019](#butz2019)] [**Deep Convolutional Sum-Product Networks**](https://www.aaai.org/Papers/AAAI/2019/AAAI-ButzC.3622.pdf) `DCSPN`
    - [[Jaini2018b](#jaini2018b)] [**Deep Homogeneous Mixture Models: Representation, Separation, and Approximation**](http://papers.nips.cc/paper/7944-deep-homogeneous-mixture-models-representation-separation-and-approximation) `SPN-CG`
    - [[Ko2018](#ko2018)] [**Deep Compression of Sum-Product Networks on Tensor Networks**](https://arxiv.org/abs/1811.03963) `tSPN`
@@ -418,9 +419,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Applications
 
-   - [[Stelzner2019](#stelzner2019)] [**Faster Attend-Infer-Repeat with Tractable Probabilistic Models**](http://proceedings.mlr.press/v97/stelzner19a/stelzner19a.pdf) *Bayesian Deep Learning at ICML 2019* `cv`
-   - [[Molina2019](#molina2019)] [**SPFlow: An Easy and Extensible Library for Deep Probabilistic Learning using Sum-Product Networks**](https://arxiv.org/abs/1901.03704) *preprint* [`modeling`](#modeling)
-   - [[Wolfshaar2019](#wolfshaar2019)] [**Deep Convolutional Sum-Product Networks for Probabilistic Image Representations**](https://arxiv.org/pdf/1902.06155.pdf) *preprint* [`applications`](#applications)
+   - [[Stelzner2019](#stelzner2019)] [**Faster Attend-Infer-Repeat with Tractable Probabilistic Models**](http://proceedings.mlr.press/v97/stelzner19a/stelzner19a.pdf) `SuPAIR`
    - [[Conaty2018](#conaty2018)]
      [**Cascading Sum-Product Networks using Robustness**](http://pgm2018.utia.cz/data/proc/conaty18a.pdf) `Cascaded CSPN`
    - [[Joshi2018](#joshi2018)]
