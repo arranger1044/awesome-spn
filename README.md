@@ -55,6 +55,8 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2019
+   - [[Tan2019](#tan2019)]
+     [**Hierarchical Decompositional Mixtures of Variational Autoencoders**](http://proceedings.mlr.press/v97/tan19b/tan19b.pdf) *ICML 2019* [`modeling`](#modeling)
    - [[Peharz2019](#peharz2019)]
      [**Random Sum-Product Networks: A Simple and Effective Approach to Probabilistic Deep Learning**](https://arxiv.org/abs/1806.01910) *UAI 2019* [`modeling`](#modeling) [`weight learning`](#weight-learning)
    - [[Stelzner2019](#stelzner2019)] [**Faster Attend-Infer-Repeat with Tractable Probabilistic Models**](http://proceedings.mlr.press/v97/stelzner19a/stelzner19a.pdf) *ICML 2019* [`applications`](#applications)
@@ -369,6 +371,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
+   - [[Tan2019](#tan2019)]
+     [**Hierarchical Decompositional Mixtures of Variational Autoencoders**](http://proceedings.mlr.press/v97/tan19b/tan19b.pdf) `SPVAE`
    - [[Peharz2019](#peharz2019)]
      [**Random Sum-Product Networks: A Simple and Effective Approach to Probabilistic Deep Learning**](https://arxiv.org/abs/1806.01910) `RAT-SPNs`
    - [[Vergari2019](#vergari2019)] [**Automatic Bayesian Density Analysis**](https://www.researchgate.net/publication/326621815_Automatic_Bayesian_Density_Analysis) `ABDA`
@@ -950,6 +954,11 @@ ICML 2019</p>
 _Stuhlmuller, Andreas and Goodman, Noah D._<br/>
 **A Dynamic Programming Algorithm for Inference in Recursive Probabilistic Programs**<br/>
 StaRAI 2012</p>
+* <p id="tan2019">
+[Tan2019]<br/>
+_Tan, Ping Liang, and Peharz, Robert_<br/>
+**Hierarchical Decompositional Mixtures of Variational Autoencoders**<br/>
+ICML 2019</p>
 * <p id="trapp2016">
 [Trapp2016]<br/>
 _Trapp, Martin and Peharz, Robert and Skowron, Marcin and Madl, Tamas and Pernkopf, Franz and Trappl, Robert_<br/>
