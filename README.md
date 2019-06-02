@@ -58,6 +58,7 @@ Sorted by [year](#year) or [topics](#topics)
 
    - [[Stelzner2019](#stelzner2019)] [**Faster Attend-Infer-Repeat with Tractable Probabilistic Models**](http://proceedings.mlr.press/v97/stelzner19a/stelzner19a.pdf) *ICML 2019* [`applications`](#applications)
    - [[Shao2019](#shao2019)] [**Conditional Sum-Product Networks: Imposing Structure on Deep Probabilistic Architectures**](https://arxiv.org/pdf/1905.08550.pdf) *preprint* [`modeling`](#modeling)
+   - [[Vergari2019](#vergari2019)] [**Automatic Bayesian Density Analysis**](https://www.researchgate.net/publication/326621815_Automatic_Bayesian_Density_Analysis) *AAAI 2019* [`modeling`](#modeling)
    - [[Butz2019](#butz2019)] [**Deep Convolutional Sum-Product Networks**](https://www.aaai.org/Papers/AAAI/2019/AAAI-ButzC.3622.pdf) *AAAI 2019* [`modeling`](#modeling)
    - [[Molina2019](#molina2019)] [**SPFlow: An Easy and Extensible Library for Deep Probabilistic Learning using Sum-Product Networks**](https://arxiv.org/abs/1901.03704) *preprint* [`applications`](#applications)
    - [[Wolfshaar2019](#wolfshaar2019)] [**Deep Convolutional Sum-Product Networks for Probabilistic Image Representations**](https://arxiv.org/pdf/1902.06155.pdf) *preprint* [`modeling`](#modeling)
@@ -369,6 +370,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
+   - [[Vergari2019](#vergari2019)] [**Automatic Bayesian Density Analysis**](https://www.researchgate.net/publication/326621815_Automatic_Bayesian_Density_Analysis) `ABDA`
    - [[Shao2019](#shao2019)] [**Conditional Sum-Product Networks: Imposing Structure on Deep Probabilistic Architectures**](https://arxiv.org/pdf/1905.08550.pdf) `CSPN`
    - [[Wolfshaar2019](#wolfshaar2019)] [**Deep Convolutional Sum-Product Networks for Probabilistic Image Representations**](https://arxiv.org/pdf/1902.06155.pdf) `WickerSPN`
    - [[Butz2019](#butz2019)] [**Deep Convolutional Sum-Product Networks**](https://www.aaai.org/Papers/AAAI/2019/AAAI-ButzC.3622.pdf) `DCSPN`
@@ -608,6 +610,11 @@ International Conference on Industrial, Engineering and Other Applications of Ap
 _Butz, Cory J. and Oliveira Jhonatan S. and dos Santos André E., Teixeira, A. L. and  Poupart, P. and Kalra, A._<br/>
 **An Empirical Study of Methods for SPN Learning and Inference**<br/>
 PGM 2018</p>
+* <p id="butz2019">
+[Butz2019]<br/>
+_Butz, Cory J and Oliveira, Jhonatan S. and dos Santos,  André E. and Teixeira, André L._<br/>
+**Deep Convolutional Sum-Product Networks**<br/>
+AAAI 2019</p>
 * <p id="cheng2014">
 [Cheng2014]<br/>
 _Cheng, Wei-Chen and Kok, Stanley and Pham, Hoai Vu and Chieu, Hai Leong and Chai, Kian Ming Adam_<br/>
@@ -798,6 +805,11 @@ Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAAI 2017)</
 _Molina, Alejandro and Vergari, Antonio and Di Mauro, Nicola and Natarajan, Sriraam and Esposito, Floriana and Kersting, Kristian_<br/>
 **Mixed Sum-Product Networks: A Deep Architecture for Hybrid Domains**<br/>
 Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI 2018)</p>
+* <p id="molina2019">
+[Molina2019]<br/>
+_Molina, Alejandro and Vergari, Antonio and Stelzner, Karl and Peharz, Robert and Subramani, Pranav and Di Mauro, Nicola and Poupart, Pascal and Kersting, Kristian_<br/>
+**SPFlow: An Easy and Extensible Library for Deep Probabilistic Learning using Sum-Product Networks**<br/>
+arXiv:1901.03704</p>
 * <p id="nath2014">
 [Nath2014]<br/>
 _Nath, Aniruddh and Domingos, Pedro_<br/>
@@ -914,6 +926,11 @@ ICML 2014</p>
 _Rooshenas, Amirmohammad and Lowd, Daniel_<br/>
 **Discriminative Structure Learning of Arithmetic Circuits**<br/>
 Proceedings of the 19th International Conference on Artificial Intelligence and Statistics</p>
+* <p id="shao2019">
+[Shao2019]<br/>
+_Shao, Xiaoting and Molina, Alejandro and Vergari, Antonio and Stelzner, Karl and Peharz, Robert and Liebig, Thomas and Kersting, Kristian_<br/>
+**Conditional Sum-Product Networks: Imposing Structure on Deep Probabilistic Architectures**<br/>
+arXiv:1905.08550</p>
 * <p id="sharir2018">
 [Sharir2018]<br/>
 _Sharir, Or and Shashua, Amnon_<br/>
@@ -924,6 +941,11 @@ AISTATS 2018</p>
 _Sguerra, Bruno Massoni and Cozman, Fabio G._<br/>
 **Image Classification Using Sum-Product Networks for Autonomous Flight of Micro Aerial Vehicles**<br/>
 BRACIS 2016 - 5th Brazilian Conference on Intelligent Systems</p>
+* <p id="stelzner2019">
+[Stelzner2019]<br/>
+_Stelzner, Karl and Peharz, Robert and Kersting, Kristian_<br/>
+**Faster Attend-Infer-Repeat with Tractable Probabilistic Models**<br/>
+ICML 2019</p>
 * <p id="stuhlmueller2012">
 [Stuhlmueller2012]<br/>
 _Stuhlmuller, Andreas and Goodman, Noah D._<br/>
@@ -964,11 +986,21 @@ Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI 2018)</
 _Vergari, Antonio and Di Mauro, Nicola and Esposito, Floriana_<br/>
 **Visualizing and Understanding Sum-Product Networks**<br/>
 Machine Learning Journal</p>
+* <p id="vergari2019">
+[Vergari2019]<br/>
+_Vergari, Antonio and Molina, Alejandro and Peharz, Robert and Ghahramani, Zoubin and Kersting, Kristian and Valera, Isabel_<br/>
+**Automatic Bayesian Density Analysis**<br/>
+Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019)</p>
 * <p id="wang2015">
   [Wang2015]<br/>
 _Wang, Jinghua and Wang, Gang_<br/>
 **Hierarchical Spatial Sum-Product Networks for action recognition in Still Images**<br/>
 arXiv:1511.05292</p>
+* <p id="wolfshaar2019">
+[Wolfshaar2019]<br/>
+_van de Wolfshaar, Jos and Pronobix, Andrzej_ <br/>
+**Deep Convolutional Sum-Product Networks for Probabilistic Image Representations**<br/>
+arXiv:1902.06155</p>
 * <p id="yuan2016">
   [Yuan2016]<br/>
 _Zehuan Yuan and Hao Wang and Limin Wang and Tong Lu and Shivakumara Palaiahnakote and Chew Lim Tan_<br/>
@@ -999,28 +1031,4 @@ NIPS 2017</p>
 _Zheng, Kaiyu and Pronobis, Andrzej and Rao, Rajesh P.N._<br/>
 **Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps**<br/>
 AAAI 2018</p>
-* <p id="butz2019">
-[Butz2019]<br/>
-_Butz, Cory J and Oliveira, Jhonatan S. and dos Santos,  André E. and Teixeira, André L._<br/>
-**Deep Convolutional Sum-Product Networks**<br/>
-AAAI 2019</p>
-* <p id="molina2019">
-[Molina2019]<br/>
-_Molina, Alejandro and Vergari, Antonio and Stelzner, Karl and Peharz, Robert and Subramani, Pranav and Di Mauro, Nicola and Poupart, Pascal and Kersting, Kristian_<br/>
-**SPFlow: An Easy and Extensible Library for Deep Probabilistic Learning using Sum-Product Networks**<br/>
-arXiv:1901.03704</p>
-* <p id="wolfshaar2019">
-[Wolfshaar2019]<br/>
-_van de Wolfshaar, Jos and Pronobix, Andrzej_ <br/>
-**Deep Convolutional Sum-Product Networks for Probabilistic Image Representations**<br/>
-arXiv:1902.06155</p>
-* <p id="shao2019">
-[Shao2019]<br/>
-_Shao, Xiaoting and Molina, Alejandro and Vergari, Antonio and Stelzner, Karl and Peharz, Robert and Liebig, Thomas and Kersting, Kristian_<br/>
-**Conditional Sum-Product Networks: Imposing Structure on Deep Probabilistic Architectures**<br/>
-arXiv:1905.08550</p>
-* <p id="stelzner2019">
-[Stelzner2019]<br/>
-_Stelzner, Karl and Peharz, Robert and Kersting, Kristian_<br/>
-**Faster Attend-Infer-Repeat with Tractable Probabilistic Models**<br/>
-ICML 2019</p>
+
