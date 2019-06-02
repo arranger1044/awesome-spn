@@ -55,6 +55,8 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2019
+   - [[Trapp2019](#trapp2019)]
+     [**Bayesian Learning of Sum-Product Networks**](https://arxiv.org/abs/1905.10884) *preprint* [`structure-learning`](#structure-learning) 
    - [[Tan2019](#tan2019)]
      [**Hierarchical Decompositional Mixtures of Variational Autoencoders**](http://proceedings.mlr.press/v97/tan19b/tan19b.pdf) *ICML 2019* [`modeling`](#modeling)
    - [[Peharz2019](#peharz2019)]
@@ -317,6 +319,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Structure Learning
 
+   - [[Trapp2019](#trapp2019)]
+     [**Bayesian Learning of Sum-Product Networks**](https://arxiv.org/abs/1905.10884) `bayesian nonparametric structure learning` 
    - [[Bueff2018](#bueff2018)]
      [**Tractable Querying and Learning in Hybrid Domains via Sum-Product Networks**](https://arxiv.org/abs/1807.05464) `WMI-SPN`
    - [[Rashwan2018b](#rashwan2018b)]
@@ -974,6 +978,11 @@ UAI 2017</p>
 _Trapp, Martin and Peharz, Robert and Rasmussen, Carl and Pernkopf, Franz_<br/>
 **Learning Deep Mixtures of Gaussian Process Experts Using Sum-Product Networks**<br/>
 Workshop on Tractable Probabilistic Models</p>
+* <p id="trapp2019">
+[Trapp2019]<br/>
+_Trapp, Martin and Peharz, Robert and Ge, Hong and Pernkopf, Franz and Ghahramani, Zoubin_<br/>
+**Bayesian Learning of Sum-Product Networks**<br/>
+arxiv:1905.10884</p>
 * <p id="vergari2015">
 [Vergari2015]<br/>
 _Vergari, Antonio and Di Mauro, Nicola and Esposito, Floriana_<br/>
