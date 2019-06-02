@@ -56,7 +56,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2019
    - [[Peharz2019](#peharz2019)]
-     [**Random Sum-Product Networks: A Simple and Effective Approach to Probabilistic Deep Learning**](https://arxiv.org/abs/1806.01910) *UAI 2019* [`modeling`](#modeling)
+     [**Random Sum-Product Networks: A Simple and Effective Approach to Probabilistic Deep Learning**](https://arxiv.org/abs/1806.01910) *UAI 2019* [`modeling`](#modeling) [`weight learning`](#weight-learning)
    - [[Stelzner2019](#stelzner2019)] [**Faster Attend-Infer-Repeat with Tractable Probabilistic Models**](http://proceedings.mlr.press/v97/stelzner19a/stelzner19a.pdf) *ICML 2019* [`applications`](#applications)
    - [[Shao2019](#shao2019)] [**Conditional Sum-Product Networks: Imposing Structure on Deep Probabilistic Architectures**](https://arxiv.org/pdf/1905.08550.pdf) *preprint* [`modeling`](#modeling)
    - [[Vergari2019](#vergari2019)] [**Automatic Bayesian Density Analysis**](https://www.researchgate.net/publication/326621815_Automatic_Bayesian_Density_Analysis) *AAAI 2019* [`modeling`](#modeling)
@@ -81,9 +81,7 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Conaty2018](#conaty2018)]
      [**Cascading Sum-Product Networks using Robustness**](http://pgm2018.utia.cz/data/proc/conaty18a.pdf) *PGM 2018*  [`applications`](#applications)
    - [[Joshi2018](#joshi2018)]
-     [**Exact, Tractable Inference in the Sigma Cognitive Architecture via Sum-Product Networks**](http://www.cogsys.org/papers/ACSvol6/article08.pdf) *Advances in Cognitive Systems 2018*  [`applications`](#applications)
-   - [[Peharz2018](#peharz2018)]
-     [**Probabilistic Deep Learning using Random Sum-Product Networks**](https://arxiv.org/abs/1806.01910) *arXiv preprint* [`weight-learning`](#weight-learning) [`modeling`](#modeling)
+     [**Exact, Tractable Inference in the Sigma Cognitive Architecture via Sum-Product Networks**](http://www.cogsys.org/papers/ACSvol6/article08.pdf) *Advances in Cognitive Systems 2018*  [`applications`](#applications
    - [[Ratajczak2018](#ratajczak2018)]
      [**Sum-Product Networks for Sequence Labeling**](https://arxiv.org/abs/1807.02324) *arXiv preprint* [`applications`](#applications) [`modeling`](#modeling)
    - [[Butz2018b](#butz2018b)]
@@ -286,10 +284,10 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Weight Learning
 
+   - [[Peharz2019](#peharz2019)]
+     [**Random Sum-Product Networks: A Simple and Effective Approach to Probabilistic Deep Learning**](https://arxiv.org/abs/1806.01910) `RAT-SPNs`
    - [[Rashwan2018a](#rashwan2018a)]
      [**Discriminative Training of Sum-Product Networks by Extended Baum-Welch**](http://pgm2018.utia.cz/data/proc/rashwan18a.pdf) `EBW SPN`
-   - [[Peharz2018](#peharz2018)]
-     [**Probabilistic Deep Learning using Random Sum-Product Networks**](https://arxiv.org/abs/1806.01910) `RAT-SPNs`
    - [[Trapp2017](#trapp2017)] 
      [**Safe Semi-Supervised Learning of Sum-Product Networks**]() `semi supervised`
    - [[Zhao2017](#zhao2017)] 
