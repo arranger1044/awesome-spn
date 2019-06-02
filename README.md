@@ -55,7 +55,8 @@ Sorted by [year](#year) or [topics](#topics)
 ### Year
 
 #### 2019
-
+   - [[Peharz2019](#peharz2019)]
+     [**Random Sum-Product Networks: A Simple and Effective Approach to Probabilistic Deep Learning**](https://arxiv.org/abs/1806.01910) *UAI 2019* [`modeling`](#modeling)
    - [[Stelzner2019](#stelzner2019)] [**Faster Attend-Infer-Repeat with Tractable Probabilistic Models**](http://proceedings.mlr.press/v97/stelzner19a/stelzner19a.pdf) *ICML 2019* [`applications`](#applications)
    - [[Shao2019](#shao2019)] [**Conditional Sum-Product Networks: Imposing Structure on Deep Probabilistic Architectures**](https://arxiv.org/pdf/1905.08550.pdf) *preprint* [`modeling`](#modeling)
    - [[Vergari2019](#vergari2019)] [**Automatic Bayesian Density Analysis**](https://www.researchgate.net/publication/326621815_Automatic_Bayesian_Density_Analysis) *AAAI 2019* [`modeling`](#modeling)
@@ -370,6 +371,8 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### Modeling
 
+   - [[Peharz2019](#peharz2019)]
+     [**Random Sum-Product Networks: A Simple and Effective Approach to Probabilistic Deep Learning**](https://arxiv.org/abs/1806.01910) `RAT-SPNs`
    - [[Vergari2019](#vergari2019)] [**Automatic Bayesian Density Analysis**](https://www.researchgate.net/publication/326621815_Automatic_Bayesian_Density_Analysis) `ABDA`
    - [[Shao2019](#shao2019)] [**Conditional Sum-Product Networks: Imposing Structure on Deep Probabilistic Architectures**](https://arxiv.org/pdf/1905.08550.pdf) `CSPN`
    - [[Wolfshaar2019](#wolfshaar2019)] [**Deep Convolutional Sum-Product Networks for Probabilistic Image Representations**](https://arxiv.org/pdf/1902.06155.pdf) `WickerSPN`
@@ -377,8 +380,6 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Jaini2018b](#jaini2018b)] [**Deep Homogeneous Mixture Models: Representation, Separation, and Approximation**](http://papers.nips.cc/paper/7944-deep-homogeneous-mixture-models-representation-separation-and-approximation) `SPN-CG`
    - [[Ko2018](#ko2018)] [**Deep Compression of Sum-Product Networks on Tensor Networks**](https://arxiv.org/abs/1811.03963) `tSPN`
    - [[Trapp2018](#trapp2018)] [**Learning Deep Mixtures of Gaussian Process Experts Using Sum-Product Networks**](https://www.researchgate.net/publication/327621399_Learning_Deep_Mixtures_of_Gaussian_Process_Experts_Using_Sum-Product_Networks) `SPN-GP`
-   - [[Peharz2018](#peharz2018)]
-     [**Probabilistic Deep Learning using Random Sum-Product Networks**](https://arxiv.org/abs/1806.01910) `RAT-SPNs`
    - [[Ratajczak2018](#ratajczak2018)]
      [**Sum-Product Networks for Sequence Labeling**](https://arxiv.org/abs/1807.02324) `SPN-HO-LC-CRF` `SPN-HO-MEMM`
    - [[Zheng2018](#zheng2018)]
@@ -860,11 +861,11 @@ PhD Thesis</p>
 _Robert Peharz and Robert Gens and Franz Pernkopf and Pedro Domingos_<br/>
 **On the Latent Variable Interpretation in Sum-Product Networks**<br/>
 arxiv.org/abs/1601.06180</p>
-* <p id="peharz2018">
-[Peharz2018]<br/>
-_Robert Peharz and Antonio Vergari and Karl Stelzner and Alejandro Molina and Martin Trapp and Kristian Kersting and Zoubin Ghahramani_<br/>
-**Probabilistic Deep Learning using Random Sum-Product Networks**<br/>
-arxiv.org/abs/1806.01910</p>
+* <p id="peharz2019">
+[Peharz2019]<br/>
+_Robert Peharz and Antonio Vergari and Karl Stelzner and Alejandro Molina and Martin Trapp and Xiaoting Shao and  Kristian Kersting and Zoubin Ghahramani_<br/>
+**Random Sum-Product Networks: A Simple and Effective Approach to Probabilistic Deep Learning**<br/>
+UAI 2019</p>
 * <p id="poon2011">
 [Poon2011]<br/>
 _Poon, Hoifung and Domingos, Pedro_<br/>
