@@ -537,6 +537,7 @@ Sorted by [year](#year) or [topics](#topics)
    - [[Mai2018](#mei2018)] [**MAP inference**](https://github.com/shtechair/maxspn) routines and experiments in  `Go` 
    - [[Vergari2018](#vergari2018)] [**SPAE**](https://github.com/arranger1044/spae) encoding and decoding embeddings from SPNs in `python3`
    - [[Molina2018](#molina2018)] [**MSPN**](https://github.com/alejandromolinaml/MSPN) learning SPNs in hybrid domains in `python3` 
+   - [[Zheng2018](#zheng2018)] [**GraphSPN**](https://github.com/zkytony/graphspn) a general framework for probabilistic structured prediction. `python3`
    - [[DiMauro2017](#dimauro2017)] [**alt-vs-spyn**](https://github.com/fabriziov/alt-vs-spyn) `dockerized` `python3` implementation of structure learning variants
    - [[Desana2017](#desana2017)] [**SPGM**](https://github.com/ocarinamat/SumProductGraphMod) implementation in `C++`
    - [[Pronobis2017b](#pronobis2017b)] [**LibSPN**](http://www.libspn.org/) tensorflow implementation with bindings in `python3`
