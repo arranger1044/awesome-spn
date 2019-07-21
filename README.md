@@ -586,8 +586,8 @@ Sorted by [year](#year) or [topics](#topics)
      [[Poon2011](#poon2011)] _2011_
 
 ### Blog Posts
-   - Jos van de Wolfshaar [**Tensor-Based Sum-Product Networks: Part I**](http://jostosh.github.io/spn01/). An introduction to Sum-Product Networks. First of a series of posts on these relatively unknown probabilistic models.
-   - Jos van de Wolfshaar [**Tensor-Based Sum-Product Networks: Part II**](http://jostosh.github.io/spn02/). Layer-based implementations of Sum-Product Networks with TensorFlow.
+   - [**Tensor-Based Sum-Product Networks: Part I**](http://jostosh.github.io/spn01/), _Jos van de Wolfshaar_, June 11, 2019. An introduction to Sum-Product Networks. First of a series of posts on these relatively unknown probabilistic models.
+   - [**Tensor-Based Sum-Product Networks: Part II**](http://jostosh.github.io/spn02/), _Jos van de Wolfshaar_, July 10, 2019. Layer-based implementations of Sum-Product Networks with TensorFlow.
 
 ## References
 
