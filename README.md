@@ -36,6 +36,7 @@ are very welcome!
         * [Modeling](#modeling)
         * [Applications](#applications)
         * [Theory](#theory)
+        * [Hardware] (#hardware)
    * [Related Works](#related-works) 
       * [Arithmetic Circuits](#arithmetic-circuits)
       * [Other TPMs](#other-tpms)
@@ -72,6 +73,7 @@ Sorted by [year](#year) or [topics](#topics)
 
    - [[Jaini2018b](#jaini2018b)] [**Deep Homogeneous Mixture Models: Representation, Separation, and Approximation**](http://papers.nips.cc/paper/7944-deep-homogeneous-mixture-models-representation-separation-and-approximation) *NeurIPS 2018* [`modeling`](#modeling)
    - [[Ko2018](#ko2018)] [**Deep Compression of Sum-Product Networks on Tensor Networks**](https://arxiv.org/abs/1811.03963) *preprint* [`modeling`](#modeling)
+   - [[Sommer2018](#sommer2018)] [**Automatic Mapping of the Sum-Product Network Inference Problem to FPGA-Based Accelerators**](https://ieeexplore.ieee.org/document/8615710) *ICCD2018* [`hardware`](#hardware)
    - [[Trapp2018](#trapp2018)] [**Learning Deep Mixtures of Gaussian Process Experts Using Sum-Product Networks**](https://www.researchgate.net/publication/327621399_Learning_Deep_Mixtures_of_Gaussian_Process_Experts_Using_Sum-Product_Networks) *Workshop on Tractable Probabilistic Models* [`modeling`](#modeling)
    - [[Vergari2018b](#vergari2018b)] [**Visualizing and Understanding Sum-Product Networks**](https://arxiv.org/abs/1608.08266) *Machine Learning Journal* [`representation learning`](#representation-learning)
    - [[Bueff2018](#bueff2018)]
@@ -493,6 +495,10 @@ Sorted by [year](#year) or [topics](#topics)
      [**On the Expressive Efficiency of Sum Product Networks**](http://arxiv.org/abs/1411.7717) `depth`
    - [[Delalleau2011](#dellaleau2011)]
      [**Shallow vs. Deep Sum-Product Networks**](http://papers.nips.cc/paper/4350-shallow-vs-deep-sum-product-networks.pdf)     `depth`
+
+#### Hardware
+
+  - [[Sommer2018](#sommer2018)] [**Automatic Mapping of the Sum-Product Network Inference Problem to FPGA-Based Accelerators**](https://ieeexplore.ieee.org/document/8615710) `FPGA`
 	 
 
 ## Related Works
@@ -958,6 +964,11 @@ ICML 2019</p>
 _Stuhlmuller, Andreas and Goodman, Noah D._<br/>
 **A Dynamic Programming Algorithm for Inference in Recursive Probabilistic Programs**<br/>
 StaRAI 2012</p>
+* <p id="sommer2018">
+[Sommer2018]<br/>
+_Sommer, Lukas and Oppermann, Julian and Molina, Alejandro and Binnig, Carsten and Kersting, Kristian and Koch, Andreas_<br/>
+**Automatic Mapping of the Sum-Product Network Inference Problem to FPGA-Based Accelerators**<br/>
+ICCD 2018</p>
 * <p id="tan2019">
 [Tan2019]<br/>
 _Tan, Ping Liang, and Peharz, Robert_<br/>
