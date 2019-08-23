@@ -36,7 +36,7 @@ are very welcome!
         * [Modeling](#modeling)
         * [Applications](#applications)
         * [Theory](#theory)
-        * [Hardware] (#hardware)
+        * [Hardware](#hardware)
    * [Related Works](#related-works) 
       * [Arithmetic Circuits](#arithmetic-circuits)
       * [Other TPMs](#other-tpms)
