@@ -580,6 +580,7 @@ Sorted by [year](#year) or [topics](#topics)
    - Hernàndez-Lobato, J. M. [**An Introduction to Sum-Product Networks**](https://jmhldotorg.files.wordpress.com/2013/11/slidescambridgesumproductnetworks2013.pdf) _2013_  
    - Gens, R. [**Learning the Structure of Sum-Product Networks**](http://spn.cs.washington.edu/talks/Gens_SLSPN_ICML2013.pdf)
      [[Gens2013](#gens2013)] _2013_  
+   - Gens, R.  [**Discriminative Learning of Sum-Product Networks**](http://videolectures.net/nips2012_gens_discriminative_learning/) [[Gens2012]](#gens2012) _2012_
    - Poon,
      H. [**Sum-Product Networks: A New Deep Architecture**](http://spn.cs.washington.edu/talks/spn11.pdf)
      [[Poon2011](#poon2011)] _2011_
