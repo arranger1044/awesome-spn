@@ -56,7 +56,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2019
    - [[Trapp2019](#trapp2019)]
-     [**Bayesian Learning of Sum-Product Networks**](https://arxiv.org/abs/1905.10884) *NeurIPS 2019* [`structure-learning`](#structure-learning) 
+     [**Bayesian Learning of Sum-Product Networks**](https://papers.nips.cc/paper/8864-bayesian-learning-of-sum-product-networks.pdf) *NeurIPS 2019* [`structure-learning`](#structure-learning) 
    - [[Tan2019](#tan2019)]
      [**Hierarchical Decompositional Mixtures of Variational Autoencoders**](http://proceedings.mlr.press/v97/tan19b/tan19b.pdf) *ICML 2019* [`modeling`](#modeling)
    - [[Peharz2019](#peharz2019)]
