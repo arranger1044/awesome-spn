@@ -20,6 +20,7 @@ are very welcome!
 
    * [Papers](#papers)
       * [Year](#year)
+        * [2020](#2020)
         * [2019](#2019)
         * [2018](#2018)
         * [2017](#2017)
@@ -30,6 +31,7 @@ are very welcome!
         * [2012](#2012)
         * [2011](#2011)
       * [Topic](#topics)
+        * [Survey](#survey)
         * [Weight Learning](#weight-learning)
         * [Structure Learning](#structure-learning)
         * [Representation Learning](#representation-learning)
@@ -55,6 +57,10 @@ are very welcome!
 Sorted by [year](#year) or [topics](#topics) 
 
 ### Year
+
+#### 2020
+   - [[Paris2020](#paris2020)]
+     [**Sum-product networks: A survey**](https://arxiv.org/abs/2004.01167) *preprint* [`survey`](#survey)
 
 #### 2019
    - [[Trapp2019](#trapp2019)]
@@ -289,6 +295,10 @@ Sorted by [year](#year) or [topics](#topics)
 ### Topics
 
 
+#### Survey
+   - [[Paris2020](#paris2020)]
+     [**Sum-product networks: A survey**](https://arxiv.org/abs/2004.01167) `survey`
+     
 #### Weight Learning
 
    - [[Peharz2019](#peharz2019)]
@@ -850,6 +860,11 @@ Proceedings of the 30th AAAI Conference on Artificial Intelligence (AAAI 2016)</
 _Niepert, Mathias and Domingos, Pedro_<br/>
 **Learning and Inference in Tractable Probabilistic Knowledge Bases**<br/>
 UAI 2015</p>
+* <p id="paris2020">
+[Paris2020]<br/>
+_París, Iago and Sánchez-Cauce, Raquel and Díez, Francisco Javier_<br/>
+**Sum-product networks: A survey**<br/>
+arXiv:2004.01167</p>
 * <p id="peharz2013">
 [Peharz2013]<br/>
 _Peharz, Robert and Geiger, Bernhard and Pernkopf, Franz_<br/>
