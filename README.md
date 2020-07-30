@@ -44,7 +44,8 @@ are very welcome!
       * [Dataset](#dataset)
       * [Code](#code)
       * [Talks and Tutorials](#talks-and-tutorials)
-      
+      * [Blog posts](#blog-posts)
+
    * [References](#resources)
         
 
@@ -584,7 +585,10 @@ Sorted by [year](#year) or [topics](#topics)
    - Poon,
      H. [**Sum-Product Networks: A New Deep Architecture**](http://spn.cs.washington.edu/talks/spn11.pdf)
      [[Poon2011](#poon2011)] _2011_
-  
+
+### Blog Posts
+   - [**Tensor-Based Sum-Product Networks: Part I**](http://jostosh.github.io/spn01/), _Jos van de Wolfshaar_, June 11, 2019. 
+   - [**Tensor-Based Sum-Product Networks: Part II**](http://jostosh.github.io/spn02/), _Jos van de Wolfshaar_, July 10, 2019.
 
 ## References
 
