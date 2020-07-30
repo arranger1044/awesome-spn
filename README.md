@@ -58,7 +58,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 #### 2019
    - [[Trapp2019](#trapp2019)]
-     [**Bayesian Learning of Sum-Product Networks**](https://arxiv.org/abs/1905.10884) *preprint* [`structure-learning`](#structure-learning) 
+     [**Bayesian Learning of Sum-Product Networks**](https://papers.nips.cc/paper/8864-bayesian-learning-of-sum-product-networks.pdf) *NeurIPS 2019* [`structure-learning`](#structure-learning) 
    - [[Tan2019](#tan2019)]
      [**Hierarchical Decompositional Mixtures of Variational Autoencoders**](http://proceedings.mlr.press/v97/tan19b/tan19b.pdf) *ICML 2019* [`modeling`](#modeling)
    - [[Peharz2019](#peharz2019)]
@@ -323,7 +323,7 @@ Sorted by [year](#year) or [topics](#topics)
 #### Structure Learning
 
    - [[Trapp2019](#trapp2019)]
-     [**Bayesian Learning of Sum-Product Networks**](https://arxiv.org/abs/1905.10884) `bayesian nonparametric structure learning` 
+     [**Bayesian Learning of Sum-Product Networks**](https://papers.nips.cc/paper/8864-bayesian-learning-of-sum-product-networks.pdf) `bayesian structure learning` 
    - [[Bueff2018](#bueff2018)]
      [**Tractable Querying and Learning in Hybrid Domains via Sum-Product Networks**](https://arxiv.org/abs/1807.05464) `WMI-SPN`
    - [[Rashwan2018b](#rashwan2018b)]
@@ -540,6 +540,7 @@ Sorted by [year](#year) or [topics](#topics)
 
 ### Code
 
+   - [[Trapp2019](#trapp2019)] [**BayesianSumProductNetworks.jl**](https://github.com/trappmartin/BayesianSumProductNetworks) Julia implementation of Bayesian structure and parameter learning. 
    - [[Molina2019](#molina2019)] [**SPFlow**](https://github.com/SPFlow/SPFlow) an open-source Python library providing a simple interface to inference, learning, and manipulation routines for SPNs `python3`
    - [[Mai2018](#mei2018)] [**MAP inference**](https://github.com/shtechair/maxspn) routines and experiments in  `Go` 
    - [[Vergari2018](#vergari2018)] [**SPAE**](https://github.com/arranger1044/spae) encoding and decoding embeddings from SPNs in `python3`
@@ -999,7 +1000,7 @@ Workshop on Tractable Probabilistic Models</p>
 [Trapp2019]<br/>
 _Trapp, Martin and Peharz, Robert and Ge, Hong and Pernkopf, Franz and Ghahramani, Zoubin_<br/>
 **Bayesian Learning of Sum-Product Networks**<br/>
-arxiv:1905.10884</p>
+NeurIPS 2019</p>
 * <p id="vergari2015">
 [Vergari2015]<br/>
 _Vergari, Antonio and Di Mauro, Nicola and Esposito, Floriana_<br/>
