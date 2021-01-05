@@ -1,4 +1,10 @@
-># Awesome Sum-Product Networks
+# Discontinued
+
+**awesome-spn** has been **discontinued** as of 01/01/2021!
+
+Please visit and contribute to the [website](https://arranger1044.github.io/probabilistic-circuits/) and [repo](https://github.com/arranger1044/probabilistic-circuits/) on **probabilistic circuits**
+
+# Awesome Sum-Product Networks
 
 **awesome-spn** is a curated and structured list of resources about
 *Sum-Product Networks* (SPNs), tractable deep density estimators.
